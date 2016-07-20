@@ -4,4 +4,4 @@ Este é o repositório de dados da agência de jornalismo de dados Volt Data Lab
 
 Todos os dados aqui são de uso livre, sem necessidade de pedir permissão para sua utilização. 
 
-Siga o Volt no [Twitter](www.twitter.com/voltdatalab) e no [Facebook](www.facebook.com/voltdata)
+Siga o Volt no [Twitter](http://twitter.com/voltdatalab) e no [Facebook](http://facebook.com/voltdata)
