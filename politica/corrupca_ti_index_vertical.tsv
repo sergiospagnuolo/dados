@@ -1,147 +1,147 @@
-ano	index	pais
-01/01/1995	27	Brasil
-01/01/1996	30	Brasil
-01/01/1997	36	Brasil
-01/01/1998	40	Brasil
-01/01/1999	41	Brasil
-01/01/2000	39	Brasil
-01/01/2001	40	Brasil
-01/01/2002	40	Brasil
-01/01/2003	39	Brasil
-01/01/2004	39	Brasil
-01/01/2005	37	Brasil
-01/01/2006	33	Brasil
-01/01/2007	35	Brasil
-01/01/2008	35	Brasil
-01/01/2009	37	Brasil
-01/01/2010	37	Brasil
-01/01/2011	38	Brasil
-01/01/2012	43	Brasil
-01/01/2013	42	Brasil
-01/01/2014	43	Brasil
-01/01/2015	38	Brasil
-01/01/1995	22	China
-01/01/1996	24	China
-01/01/1997	29	China
-01/01/1998	35	China
-01/01/1999	34	China
-01/01/2000	31	China
-01/01/2001	35	China
-01/01/2002	35	China
-01/01/2003	34	China
-01/01/2004	34	China
-01/01/2005	32	China
-01/01/2006	33	China
-01/01/2007	35	China
-01/01/2008	36	China
-01/01/2009	36	China
-01/01/2010	35	China
-01/01/2011	36	China
-01/01/2012	39	China
-01/01/2013	40	China
-01/01/2014	36	China
-01/01/2015	37	China
-01/01/1995	28	Índia
-01/01/1996	26	Índia
-01/01/1997	28	Índia
-01/01/1998	29	Índia
-01/01/1999	29	Índia
-01/01/2000	28	Índia
-01/01/2001	27	Índia
-01/01/2002	27	Índia
-01/01/2003	28	Índia
-01/01/2004	28	Índia
-01/01/2005	29	Índia
-01/01/2006	33	Índia
-01/01/2007	35	Índia
-01/01/2008	34	Índia
-01/01/2009	34	Índia
-01/01/2010	33	Índia
-01/01/2011	31	Índia
-01/01/2012	36	Índia
-01/01/2013	36	Índia
-01/01/2014	38	Índia
-01/01/2015	38	Índia
-01/01/1995	32	México
-01/01/1996	33	México
-01/01/1997	27	México
-01/01/1998	33	México
-01/01/1999	34	México
-01/01/2000	33	México
-01/01/2001	37	México
-01/01/2002	36	México
-01/01/2003	36	México
-01/01/2004	36	México
-01/01/2005	35	México
-01/01/2006	33	México
-01/01/2007	35	México
-01/01/2008	36	México
-01/01/2009	33	México
-01/01/2010	31	México
-01/01/2011	30	México
-01/01/2012	34	México
-01/01/2013	34	México
-01/01/2014	35	México
-01/01/2015	35	México
-01/01/1996	26	Rússia
-01/01/1997	23	Rússia
-01/01/1998	24	Rússia
-01/01/1999	24	Rússia
-01/01/2000	21	Rússia
-01/01/2001	23	Rússia
-01/01/2002	27	Rússia
-01/01/2003	27	Rússia
-01/01/2004	28	Rússia
-01/01/2005	24	Rússia
-01/01/2006	25	Rússia
-01/01/2007	23	Rússia
-01/01/2008	21	Rússia
-01/01/2009	22	Rússia
-01/01/2010	21	Rússia
-01/01/2011	24	Rússia
-01/01/2012	28	Rússia
-01/01/2013	28	Rússia
-01/01/2014	27	Rússia
-01/01/2015	29	Rússia
-01/01/1995	41	Turquia
-01/01/1996	35	Turquia
-01/01/1997	32	Turquia
-01/01/1998	34	Turquia
-01/01/1999	36	Turquia
-01/01/2000	38	Turquia
-01/01/2001	36	Turquia
-01/01/2002	32	Turquia
-01/01/2003	31	Turquia
-01/01/2004	32	Turquia
-01/01/2005	35	Turquia
-01/01/2006	38	Turquia
-01/01/2007	41	Turquia
-01/01/2008	46	Turquia
-01/01/2009	44	Turquia
-01/01/2010	44	Turquia
-01/01/2011	42	Turquia
-01/01/2012	49	Turquia
-01/01/2013	50	Turquia
-01/01/2014	45	Turquia
-01/01/2015	42	Turquia
-01/01/1995	24	Média
-01/01/1996	29	Média
-01/01/1997	28	Média
-01/01/1998	31	Média
-01/01/1999	31	Média
-01/01/2000	30	Média
-01/01/2001	32	Média
-01/01/2002	31	Média
-01/01/2003	31	Média
-01/01/2004	32	Média
-01/01/2005	31	Média
-01/01/2006	32	Média
-01/01/2007	34	Média
-01/01/2008	35	Média
-01/01/2009	34	Média
-01/01/2010	33	Média
-01/01/2011	33	Média
-01/01/2012	37	Média
-01/01/2013	38	Média
-01/01/2014	36	Média
-01/01/2015	36	Média
+ano	data	index	label	pais
+1995	01/01/1995	27	Brasil	Brasil
+1996	01/01/1996	30	Brasil	Brasil
+1997	01/01/1997	36	Brasil	Brasil
+1998	01/01/1998	40	Brasil	Brasil
+1999	01/01/1999	41	Brasil	Brasil
+2000	01/01/2000	39	Brasil	Brasil
+2001	01/01/2001	40	Brasil	Brasil
+2002	01/01/2002	40	Brasil	Brasil
+2003	01/01/2003	39	Brasil	Brasil
+2004	01/01/2004	39	Brasil	Brasil
+2005	01/01/2005	37	Brasil	Brasil
+2006	01/01/2006	33	Brasil	Brasil
+2007	01/01/2007	35	Brasil	Brasil
+2008	01/01/2008	35	Brasil	Brasil
+2009	01/01/2009	37	Brasil	Brasil
+2010	01/01/2010	37	Brasil	Brasil
+2011	01/01/2011	38	Brasil	Brasil
+2012	01/01/2012	43	Brasil	Brasil
+2013	01/01/2013	42	Brasil	Brasil
+2014	01/01/2014	43	Brasil	Brasil
+2015	01/01/2015	38	Brasil	Brasil
+1995	01/01/1995	22	China	China
+1996	01/01/1996	24	China	China
+1997	01/01/1997	29	China	China
+1998	01/01/1998	35	China	China
+1999	01/01/1999	34	China	China
+2000	01/01/2000	31	China	China
+2001	01/01/2001	35	China	China
+2002	01/01/2002	35	China	China
+2003	01/01/2003	34	China	China
+2004	01/01/2004	34	China	China
+2005	01/01/2005	32	China	China
+2006	01/01/2006	33	China	China
+2007	01/01/2007	35	China	China
+2008	01/01/2008	36	China	China
+2009	01/01/2009	36	China	China
+2010	01/01/2010	35	China	China
+2011	01/01/2011	36	China	China
+2012	01/01/2012	39	China	China
+2013	01/01/2013	40	China	China
+2014	01/01/2014	36	China	China
+2015	01/01/2015	37	China	China
+1995	01/01/1995	28	Índia	India
+1996	01/01/1996	26	Índia	India
+1997	01/01/1997	28	Índia	India
+1998	01/01/1998	29	Índia	India
+1999	01/01/1999	29	Índia	India
+2000	01/01/2000	28	Índia	India
+2001	01/01/2001	27	Índia	India
+2002	01/01/2002	27	Índia	India
+2003	01/01/2003	28	Índia	India
+2004	01/01/2004	28	Índia	India
+2005	01/01/2005	29	Índia	India
+2006	01/01/2006	33	Índia	India
+2007	01/01/2007	35	Índia	India
+2008	01/01/2008	34	Índia	India
+2009	01/01/2009	34	Índia	India
+2010	01/01/2010	33	Índia	India
+2011	01/01/2011	31	Índia	India
+2012	01/01/2012	36	Índia	India
+2013	01/01/2013	36	Índia	India
+2014	01/01/2014	38	Índia	India
+2015	01/01/2015	38	Índia	India
+1995	01/01/1995	32	México	Mexico
+1996	01/01/1996	33	México	Mexico
+1997	01/01/1997	27	México	Mexico
+1998	01/01/1998	33	México	Mexico
+1999	01/01/1999	34	México	Mexico
+2000	01/01/2000	33	México	Mexico
+2001	01/01/2001	37	México	Mexico
+2002	01/01/2002	36	México	Mexico
+2003	01/01/2003	36	México	Mexico
+2004	01/01/2004	36	México	Mexico
+2005	01/01/2005	35	México	Mexico
+2006	01/01/2006	33	México	Mexico
+2007	01/01/2007	35	México	Mexico
+2008	01/01/2008	36	México	Mexico
+2009	01/01/2009	33	México	Mexico
+2010	01/01/2010	31	México	Mexico
+2011	01/01/2011	30	México	Mexico
+2012	01/01/2012	34	México	Mexico
+2013	01/01/2013	34	México	Mexico
+2014	01/01/2014	35	México	Mexico
+2015	01/01/2015	35	México	Mexico
+1996	01/01/1996	26	Rússia	Russia
+1997	01/01/1997	23	Rússia	Russia
+1998	01/01/1998	24	Rússia	Russia
+1999	01/01/1999	24	Rússia	Russia
+2000	01/01/2000	21	Rússia	Russia
+2001	01/01/2001	23	Rússia	Russia
+2002	01/01/2002	27	Rússia	Russia
+2003	01/01/2003	27	Rússia	Russia
+2004	01/01/2004	28	Rússia	Russia
+2005	01/01/2005	24	Rússia	Russia
+2006	01/01/2006	25	Rússia	Russia
+2007	01/01/2007	23	Rússia	Russia
+2008	01/01/2008	21	Rússia	Russia
+2009	01/01/2009	22	Rússia	Russia
+2010	01/01/2010	21	Rússia	Russia
+2011	01/01/2011	24	Rússia	Russia
+2012	01/01/2012	28	Rússia	Russia
+2013	01/01/2013	28	Rússia	Russia
+2014	01/01/2014	27	Rússia	Russia
+2015	01/01/2015	29	Rússia	Russia
+1995	01/01/1995	41	Turquia	Turquia
+1996	01/01/1996	35	Turquia	Turquia
+1997	01/01/1997	32	Turquia	Turquia
+1998	01/01/1998	34	Turquia	Turquia
+1999	01/01/1999	36	Turquia	Turquia
+2000	01/01/2000	38	Turquia	Turquia
+2001	01/01/2001	36	Turquia	Turquia
+2002	01/01/2002	32	Turquia	Turquia
+2003	01/01/2003	31	Turquia	Turquia
+2004	01/01/2004	32	Turquia	Turquia
+2005	01/01/2005	35	Turquia	Turquia
+2006	01/01/2006	38	Turquia	Turquia
+2007	01/01/2007	41	Turquia	Turquia
+2008	01/01/2008	46	Turquia	Turquia
+2009	01/01/2009	44	Turquia	Turquia
+2010	01/01/2010	44	Turquia	Turquia
+2011	01/01/2011	42	Turquia	Turquia
+2012	01/01/2012	49	Turquia	Turquia
+2013	01/01/2013	50	Turquia	Turquia
+2014	01/01/2014	45	Turquia	Turquia
+2015	01/01/2015	42	Turquia	Turquia
+1995	01/01/1995	24	Média	Media
+1996	01/01/1996	29	Média	Media
+1997	01/01/1997	28	Média	Media
+1998	01/01/1998	31	Média	Media
+1999	01/01/1999	31	Média	Media
+2000	01/01/2000	30	Média	Media
+2001	01/01/2001	32	Média	Media
+2002	01/01/2002	31	Média	Media
+2003	01/01/2003	31	Média	Media
+2004	01/01/2004	32	Média	Media
+2005	01/01/2005	31	Média	Media
+2006	01/01/2006	32	Média	Media
+2007	01/01/2007	34	Média	Media
+2008	01/01/2008	35	Média	Media
+2009	01/01/2009	34	Média	Media
+2010	01/01/2010	33	Média	Media
+2011	01/01/2011	33	Média	Media
+2012	01/01/2012	37	Média	Media
+2013	01/01/2013	38	Média	Media
+2014	01/01/2014	36	Média	Media
+2015	01/01/2015	36	Média	Media
