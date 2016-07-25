@@ -1,4 +1,4 @@
-year	country	date	date	value
+year	country	date	month	value
 1996	Turkey	1996-01-01	1996-01	-0.23
 1998	Turkey	1998-01-01	1998-01	-0.58
 2000	Turkey	2000-01-01	2000-01	-0.33
