@@ -1,14 +1,27 @@
-nome,candidato,partido,datafolha,ibope
-Celso Russomanno,Russomanno,PRB,31,33
-Fernando Haddad,Haddad,PT,8,9
-Marta Suplicy,Marta,PMDB,16,17
-Luiza Erundina,Erundina,PSOL,10,9
-João Dória,Dória,PSDB,5,9
-Levy Fidelix,Fidelix,PRTB,2,1
-Olímpio,Major Olímpio,SD,2,2
-Ricardo Young,Young,Rede,1,1
-Henrique Áreas,Áreas,PCO,0,0
-João Bico,Bico,PSDC,0,1
-Altino,Altino,PSTU,0,1
-branco/nulo,branco/nulo,não carece,15,13
-não opinaram,não opinaram,não carece,7,4
+candidato,partido,value,inst
+Russomanno,PRB,31,Datafolha
+Haddad,PT,8,Datafolha
+Marta,PMDB,16,Datafolha
+Erundina,PSOL,10,Datafolha
+Dória,PSDB,5,Datafolha
+Fidelix,PRTB,2,Datafolha
+Major Olímpio,SD,2,Datafolha
+Young,Rede,1,Datafolha
+Áreas,PCO,0,Datafolha
+Bico,PSDC,0,Datafolha
+Altino,PSTU,0,Datafolha
+branco/nulo,não carece,15,Datafolha
+não opinaram,não carece,7,Datafolha
+Russomanno,PRB,33,Ibope
+Haddad,PT,9,Ibope
+Marta,PMDB,17,Ibope
+Erundina,PSOL,9,Ibope
+Dória,PSDB,9,Ibope
+Fidelix,PRTB,1,Ibope
+Major Olímpio,SD,2,Ibope
+Young,Rede,1,Ibope
+Áreas,PCO,0,Ibope
+Bico,PSDC,1,Ibope
+Altino,PSTU,1,Ibope
+branco/nulo,não carece,13,Ibope
+não opinaram,não carece,4,Ibope
