@@ -1,7 +1,7 @@
 [
 	{
 		"veiculo": "Editora Abril",
-		"jornalistas": 175
+		"jornalistas": 177
 	},
 	{
 		"veiculo": "Terra",
@@ -204,10 +204,6 @@
 		"jornalistas": 3
 	},
 	{
-		"veiculo": "Editoral Abril",
-		"jornalistas": 2
-	},
-	{
 		"veiculo": "Revista Trip",
 		"jornalistas": 2
 	},
@@ -217,6 +213,10 @@
 	},
 	{
 		"veiculo": "TV Cultura",
+		"jornalistas": 2
+	},
+	{
+		"veiculo": "Vice",
 		"jornalistas": 2
 	},
 	{
