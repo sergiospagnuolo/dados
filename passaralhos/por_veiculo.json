@@ -1,285 +1,5 @@
 [
   {
-    "veiculo": "Editora Abril",
-    "jornalistas": 175,
-    "total": 458
-  },
-  {
-    "veiculo": "Terra",
-    "jornalistas": 110,
-    "total": 310
-  },
-  {
-    "veiculo": "Estado de S. Paulo",
-    "jornalistas": 98,
-    "total": 199
-  },
-  {
-    "veiculo": "Infoglobo",
-    "jornalistas": 98,
-    "total": 500
-  },
-  {
-    "veiculo": "Folha de S. Paulo",
-    "jornalistas": 97,
-    "total": 124
-  },
-  {
-    "veiculo": "Ejesa",
-    "jornalistas": 65,
-    "total": 65
-  },
-  {
-    "veiculo": "Jornal A Tarde",
-    "jornalistas": 55,
-    "total": 240
-  },
-  {
-    "veiculo": "Bandeirantes",
-    "jornalistas": 54,
-    "total": 179
-  },
-  {
-    "veiculo": "RBS",
-    "jornalistas": 54,
-    "total": 144
-  },
-  {
-    "veiculo": "Gazeta do Povo",
-    "jornalistas": 53,
-    "total": 53
-  },
-  {
-    "veiculo": "Valor Econômico",
-    "jornalistas": 50,
-    "total": 55
-  },
-  {
-    "veiculo": "ESPN",
-    "jornalistas": 45,
-    "total": 48
-  },
-  {
-    "veiculo": "Editora Três (IstoÉ)",
-    "jornalistas": 43,
-    "total": 43
-  },
-  {
-    "veiculo": "Record",
-    "jornalistas": 43,
-    "total": 1119
-  },
-  {
-    "veiculo": "Rede TV!",
-    "jornalistas": 43,
-    "total": 232
-  },
-  {
-    "veiculo": "iG",
-    "jornalistas": 42,
-    "total": 42
-  },
-  {
-    "veiculo": "Hoje em Dia",
-    "jornalistas": 40,
-    "total": 40
-  },
-  {
-    "veiculo": "Diario de Pernambuco",
-    "jornalistas": 30,
-    "total": 100
-  },
-  {
-    "veiculo": "Lance",
-    "jornalistas": 30,
-    "total": 37
-  },
-  {
-    "veiculo": "SBT",
-    "jornalistas": 30,
-    "total": 113
-  },
-  {
-    "veiculo": "Jornal Hoje em Dia",
-    "jornalistas": 25,
-    "total": 25
-  },
-  {
-    "veiculo": "Folha de Londrina",
-    "jornalistas": 22,
-    "total": 35
-  },
-  {
-    "veiculo": "Diário do Comércio",
-    "jornalistas": 20,
-    "total": 20
-  },
-  {
-    "veiculo": "TV dos Trabalhadores",
-    "jornalistas": 17,
-    "total": 17
-  },
-  {
-    "veiculo": "Sistema Jangadeiro",
-    "jornalistas": 16,
-    "total": 25
-  },
-  {
-    "veiculo": "Jornal de Brasília",
-    "jornalistas": 15,
-    "total": 15
-  },
-  {
-    "veiculo": "Correio Braziliense",
-    "jornalistas": 12,
-    "total": 106
-  },
-  {
-    "veiculo": "Caros Amigos",
-    "jornalistas": 11,
-    "total": 11
-  },
-  {
-    "veiculo": "O Estado de Minas",
-    "jornalistas": 11,
-    "total": 11
-  },
-  {
-    "veiculo": "O Tempo",
-    "jornalistas": 11,
-    "total": 13
-  },
-  {
-    "veiculo": "ABCD Maior",
-    "jornalistas": 10,
-    "total": 10
-  },
-  {
-    "veiculo": "RIT TV",
-    "jornalistas": 10,
-    "total": 50
-  },
-  {
-    "veiculo": "Folha de Pernambuco",
-    "jornalistas": 9,
-    "total": 9
-  },
-  {
-    "veiculo": "Jovem Pan",
-    "jornalistas": 9,
-    "total": 9
-  },
-  {
-    "veiculo": "CNT Curitiba",
-    "jornalistas": 8,
-    "total": 48
-  },
-  {
-    "veiculo": "Editora Segmento",
-    "jornalistas": 8,
-    "total": 20
-  },
-  {
-    "veiculo": "Época",
-    "jornalistas": 8,
-    "total": 8
-  },
-  {
-    "veiculo": "O Vale",
-    "jornalistas": 8,
-    "total": 9
-  },
-  {
-    "veiculo": "Rede Bom Dia",
-    "jornalistas": 8,
-    "total": 8
-  },
-  {
-    "veiculo": "RIC TV",
-    "jornalistas": 8,
-    "total": 30
-  },
-  {
-    "veiculo": "105 FM",
-    "jornalistas": 7,
-    "total": 7
-  },
-  {
-    "veiculo": "A Tribuna",
-    "jornalistas": 7,
-    "total": 30
-  },
-  {
-    "veiculo": "Rádio Globo/CBN",
-    "jornalistas": 7,
-    "total": 11
-  },
-  {
-    "veiculo": "InfoMoney",
-    "jornalistas": 6,
-    "total": 9
-  },
-  {
-    "veiculo": "Grupo RAC",
-    "jornalistas": 5,
-    "total": 20
-  },
-  {
-    "veiculo": "Reuters",
-    "jornalistas": 5,
-    "total": 5
-  },
-  {
-    "veiculo": "Editora PBB",
-    "jornalistas": 4,
-    "total": 4
-  },
-  {
-    "veiculo": "O Popular",
-    "jornalistas": 4,
-    "total": 4
-  },
-  {
-    "veiculo": "Rede Brasil Amazônia de Comunicação",
-    "jornalistas": 4,
-    "total": 4
-  },
-  {
-    "veiculo": "Rádio Gaúcha",
-    "jornalistas": 3,
-    "total": 3
-  },
-  {
-    "veiculo": "Revista Piauí",
-    "jornalistas": 3,
-    "total": 3
-  },
-  {
-    "veiculo": "Editoral Abril",
-    "jornalistas": 2,
-    "total": 2
-  },
-  {
-    "veiculo": "Revista Trip",
-    "jornalistas": 2,
-    "total": 2
-  },
-  {
-    "veiculo": "TV Bahia (afiliada Globo)",
-    "jornalistas": 2,
-    "total": 37
-  },
-  {
-    "veiculo": "TV Cultura",
-    "jornalistas": 2,
-    "total": 150
-  },
-  {
-    "veiculo": "Vice",
-    "jornalistas": 2,
-    "total": 2
-  },
-  {
     "veiculo": "Diário de Natal",
     "jornalistas": 0,
     "total": 30
@@ -318,5 +38,285 @@
     "veiculo": "TV Senado",
     "jornalistas": 0,
     "total": 85
+  },
+  {
+    "veiculo": "Editoral Abril",
+    "jornalistas": 2,
+    "total": 2
+  },
+  {
+    "veiculo": "Revista Trip",
+    "jornalistas": 2,
+    "total": 2
+  },
+  {
+    "veiculo": "TV Bahia (afiliada Globo)",
+    "jornalistas": 2,
+    "total": 37
+  },
+  {
+    "veiculo": "TV Cultura",
+    "jornalistas": 2,
+    "total": 150
+  },
+  {
+    "veiculo": "Vice",
+    "jornalistas": 2,
+    "total": 2
+  },
+  {
+    "veiculo": "Rádio Gaúcha",
+    "jornalistas": 3,
+    "total": 3
+  },
+  {
+    "veiculo": "Revista Piauí",
+    "jornalistas": 3,
+    "total": 3
+  },
+  {
+    "veiculo": "Editora PBB",
+    "jornalistas": 4,
+    "total": 4
+  },
+  {
+    "veiculo": "O Popular",
+    "jornalistas": 4,
+    "total": 4
+  },
+  {
+    "veiculo": "Rede Brasil Amazônia de Comunicação",
+    "jornalistas": 4,
+    "total": 4
+  },
+  {
+    "veiculo": "Grupo RAC",
+    "jornalistas": 5,
+    "total": 20
+  },
+  {
+    "veiculo": "Reuters",
+    "jornalistas": 5,
+    "total": 5
+  },
+  {
+    "veiculo": "InfoMoney",
+    "jornalistas": 6,
+    "total": 9
+  },
+  {
+    "veiculo": "105 FM",
+    "jornalistas": 7,
+    "total": 7
+  },
+  {
+    "veiculo": "A Tribuna",
+    "jornalistas": 7,
+    "total": 30
+  },
+  {
+    "veiculo": "Rádio Globo/CBN",
+    "jornalistas": 7,
+    "total": 11
+  },
+  {
+    "veiculo": "CNT Curitiba",
+    "jornalistas": 8,
+    "total": 48
+  },
+  {
+    "veiculo": "Editora Segmento",
+    "jornalistas": 8,
+    "total": 20
+  },
+  {
+    "veiculo": "Época",
+    "jornalistas": 8,
+    "total": 8
+  },
+  {
+    "veiculo": "O Vale",
+    "jornalistas": 8,
+    "total": 9
+  },
+  {
+    "veiculo": "Rede Bom Dia",
+    "jornalistas": 8,
+    "total": 8
+  },
+  {
+    "veiculo": "RIC TV",
+    "jornalistas": 8,
+    "total": 30
+  },
+  {
+    "veiculo": "Folha de Pernambuco",
+    "jornalistas": 9,
+    "total": 9
+  },
+  {
+    "veiculo": "Jovem Pan",
+    "jornalistas": 9,
+    "total": 9
+  },
+  {
+    "veiculo": "ABCD Maior",
+    "jornalistas": 10,
+    "total": 10
+  },
+  {
+    "veiculo": "RIT TV",
+    "jornalistas": 10,
+    "total": 50
+  },
+  {
+    "veiculo": "Caros Amigos",
+    "jornalistas": 11,
+    "total": 11
+  },
+  {
+    "veiculo": "O Estado de Minas",
+    "jornalistas": 11,
+    "total": 11
+  },
+  {
+    "veiculo": "O Tempo",
+    "jornalistas": 11,
+    "total": 13
+  },
+  {
+    "veiculo": "Correio Braziliense",
+    "jornalistas": 12,
+    "total": 106
+  },
+  {
+    "veiculo": "Jornal de Brasília",
+    "jornalistas": 15,
+    "total": 15
+  },
+  {
+    "veiculo": "Sistema Jangadeiro",
+    "jornalistas": 16,
+    "total": 25
+  },
+  {
+    "veiculo": "TV dos Trabalhadores",
+    "jornalistas": 17,
+    "total": 17
+  },
+  {
+    "veiculo": "Diário do Comércio",
+    "jornalistas": 20,
+    "total": 20
+  },
+  {
+    "veiculo": "Folha de Londrina",
+    "jornalistas": 22,
+    "total": 35
+  },
+  {
+    "veiculo": "Jornal Hoje em Dia",
+    "jornalistas": 25,
+    "total": 25
+  },
+  {
+    "veiculo": "Diario de Pernambuco",
+    "jornalistas": 30,
+    "total": 100
+  },
+  {
+    "veiculo": "Lance",
+    "jornalistas": 30,
+    "total": 37
+  },
+  {
+    "veiculo": "SBT",
+    "jornalistas": 30,
+    "total": 113
+  },
+  {
+    "veiculo": "Hoje em Dia",
+    "jornalistas": 40,
+    "total": 40
+  },
+  {
+    "veiculo": "iG",
+    "jornalistas": 42,
+    "total": 42
+  },
+  {
+    "veiculo": "Editora Três (IstoÉ)",
+    "jornalistas": 43,
+    "total": 43
+  },
+  {
+    "veiculo": "Record",
+    "jornalistas": 43,
+    "total": 1119
+  },
+  {
+    "veiculo": "Rede TV!",
+    "jornalistas": 43,
+    "total": 232
+  },
+  {
+    "veiculo": "ESPN",
+    "jornalistas": 45,
+    "total": 48
+  },
+  {
+    "veiculo": "Valor Econômico",
+    "jornalistas": 50,
+    "total": 55
+  },
+  {
+    "veiculo": "Gazeta do Povo",
+    "jornalistas": 53,
+    "total": 53
+  },
+  {
+    "veiculo": "Bandeirantes",
+    "jornalistas": 54,
+    "total": 179
+  },
+  {
+    "veiculo": "RBS",
+    "jornalistas": 54,
+    "total": 144
+  },
+  {
+    "veiculo": "Jornal A Tarde",
+    "jornalistas": 55,
+    "total": 240
+  },
+  {
+    "veiculo": "Ejesa",
+    "jornalistas": 65,
+    "total": 65
+  },
+  {
+    "veiculo": "Folha de S. Paulo",
+    "jornalistas": 97,
+    "total": 124
+  },
+  {
+    "veiculo": "Estado de S. Paulo",
+    "jornalistas": 98,
+    "total": 199
+  },
+  {
+    "veiculo": "Infoglobo",
+    "jornalistas": 98,
+    "total": 500
+  },
+  {
+    "veiculo": "Terra",
+    "jornalistas": 110,
+    "total": 310
+  },
+  {
+    "veiculo": "Editora Abril",
+    "jornalistas": 175,
+    "total": 458
   }
 ]
