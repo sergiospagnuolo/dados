@@ -17,7 +17,7 @@
 	},
 	{
 		"veiculo": "Folha de S. Paulo",
-		"jornalistas": 97
+		"jornalistas": 94
 	},
 	{
 		"veiculo": "Ejesa",
@@ -82,6 +82,10 @@
 	{
 		"veiculo": "Jornal Hoje em Dia",
 		"jornalistas": 25
+	},
+	{
+		"veiculo": "Jornal do Commercio",
+		"jornalistas": 24
 	},
 	{
 		"veiculo": "Folha de Londrina",
@@ -196,6 +200,10 @@
 		"jornalistas": 4
 	},
 	{
+		"veiculo": "Correio Popular",
+		"jornalistas": 3
+	},
+	{
 		"veiculo": "Rádio Gaúcha",
 		"jornalistas": 3
 	},
@@ -213,10 +221,6 @@
 	},
 	{
 		"veiculo": "TV Cultura",
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "Vice",
 		"jornalistas": 2
 	},
 	{
