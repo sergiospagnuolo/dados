@@ -1,0 +1,28 @@
+prefeitura,funcao,sub_funcao,programa,acao,valor_liquidado,valor_empenhado,total
+São Paulo,0,0,0,0,0,0,0
+Curitiba,0,0,0,0,0,0,0
+Belo Horizonte,0,0,0,0,0,0,0
+Porto Alegre,0,0,0,0,1,0,1
+Florianópolis,1,1,1,1,1,1,6
+Rio de Janeiro,1,1,0,1,0,0,3
+Campo Grande,1,1,1,1,1,0,5
+Goiania,0,0,0,1,0,0,1
+Cuiaba,0,0,0,1,0,0,1
+Salvador,1,1,1,1,0,0,4
+Aracaju,0,0,0,0,0,0,0
+Palmas,0,0,0,0,0,0,0
+Maceio,1,1,1,1,0,0,4
+Recife,0,0,0,0,0,0,0
+João Pessoa,0,0,0,0,0,0,0
+Natal,0,1,0,0,0,0,1
+Teresina,0,0,0,0,0,0,0
+Fortaleza,0,0,1,1,0,0,2
+São Luís,1,1,1,1,1,1,6
+Porto Velho,1,1,1,1,1,1,6
+Macapa,1,1,1,1,1,1,6
+Rio Branco,1,1,0,1,1,0,4
+Brasília,1,1,1,1,0,0,4
+Vitória,1,1,1,1,0,0,4
+Belem,1,1,1,1,0,0,4
+Manaus,1,1,1,1,0,0,4
+Boa vista,1,1,1,1,0,0,4
