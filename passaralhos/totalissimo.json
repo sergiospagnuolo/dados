@@ -1,579 +1,11 @@
 [
 	{
-		"veiculo": "Reuters",
-		"midia": "Agência",
-		"mes": "2013-04-01",
-		"ano": 2013,
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2012-01-17",
+		"ano": 2012,
 		"total": 4,
 		"jornalistas": 4
-	},
-	{
-		"veiculo": "Reuters",
-		"midia": "Agência",
-		"mes": "2014-12-01",
-		"ano": 2014,
-		"total": 1,
-		"jornalistas": 1
-	},
-	{
-		"veiculo": "Jornal A Tarde",
-		"midia": "Jornal",
-		"mes": "2012-07-17",
-		"ano": 2012,
-		"total": 80,
-		"jornalistas": 20
-	},
-	{
-		"veiculo": "Diário de Natal",
-		"midia": "Jornal",
-		"mes": "2012-10-02",
-		"ano": 2012,
-		"total": 30,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Valor Econômico",
-		"midia": "Jornal",
-		"mes": "2013-05-23",
-		"ano": 2013,
-		"total": 50,
-		"jornalistas": 50
-	},
-	{
-		"veiculo": "O Vale",
-		"midia": "Jornal",
-		"mes": "2013-01-29",
-		"ano": 2013,
-		"total": 9,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Jornal Hoje em Dia",
-		"midia": "Jornal",
-		"mes": "2013-11-14",
-		"ano": 2013,
-		"total": 25,
-		"jornalistas": 25
-	},
-	{
-		"veiculo": "Infoglobo",
-		"midia": "Jornal",
-		"mes": "2013-06-28",
-		"ano": 2013,
-		"total": 10,
-		"jornalistas": 10
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2013-06-04",
-		"ano": 2013,
-		"total": 5,
-		"jornalistas": 5
-	},
-	{
-		"veiculo": "Folha de Pernambuco",
-		"midia": "Jornal",
-		"mes": "2013-06-05",
-		"ano": 2013,
-		"total": 9,
-		"jornalistas": 9
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2013-04-05",
-		"ano": 2013,
-		"total": 31,
-		"jornalistas": 20
-	},
-	{
-		"veiculo": "Ejesa",
-		"midia": "Jornal",
-		"mes": "2013-04-11",
-		"ano": 2013,
-		"total": 24,
-		"jornalistas": 24
-	},
-	{
-		"veiculo": "Correio Braziliense",
-		"midia": "Jornal",
-		"mes": "2013-10-15",
-		"ano": 2013,
-		"total": 36,
-		"jornalistas": 6
-	},
-	{
-		"veiculo": "ABCD Maior",
-		"midia": "Jornal",
-		"mes": "2013-10-10",
-		"ano": 2013,
-		"total": 10,
-		"jornalistas": 10
-	},
-	{
-		"veiculo": "Lance",
-		"midia": "Jornal",
-		"mes": "2014-09-30",
-		"ano": 2014,
-		"total": 37,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "Grupo RAC",
-		"midia": "Jornal",
-		"mes": "2014-11-07",
-		"ano": 2014,
-		"total": 15,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Gazeta do Povo",
-		"midia": "Jornal",
-		"mes": "2014-07-03",
-		"ano": 2014,
-		"total": 23,
-		"jornalistas": 23
-	},
-	{
-		"veiculo": "Gazeta do Povo",
-		"midia": "Jornal",
-		"mes": "2014-07-03",
-		"ano": 2014,
-		"total": 14,
-		"jornalistas": 14
-	},
-	{
-		"veiculo": "Gazeta do Povo",
-		"midia": "Jornal",
-		"mes": "2014-11-05",
-		"ano": 2014,
-		"total": 5,
-		"jornalistas": 5
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2014-02-10",
-		"ano": 2014,
-		"total": 1,
-		"jornalistas": 1
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2014-11-19",
-		"ano": 2014,
-		"total": 24,
-		"jornalistas": 24
-	},
-	{
-		"veiculo": "Folha de Londrina",
-		"midia": "Jornal",
-		"mes": "2014-11-21",
-		"ano": 2014,
-		"total": 20,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2014-10-08",
-		"ano": 2014,
-		"total": 3,
-		"jornalistas": 3
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2014-12-05",
-		"ano": 2014,
-		"total": 2,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "Diário do Comércio",
-		"midia": "Jornal",
-		"mes": "2014-11-01",
-		"ano": 2014,
-		"total": 20,
-		"jornalistas": 20
-	},
-	{
-		"veiculo": "Correio Braziliense",
-		"midia": "Jornal",
-		"mes": "2014-05-07",
-		"ano": 2014,
-		"total": 70,
-		"jornalistas": 6
-	},
-	{
-		"veiculo": "Valor Econômico",
-		"midia": "Jornal",
-		"mes": "2015-02-26",
-		"ano": 2015,
-		"total": 5,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "O Tempo",
-		"midia": "Jornal",
-		"mes": "2015-07-28",
-		"ano": 2015,
-		"total": 13,
-		"jornalistas": 11
-	},
-	{
-		"veiculo": "O Popular",
-		"midia": "Jornal",
-		"mes": "2015-10-23",
-		"ano": 2015,
-		"total": 4,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "O Estado de Minas",
-		"midia": "Jornal",
-		"mes": "2015-01-07",
-		"ano": 2015,
-		"total": 11,
-		"jornalistas": 11
-	},
-	{
-		"veiculo": "Jornal A Tarde",
-		"midia": "Jornal",
-		"mes": "2015-12-02",
-		"ano": 2015,
-		"total": 160,
-		"jornalistas": 35
-	},
-	{
-		"veiculo": "Infoglobo",
-		"midia": "Jornal",
-		"mes": "2015-01-08",
-		"ano": 2015,
-		"total": 160,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "Infoglobo",
-		"midia": "Jornal",
-		"mes": "2015-09-01",
-		"ano": 2015,
-		"total": 300,
-		"jornalistas": 40
-	},
-	{
-		"veiculo": "Infoglobo",
-		"midia": "Jornal",
-		"mes": "2015-12-08",
-		"ano": 2015,
-		"total": 30,
-		"jornalistas": 18
-	},
-	{
-		"veiculo": "Grupo RAC",
-		"midia": "Jornal",
-		"mes": "2015-08-05",
-		"ano": 2015,
-		"total": 5,
-		"jornalistas": 5
-	},
-	{
-		"veiculo": "Gazeta do Povo",
-		"midia": "Jornal",
-		"mes": "2015-08-13",
-		"ano": 2015,
-		"total": 11,
-		"jornalistas": 11
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2015-01-08",
-		"ano": 2015,
-		"total": 5,
-		"jornalistas": 5
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2015-04-01",
-		"ano": 2015,
-		"total": 7,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2015-04-10",
-		"ano": 2015,
-		"total": 50,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "Folha de Londrina",
-		"midia": "Jornal",
-		"mes": "2015-12-17",
-		"ano": 2015,
-		"total": 15,
-		"jornalistas": 14
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2015-04-06",
-		"ano": 2015,
-		"total": 125,
-		"jornalistas": 40
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2015-08-21",
-		"ano": 2015,
-		"total": 6,
-		"jornalistas": 6
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2015-10-05",
-		"ano": 2015,
-		"total": 30,
-		"jornalistas": 25
-	},
-	{
-		"veiculo": "Ejesa",
-		"midia": "Jornal",
-		"mes": "2015-08-13",
-		"ano": 2015,
-		"total": 30,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "Diario de Pernambuco",
-		"midia": "Jornal",
-		"mes": "2015-03-25",
-		"ano": 2015,
-		"total": 100,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "A Tribuna",
-		"midia": "Jornal",
-		"mes": "2015-07-08",
-		"ano": 2015,
-		"total": 30,
-		"jornalistas": 7
-	},
-	{
-		"veiculo": "Rede Bom Dia",
-		"midia": "Jornal",
-		"mes": "2016-06-29",
-		"ano": 2016,
-		"total": 8,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Jornal do Commercio",
-		"midia": "Jornal",
-		"mes": "2016-04-28",
-		"ano": 2016,
-		"total": 24,
-		"jornalistas": 24
-	},
-	{
-		"veiculo": "Jornal de Brasília",
-		"midia": "Jornal",
-		"mes": "2016-04-28",
-		"ano": 2016,
-		"total": 15,
-		"jornalistas": 15
-	},
-	{
-		"veiculo": "Jornal da Paraíba",
-		"midia": "Jornal",
-		"mes": "2016-04-13",
-		"ano": 2016,
-		"total": 120,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Hoje em Dia",
-		"midia": "Jornal",
-		"mes": "2016-03-03",
-		"ano": 2016,
-		"total": 40,
-		"jornalistas": 40
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2016-02-03",
-		"ano": 2016,
-		"total": 4,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2016-02-15",
-		"ano": 2016,
-		"total": 1,
-		"jornalistas": 1
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2016-04-12",
-		"ano": 2016,
-		"total": 6,
-		"jornalistas": 6
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2016-06-15",
-		"ano": 2016,
-		"total": 8,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Grupo Folha",
-		"midia": "Jornal",
-		"mes": "2016-09-08",
-		"ano": 2016,
-		"total": 10,
-		"jornalistas": 10
-	},
-	{
-		"veiculo": "Grupo Estado",
-		"midia": "Jornal",
-		"mes": "2016-06-06",
-		"ano": 2016,
-		"total": 2,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "Ejesa",
-		"midia": "Jornal",
-		"mes": "2016-06-01",
-		"ano": 2016,
-		"total": 11,
-		"jornalistas": 11
-	},
-	{
-		"veiculo": "Correio Popular",
-		"midia": "Jornal",
-		"mes": "2016-09-14",
-		"ano": 2016,
-		"total": 3,
-		"jornalistas": 3
-	},
-	{
-		"veiculo": "Terra",
-		"midia": "Online",
-		"mes": "2012-12-12",
-		"ano": 2012,
-		"total": 150,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "InfoMoney",
-		"midia": "Online",
-		"mes": "2012-12-14",
-		"ano": 2012,
-		"total": 9,
-		"jornalistas": 6
-	},
-	{
-		"veiculo": "iG",
-		"midia": "Online",
-		"mes": "2012-09-21",
-		"ano": 2012,
-		"total": 12,
-		"jornalistas": 12
-	},
-	{
-		"veiculo": "Terra",
-		"midia": "Online",
-		"mes": "2014-08-13",
-		"ano": 2014,
-		"total": 100,
-		"jornalistas": 50
-	},
-	{
-		"veiculo": "Vice",
-		"midia": "Online",
-		"mes": "2015-08-07",
-		"ano": 2015,
-		"total": 2,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "Terra",
-		"midia": "Online",
-		"mes": "2015-08-06",
-		"ano": 2015,
-		"total": 60,
-		"jornalistas": 60
-	},
-	{
-		"veiculo": "iG",
-		"midia": "Online",
-		"mes": "2015-05-14",
-		"ano": 2015,
-		"total": 20,
-		"jornalistas": 20
-	},
-	{
-		"veiculo": "iG",
-		"midia": "Online",
-		"mes": "2016-02-04",
-		"ano": 2016,
-		"total": 8,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "iG",
-		"midia": "Online",
-		"mes": "2016-06-24",
-		"ano": 2016,
-		"total": 2,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "TV Cultura",
-		"midia": "Rádio e TV",
-		"mes": "2012-03-09",
-		"ano": 2012,
-		"total": 50,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "TV Climatempo",
-		"midia": "Rádio e TV",
-		"mes": "2012-12-19",
-		"ano": 2012,
-		"total": 25,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "RIT TV",
-		"midia": "Rádio e TV",
-		"mes": "2012-06-25",
-		"ano": 2012,
-		"total": 50,
-		"jornalistas": 10
-	},
-	{
-		"veiculo": "Rede TV!",
-		"midia": "Rádio e TV",
-		"mes": "2012-03-16",
-		"ano": 2012,
-		"total": 190,
-		"jornalistas": 1
 	},
 	{
 		"veiculo": "Record",
@@ -582,22 +14,6 @@
 		"ano": 2012,
 		"total": 2,
 		"jornalistas": 2
-	},
-	{
-		"veiculo": "Record",
-		"midia": "Rádio e TV",
-		"mes": "2012-11-05",
-		"ano": 2012,
-		"total": 30,
-		"jornalistas": 30
-	},
-	{
-		"veiculo": "Rádio Globo/CBN",
-		"midia": "Rádio e TV",
-		"mes": "2012-05-29",
-		"ano": 2012,
-		"total": 1,
-		"jornalistas": 1
 	},
 	{
 		"veiculo": "Bandeirantes",
@@ -624,12 +40,124 @@
 		"jornalistas": 2
 	},
 	{
-		"veiculo": "TV dos Trabalhadores",
+		"veiculo": "TV Cultura",
 		"midia": "Rádio e TV",
-		"mes": "2013-10-10",
+		"mes": "2012-03-09",
+		"ano": 2012,
+		"total": 50,
+		"jornalistas": 2
+	},
+	{
+		"veiculo": "Rede TV!",
+		"midia": "Rádio e TV",
+		"mes": "2012-03-16",
+		"ano": 2012,
+		"total": 190,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "Rádio Globo/CBN",
+		"midia": "Rádio e TV",
+		"mes": "2012-05-29",
+		"ano": 2012,
+		"total": 1,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "RIT TV",
+		"midia": "Rádio e TV",
+		"mes": "2012-06-25",
+		"ano": 2012,
+		"total": 50,
+		"jornalistas": 10
+	},
+	{
+		"veiculo": "Jornal A Tarde",
+		"midia": "Jornal",
+		"mes": "2012-07-17",
+		"ano": 2012,
+		"total": 80,
+		"jornalistas": 20
+	},
+	{
+		"veiculo": "iG",
+		"midia": "Online",
+		"mes": "2012-09-21",
+		"ano": 2012,
+		"total": 12,
+		"jornalistas": 12
+	},
+	{
+		"veiculo": "Diário de Natal",
+		"midia": "Jornal",
+		"mes": "2012-10-02",
+		"ano": 2012,
+		"total": 30,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Record",
+		"midia": "Rádio e TV",
+		"mes": "2012-11-05",
+		"ano": 2012,
+		"total": 30,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "Editora Três (IstoÉ)",
+		"midia": "Revista",
+		"mes": "2012-12-10",
+		"ano": 2012,
+		"total": 6,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "Terra",
+		"midia": "Online",
+		"mes": "2012-12-12",
+		"ano": 2012,
+		"total": 150,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "InfoMoney",
+		"midia": "Online",
+		"mes": "2012-12-14",
+		"ano": 2012,
+		"total": 9,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2012-12-17",
+		"ano": 2012,
+		"total": 4,
+		"jornalistas": 4
+	},
+	{
+		"veiculo": "TV Climatempo",
+		"midia": "Rádio e TV",
+		"mes": "2012-12-19",
+		"ano": 2012,
+		"total": 25,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "O Vale",
+		"midia": "Jornal",
+		"mes": "2013-01-29",
 		"ano": 2013,
-		"total": 17,
-		"jornalistas": 17
+		"total": 9,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Revista Trip",
+		"midia": "Revista",
+		"mes": "2013-01-29",
+		"ano": 2013,
+		"total": 2,
+		"jornalistas": 2
 	},
 	{
 		"veiculo": "Sistema Jangadeiro",
@@ -640,20 +168,124 @@
 		"jornalistas": 9
 	},
 	{
-		"veiculo": "SBT",
-		"midia": "Rádio e TV",
-		"mes": "2013-09-04",
+		"veiculo": "Caros Amigos",
+		"midia": "Revista",
+		"mes": "2013-03-11",
 		"ano": 2013,
-		"total": 60,
+		"total": 11,
+		"jornalistas": 11
+	},
+	{
+		"veiculo": "RBS",
+		"midia": "Rádio e TV",
+		"mes": "2013-03-22",
+		"ano": 2013,
+		"total": 14,
+		"jornalistas": 14
+	},
+	{
+		"veiculo": "Reuters",
+		"midia": "Agência",
+		"mes": "2013-04-01",
+		"ano": 2013,
+		"total": 4,
+		"jornalistas": 4
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2013-04-05",
+		"ano": 2013,
+		"total": 31,
+		"jornalistas": 20
+	},
+	{
+		"veiculo": "Bandeirantes",
+		"midia": "Rádio e TV",
+		"mes": "2013-04-05",
+		"ano": 2013,
+		"total": 30,
 		"jornalistas": 0
 	},
 	{
-		"veiculo": "SBT",
+		"veiculo": "Record",
 		"midia": "Rádio e TV",
-		"mes": "2013-09-10",
+		"mes": "2013-04-08",
+		"ano": 2013,
+		"total": 10,
+		"jornalistas": 4
+	},
+	{
+		"veiculo": "CNT Curitiba",
+		"midia": "Rádio e TV",
+		"mes": "2013-04-09",
+		"ano": 2013,
+		"total": 48,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Ejesa",
+		"midia": "Jornal",
+		"mes": "2013-04-11",
+		"ano": 2013,
+		"total": 24,
+		"jornalistas": 24
+	},
+	{
+		"veiculo": "Jovem Pan",
+		"midia": "Rádio e TV",
+		"mes": "2013-04-22",
 		"ano": 2013,
 		"total": 1,
 		"jornalistas": 1
+	},
+	{
+		"veiculo": "Valor Econômico",
+		"midia": "Jornal",
+		"mes": "2013-05-23",
+		"ano": 2013,
+		"total": 50,
+		"jornalistas": 50
+	},
+	{
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2013-06-04",
+		"ano": 2013,
+		"total": 5,
+		"jornalistas": 5
+	},
+	{
+		"veiculo": "Folha de Pernambuco",
+		"midia": "Jornal",
+		"mes": "2013-06-05",
+		"ano": 2013,
+		"total": 9,
+		"jornalistas": 9
+	},
+	{
+		"veiculo": "Record",
+		"midia": "Rádio e TV",
+		"mes": "2013-06-06",
+		"ano": 2013,
+		"total": 300,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2013-06-07",
+		"ano": 2013,
+		"total": 7,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Infoglobo",
+		"midia": "Jornal",
+		"mes": "2013-06-28",
+		"ano": 2013,
+		"total": 10,
+		"jornalistas": 10
 	},
 	{
 		"veiculo": "Rede TV!",
@@ -680,84 +312,20 @@
 		"jornalistas": 0
 	},
 	{
-		"veiculo": "Record",
-		"midia": "Rádio e TV",
-		"mes": "2013-04-08",
-		"ano": 2013,
-		"total": 10,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "Record",
-		"midia": "Rádio e TV",
-		"mes": "2013-06-06",
-		"ano": 2013,
-		"total": 300,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "RBS",
-		"midia": "Rádio e TV",
-		"mes": "2013-03-22",
-		"ano": 2013,
-		"total": 14,
-		"jornalistas": 14
-	},
-	{
-		"veiculo": "RBA TV",
-		"midia": "Rádio e TV",
-		"mes": "2013-11-19",
-		"ano": 2013,
-		"total": 4,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "MTV",
-		"midia": "Rádio e TV",
-		"mes": "2013-09-04",
-		"ano": 2013,
-		"total": 300,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Jovem Pan",
-		"midia": "Rádio e TV",
-		"mes": "2013-04-22",
-		"ano": 2013,
-		"total": 1,
-		"jornalistas": 1
-	},
-	{
-		"veiculo": "ESPN",
-		"midia": "Rádio e TV",
-		"mes": "2013-09-09",
-		"ano": 2013,
-		"total": 1,
-		"jornalistas": 1
-	},
-	{
-		"veiculo": "CNT Curitiba",
-		"midia": "Rádio e TV",
-		"mes": "2013-04-09",
-		"ano": 2013,
-		"total": 48,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Bandeirantes",
-		"midia": "Rádio e TV",
-		"mes": "2013-04-05",
-		"ano": 2013,
-		"total": 30,
-		"jornalistas": 0
-	},
-	{
 		"veiculo": "Bandeirantes",
 		"midia": "Rádio e TV",
 		"mes": "2013-08-01",
 		"ano": 2013,
 		"total": 5,
 		"jornalistas": 5
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2013-08-13",
+		"ano": 2013,
+		"total": 150,
+		"jornalistas": 71
 	},
 	{
 		"veiculo": "Bandeirantes",
@@ -768,12 +336,92 @@
 		"jornalistas": 2
 	},
 	{
-		"veiculo": "TV Senado",
+		"veiculo": "SBT",
 		"midia": "Rádio e TV",
-		"mes": "2014-05-13",
-		"ano": 2014,
-		"total": 85,
+		"mes": "2013-09-04",
+		"ano": 2013,
+		"total": 60,
 		"jornalistas": 0
+	},
+	{
+		"veiculo": "MTV",
+		"midia": "Rádio e TV",
+		"mes": "2013-09-04",
+		"ano": 2013,
+		"total": 300,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "ESPN",
+		"midia": "Rádio e TV",
+		"mes": "2013-09-09",
+		"ano": 2013,
+		"total": 1,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "SBT",
+		"midia": "Rádio e TV",
+		"mes": "2013-09-10",
+		"ano": 2013,
+		"total": 1,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "ABCD Maior",
+		"midia": "Jornal",
+		"mes": "2013-10-10",
+		"ano": 2013,
+		"total": 10,
+		"jornalistas": 10
+	},
+	{
+		"veiculo": "TV dos Trabalhadores",
+		"midia": "Rádio e TV",
+		"mes": "2013-10-10",
+		"ano": 2013,
+		"total": 17,
+		"jornalistas": 17
+	},
+	{
+		"veiculo": "Correio Braziliense",
+		"midia": "Jornal",
+		"mes": "2013-10-15",
+		"ano": 2013,
+		"total": 36,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "Jornal Hoje em Dia",
+		"midia": "Jornal",
+		"mes": "2013-11-14",
+		"ano": 2013,
+		"total": 25,
+		"jornalistas": 25
+	},
+	{
+		"veiculo": "RBA TV",
+		"midia": "Rádio e TV",
+		"mes": "2013-11-19",
+		"ano": 2013,
+		"total": 4,
+		"jornalistas": 4
+	},
+	{
+		"veiculo": "Época",
+		"midia": "Revista",
+		"mes": "2013-12-20",
+		"ano": 2013,
+		"total": 8,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2014-02-10",
+		"ano": 2014,
+		"total": 1,
+		"jornalistas": 1
 	},
 	{
 		"veiculo": "SBT",
@@ -784,12 +432,100 @@
 		"jornalistas": 3
 	},
 	{
+		"veiculo": "Correio Braziliense",
+		"midia": "Jornal",
+		"mes": "2014-05-07",
+		"ano": 2014,
+		"total": 70,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "TV Senado",
+		"midia": "Rádio e TV",
+		"mes": "2014-05-13",
+		"ano": 2014,
+		"total": 85,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Gazeta do Povo",
+		"midia": "Jornal",
+		"mes": "2014-07-03",
+		"ano": 2014,
+		"total": 23,
+		"jornalistas": 23
+	},
+	{
+		"veiculo": "Gazeta do Povo",
+		"midia": "Jornal",
+		"mes": "2014-07-03",
+		"ano": 2014,
+		"total": 14,
+		"jornalistas": 14
+	},
+	{
 		"veiculo": "RBS",
 		"midia": "Rádio e TV",
 		"mes": "2014-08-08",
 		"ano": 2014,
 		"total": 130,
 		"jornalistas": 40
+	},
+	{
+		"veiculo": "Terra",
+		"midia": "Online",
+		"mes": "2014-08-13",
+		"ano": 2014,
+		"total": 100,
+		"jornalistas": 50
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2014-08-26",
+		"ano": 2014,
+		"total": 20,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Lance",
+		"midia": "Jornal",
+		"mes": "2014-09-30",
+		"ano": 2014,
+		"total": 37,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "ESPN",
+		"midia": "Rádio e TV",
+		"mes": "2014-10-02",
+		"ano": 2014,
+		"total": 10,
+		"jornalistas": 10
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2014-10-08",
+		"ano": 2014,
+		"total": 3,
+		"jornalistas": 3
+	},
+	{
+		"veiculo": "Diário do Comércio",
+		"midia": "Jornal",
+		"mes": "2014-11-01",
+		"ano": 2014,
+		"total": 20,
+		"jornalistas": 20
+	},
+	{
+		"veiculo": "Gazeta do Povo",
+		"midia": "Jornal",
+		"mes": "2014-11-05",
+		"ano": 2014,
+		"total": 5,
+		"jornalistas": 5
 	},
 	{
 		"veiculo": "Rádio Gaúcha",
@@ -808,27 +544,75 @@
 		"jornalistas": 1
 	},
 	{
-		"veiculo": "ESPN",
-		"midia": "Rádio e TV",
-		"mes": "2014-10-02",
+		"veiculo": "Grupo RAC",
+		"midia": "Jornal",
+		"mes": "2014-11-07",
 		"ano": 2014,
-		"total": 10,
-		"jornalistas": 10
-	},
-	{
-		"veiculo": "TV Escola",
-		"midia": "Rádio e TV",
-		"mes": "2015-06-19",
-		"ano": 2015,
-		"total": 60,
+		"total": 15,
 		"jornalistas": 0
 	},
 	{
-		"veiculo": "TV Cultura",
-		"midia": "Rádio e TV",
-		"mes": "2015-07-16",
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2014-11-19",
+		"ano": 2014,
+		"total": 24,
+		"jornalistas": 24
+	},
+	{
+		"veiculo": "Folha de Londrina",
+		"midia": "Jornal",
+		"mes": "2014-11-21",
+		"ano": 2014,
+		"total": 20,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Reuters",
+		"midia": "Agência",
+		"mes": "2014-12-01",
+		"ano": 2014,
+		"total": 1,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2014-12-05",
+		"ano": 2014,
+		"total": 2,
+		"jornalistas": 2
+	},
+	{
+		"veiculo": "O Estado de Minas",
+		"midia": "Jornal",
+		"mes": "2015-01-07",
 		"ano": 2015,
-		"total": 100,
+		"total": 11,
+		"jornalistas": 11
+	},
+	{
+		"veiculo": "Infoglobo",
+		"midia": "Jornal",
+		"mes": "2015-01-08",
+		"ano": 2015,
+		"total": 160,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2015-01-08",
+		"ano": 2015,
+		"total": 5,
+		"jornalistas": 5
+	},
+	{
+		"veiculo": "Valor Econômico",
+		"midia": "Jornal",
+		"mes": "2015-02-26",
+		"ano": 2015,
+		"total": 5,
 		"jornalistas": 0
 	},
 	{
@@ -840,28 +624,20 @@
 		"jornalistas": 2
 	},
 	{
-		"veiculo": "SBT",
-		"midia": "Rádio e TV",
-		"mes": "2015-04-14",
+		"veiculo": "Editora Três (IstoÉ)",
+		"midia": "Revista",
+		"mes": "2015-03-03",
 		"ano": 2015,
-		"total": 46,
-		"jornalistas": 23
+		"total": 26,
+		"jornalistas": 26
 	},
 	{
-		"veiculo": "SBT",
+		"veiculo": "Bandeirantes",
 		"midia": "Rádio e TV",
-		"mes": "2015-06-24",
+		"mes": "2015-03-17",
 		"ano": 2015,
-		"total": 3,
+		"total": 25,
 		"jornalistas": 3
-	},
-	{
-		"veiculo": "Rede TV!",
-		"midia": "Rádio e TV",
-		"mes": "2015-08-06",
-		"ano": 2015,
-		"total": 8,
-		"jornalistas": 8
 	},
 	{
 		"veiculo": "Record",
@@ -872,12 +648,276 @@
 		"jornalistas": 0
 	},
 	{
+		"veiculo": "Diario de Pernambuco",
+		"midia": "Jornal",
+		"mes": "2015-03-25",
+		"ano": 2015,
+		"total": 100,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "Editora Segmento",
+		"midia": "Revista",
+		"mes": "2015-03-25",
+		"ano": 2015,
+		"total": 20,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Bandeirantes",
+		"midia": "Rádio e TV",
+		"mes": "2015-03-28",
+		"ano": 2015,
+		"total": 50,
+		"jornalistas": 7
+	},
+	{
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2015-04-01",
+		"ano": 2015,
+		"total": 7,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Bandeirantes",
+		"midia": "Rádio e TV",
+		"mes": "2015-04-01",
+		"ano": 2015,
+		"total": 10,
+		"jornalistas": 3
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2015-04-06",
+		"ano": 2015,
+		"total": 125,
+		"jornalistas": 40
+	},
+	{
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2015-04-10",
+		"ano": 2015,
+		"total": 50,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "Jovem Pan",
+		"midia": "Rádio e TV",
+		"mes": "2015-04-13",
+		"ano": 2015,
+		"total": 3,
+		"jornalistas": 3
+	},
+	{
+		"veiculo": "SBT",
+		"midia": "Rádio e TV",
+		"mes": "2015-04-14",
+		"ano": 2015,
+		"total": 46,
+		"jornalistas": 23
+	},
+	{
 		"veiculo": "Record",
 		"midia": "Rádio e TV",
 		"mes": "2015-04-17",
 		"ano": 2015,
 		"total": 7,
 		"jornalistas": 7
+	},
+	{
+		"veiculo": "ESPN",
+		"midia": "Rádio e TV",
+		"mes": "2015-05-06",
+		"ano": 2015,
+		"total": 3,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Revista Piauí",
+		"midia": "Revista",
+		"mes": "2015-05-07",
+		"ano": 2015,
+		"total": 3,
+		"jornalistas": 3
+	},
+	{
+		"veiculo": "iG",
+		"midia": "Online",
+		"mes": "2015-05-14",
+		"ano": 2015,
+		"total": 20,
+		"jornalistas": 20
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2015-05-20",
+		"ano": 2015,
+		"total": 261,
+		"jornalistas": 84
+	},
+	{
+		"veiculo": "Editora Três (IstoÉ)",
+		"midia": "Revista",
+		"mes": "2015-06-18",
+		"ano": 2015,
+		"total": 1,
+		"jornalistas": 1
+	},
+	{
+		"veiculo": "TV Escola",
+		"midia": "Rádio e TV",
+		"mes": "2015-06-19",
+		"ano": 2015,
+		"total": 60,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "SBT",
+		"midia": "Rádio e TV",
+		"mes": "2015-06-24",
+		"ano": 2015,
+		"total": 3,
+		"jornalistas": 3
+	},
+	{
+		"veiculo": "A Tribuna",
+		"midia": "Jornal",
+		"mes": "2015-07-08",
+		"ano": 2015,
+		"total": 30,
+		"jornalistas": 7
+	},
+	{
+		"veiculo": "TV Cultura",
+		"midia": "Rádio e TV",
+		"mes": "2015-07-16",
+		"ano": 2015,
+		"total": 100,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "O Tempo",
+		"midia": "Jornal",
+		"mes": "2015-07-28",
+		"ano": 2015,
+		"total": 13,
+		"jornalistas": 11
+	},
+	{
+		"veiculo": "Grupo RAC",
+		"midia": "Jornal",
+		"mes": "2015-08-05",
+		"ano": 2015,
+		"total": 5,
+		"jornalistas": 5
+	},
+	{
+		"veiculo": "Terra",
+		"midia": "Online",
+		"mes": "2015-08-06",
+		"ano": 2015,
+		"total": 60,
+		"jornalistas": 60
+	},
+	{
+		"veiculo": "Rede TV!",
+		"midia": "Rádio e TV",
+		"mes": "2015-08-06",
+		"ano": 2015,
+		"total": 8,
+		"jornalistas": 8
+	},
+	{
+		"veiculo": "Vice",
+		"midia": "Online",
+		"mes": "2015-08-07",
+		"ano": 2015,
+		"total": 2,
+		"jornalistas": 2
+	},
+	{
+		"veiculo": "Editora Abril",
+		"midia": "Revista",
+		"mes": "2015-08-12",
+		"ano": 2015,
+		"total": 12,
+		"jornalistas": 12
+	},
+	{
+		"veiculo": "Gazeta do Povo",
+		"midia": "Jornal",
+		"mes": "2015-08-13",
+		"ano": 2015,
+		"total": 11,
+		"jornalistas": 11
+	},
+	{
+		"veiculo": "Ejesa",
+		"midia": "Jornal",
+		"mes": "2015-08-13",
+		"ano": 2015,
+		"total": 30,
+		"jornalistas": 30
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2015-08-21",
+		"ano": 2015,
+		"total": 6,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "Infoglobo",
+		"midia": "Jornal",
+		"mes": "2015-09-01",
+		"ano": 2015,
+		"total": 300,
+		"jornalistas": 40
+	},
+	{
+		"veiculo": "Bandeirantes",
+		"midia": "Rádio e TV",
+		"mes": "2015-09-21",
+		"ano": 2015,
+		"total": 13,
+		"jornalistas": 13
+	},
+	{
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2015-10-05",
+		"ano": 2015,
+		"total": 30,
+		"jornalistas": 25
+	},
+	{
+		"veiculo": "Editora Três (IstoÉ)",
+		"midia": "Revista",
+		"mes": "2015-10-06",
+		"ano": 2015,
+		"total": 10,
+		"jornalistas": 10
+	},
+	{
+		"veiculo": "ESPN",
+		"midia": "Rádio e TV",
+		"mes": "2015-10-21",
+		"ano": 2015,
+		"total": 34,
+		"jornalistas": 34
+	},
+	{
+		"veiculo": "O Popular",
+		"midia": "Jornal",
+		"mes": "2015-10-23",
+		"ano": 2015,
+		"total": 4,
+		"jornalistas": 4
 	},
 	{
 		"veiculo": "Record",
@@ -896,60 +936,28 @@
 		"jornalistas": 1
 	},
 	{
-		"veiculo": "Jovem Pan",
-		"midia": "Rádio e TV",
-		"mes": "2015-04-13",
+		"veiculo": "Jornal A Tarde",
+		"midia": "Jornal",
+		"mes": "2015-12-02",
 		"ano": 2015,
-		"total": 3,
-		"jornalistas": 3
+		"total": 160,
+		"jornalistas": 35
 	},
 	{
-		"veiculo": "ESPN",
-		"midia": "Rádio e TV",
-		"mes": "2015-05-06",
+		"veiculo": "Infoglobo",
+		"midia": "Jornal",
+		"mes": "2015-12-08",
 		"ano": 2015,
-		"total": 3,
-		"jornalistas": 0
+		"total": 30,
+		"jornalistas": 18
 	},
 	{
-		"veiculo": "ESPN",
-		"midia": "Rádio e TV",
-		"mes": "2015-10-21",
+		"veiculo": "Folha de Londrina",
+		"midia": "Jornal",
+		"mes": "2015-12-17",
 		"ano": 2015,
-		"total": 34,
-		"jornalistas": 34
-	},
-	{
-		"veiculo": "Bandeirantes",
-		"midia": "Rádio e TV",
-		"mes": "2015-03-17",
-		"ano": 2015,
-		"total": 25,
-		"jornalistas": 3
-	},
-	{
-		"veiculo": "Bandeirantes",
-		"midia": "Rádio e TV",
-		"mes": "2015-03-28",
-		"ano": 2015,
-		"total": 50,
-		"jornalistas": 7
-	},
-	{
-		"veiculo": "Bandeirantes",
-		"midia": "Rádio e TV",
-		"mes": "2015-04-01",
-		"ano": 2015,
-		"total": 10,
-		"jornalistas": 3
-	},
-	{
-		"veiculo": "Bandeirantes",
-		"midia": "Rádio e TV",
-		"mes": "2015-09-21",
-		"ano": 2015,
-		"total": 13,
-		"jornalistas": 13
+		"total": 15,
+		"jornalistas": 14
 	},
 	{
 		"veiculo": "Transamérica",
@@ -960,28 +968,20 @@
 		"jornalistas": 0
 	},
 	{
-		"veiculo": "Sistema Jangadeiro",
-		"midia": "Rádio e TV",
-		"mes": "2016-03-08",
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2016-02-03",
 		"ano": 2016,
-		"total": 16,
-		"jornalistas": 7
+		"total": 4,
+		"jornalistas": 4
 	},
 	{
-		"veiculo": "RIC TV",
-		"midia": "Rádio e TV",
-		"mes": "2016-07-12",
+		"veiculo": "iG",
+		"midia": "Online",
+		"mes": "2016-02-04",
 		"ano": 2016,
-		"total": 30,
+		"total": 8,
 		"jornalistas": 8
-	},
-	{
-		"veiculo": "Rede TV!",
-		"midia": "Rádio e TV",
-		"mes": "2016-08-03",
-		"ano": 2016,
-		"total": 1,
-		"jornalistas": 1
 	},
 	{
 		"veiculo": "Record",
@@ -992,20 +992,28 @@
 		"jornalistas": 0
 	},
 	{
-		"veiculo": "Rádio Globo/CBN",
-		"midia": "Rádio e TV",
-		"mes": "2016-05-09",
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2016-02-15",
 		"ano": 2016,
-		"total": 6,
-		"jornalistas": 3
+		"total": 1,
+		"jornalistas": 1
 	},
 	{
-		"veiculo": "Rádio Globo/CBN",
-		"midia": "Rádio e TV",
-		"mes": "2016-07-14",
+		"veiculo": "Hoje em Dia",
+		"midia": "Jornal",
+		"mes": "2016-03-03",
 		"ano": 2016,
-		"total": 2,
-		"jornalistas": 2
+		"total": 40,
+		"jornalistas": 40
+	},
+	{
+		"veiculo": "Sistema Jangadeiro",
+		"midia": "Rádio e TV",
+		"mes": "2016-03-08",
+		"ano": 2016,
+		"total": 16,
+		"jornalistas": 7
 	},
 	{
 		"veiculo": "Jovem Pan",
@@ -1016,12 +1024,36 @@
 		"jornalistas": 1
 	},
 	{
-		"veiculo": "Jovem Pan",
-		"midia": "Rádio e TV",
-		"mes": "2016-06-07",
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2016-04-12",
 		"ano": 2016,
-		"total": 3,
-		"jornalistas": 3
+		"total": 6,
+		"jornalistas": 6
+	},
+	{
+		"veiculo": "Jornal da Paraíba",
+		"midia": "Jornal",
+		"mes": "2016-04-13",
+		"ano": 2016,
+		"total": 120,
+		"jornalistas": 0
+	},
+	{
+		"veiculo": "Jornal do Commercio",
+		"midia": "Jornal",
+		"mes": "2016-04-28",
+		"ano": 2016,
+		"total": 24,
+		"jornalistas": 24
+	},
+	{
+		"veiculo": "Jornal de Brasília",
+		"midia": "Jornal",
+		"mes": "2016-04-28",
+		"ano": 2016,
+		"total": 15,
+		"jornalistas": 15
 	},
 	{
 		"veiculo": "105 FM",
@@ -1032,132 +1064,92 @@
 		"jornalistas": 7
 	},
 	{
-		"veiculo": "Editora Três (IstoÉ)",
-		"midia": "Revista",
-		"mes": "2012-12-10",
-		"ano": 2012,
+		"veiculo": "Rádio Globo/CBN",
+		"midia": "Rádio e TV",
+		"mes": "2016-05-09",
+		"ano": 2016,
 		"total": 6,
-		"jornalistas": 6
+		"jornalistas": 3
 	},
 	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2012-01-17",
-		"ano": 2012,
-		"total": 4,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2012-12-17",
-		"ano": 2012,
-		"total": 4,
-		"jornalistas": 4
-	},
-	{
-		"veiculo": "Revista Trip",
-		"midia": "Revista",
-		"mes": "2013-01-29",
-		"ano": 2013,
-		"total": 2,
-		"jornalistas": 2
-	},
-	{
-		"veiculo": "Época",
-		"midia": "Revista",
-		"mes": "2013-12-20",
-		"ano": 2013,
-		"total": 8,
-		"jornalistas": 8
-	},
-	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2013-06-07",
-		"ano": 2013,
-		"total": 7,
-		"jornalistas": 0
-	},
-	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2013-08-13",
-		"ano": 2013,
-		"total": 150,
-		"jornalistas": 71
-	},
-	{
-		"veiculo": "Caros Amigos",
-		"midia": "Revista",
-		"mes": "2013-03-11",
-		"ano": 2013,
+		"veiculo": "Ejesa",
+		"midia": "Jornal",
+		"mes": "2016-06-01",
+		"ano": 2016,
 		"total": 11,
 		"jornalistas": 11
 	},
 	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2014-08-26",
-		"ano": 2014,
-		"total": 20,
-		"jornalistas": 0
+		"veiculo": "Grupo Estado",
+		"midia": "Jornal",
+		"mes": "2016-06-06",
+		"ano": 2016,
+		"total": 2,
+		"jornalistas": 2
 	},
 	{
-		"veiculo": "Revista Piauí",
-		"midia": "Revista",
-		"mes": "2015-05-07",
-		"ano": 2015,
+		"veiculo": "Jovem Pan",
+		"midia": "Rádio e TV",
+		"mes": "2016-06-07",
+		"ano": 2016,
 		"total": 3,
 		"jornalistas": 3
 	},
 	{
-		"veiculo": "Editora Três (IstoÉ)",
-		"midia": "Revista",
-		"mes": "2015-03-03",
-		"ano": 2015,
-		"total": 26,
-		"jornalistas": 26
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2016-06-15",
+		"ano": 2016,
+		"total": 8,
+		"jornalistas": 8
 	},
 	{
-		"veiculo": "Editora Três (IstoÉ)",
-		"midia": "Revista",
-		"mes": "2015-06-18",
-		"ano": 2015,
-		"total": 1,
-		"jornalistas": 1
+		"veiculo": "iG",
+		"midia": "Online",
+		"mes": "2016-06-24",
+		"ano": 2016,
+		"total": 2,
+		"jornalistas": 2
 	},
 	{
-		"veiculo": "Editora Três (IstoÉ)",
-		"midia": "Revista",
-		"mes": "2015-10-06",
-		"ano": 2015,
-		"total": 10,
-		"jornalistas": 10
+		"veiculo": "Rede Bom Dia",
+		"midia": "Jornal",
+		"mes": "2016-06-29",
+		"ano": 2016,
+		"total": 8,
+		"jornalistas": 8
 	},
 	{
-		"veiculo": "Editora Segmento",
-		"midia": "Revista",
-		"mes": "2015-03-25",
-		"ano": 2015,
-		"total": 20,
+		"veiculo": "RIC TV",
+		"midia": "Rádio e TV",
+		"mes": "2016-07-12",
+		"ano": 2016,
+		"total": 30,
 		"jornalistas": 8
 	},
 	{
 		"veiculo": "Editora Abril",
 		"midia": "Revista",
-		"mes": "2015-05-20",
-		"ano": 2015,
-		"total": 261,
-		"jornalistas": 84
+		"mes": "2016-07-12",
+		"ano": 2016,
+		"total": 2,
+		"jornalistas": 2
 	},
 	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2015-08-12",
-		"ano": 2015,
-		"total": 12,
-		"jornalistas": 12
+		"veiculo": "Rádio Globo/CBN",
+		"midia": "Rádio e TV",
+		"mes": "2016-07-14",
+		"ano": 2016,
+		"total": 2,
+		"jornalistas": 2
+	},
+	{
+		"veiculo": "Rede TV!",
+		"midia": "Rádio e TV",
+		"mes": "2016-08-03",
+		"ano": 2016,
+		"total": 1,
+		"jornalistas": 1
 	},
 	{
 		"veiculo": "Editora PBB",
@@ -1168,11 +1160,19 @@
 		"jornalistas": 4
 	},
 	{
-		"veiculo": "Editora Abril",
-		"midia": "Revista",
-		"mes": "2016-07-12",
+		"veiculo": "Grupo Folha",
+		"midia": "Jornal",
+		"mes": "2016-09-08",
 		"ano": 2016,
-		"total": 2,
-		"jornalistas": 2
+		"total": 10,
+		"jornalistas": 10
+	},
+	{
+		"veiculo": "Correio Popular",
+		"midia": "Jornal",
+		"mes": "2016-09-14",
+		"ano": 2016,
+		"total": 3,
+		"jornalistas": 3
 	}
 ]
