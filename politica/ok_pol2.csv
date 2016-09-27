@@ -1,15 +1,15 @@
 prefeitura,funcao,sub_funcao,programa,acao,valor_liquidado,valor_empenhado,link,obs
-São Paulo,0,0,0,0,0,0,http://dados.prefeitura.sp.gov.br/dataset/base-dados-execucao,
+São Paulo,0,0,0,0,0,0,http://dados.prefeitura.sp.gov.br/dataset/base-dados-execucao,sem observações
 Curitiba,0,0,0,0,0,0,http://www.curitiba.pr.gov.br/dadosabertos/consulta/,Disponibiliza apenas os dados de 2016
-Belo Horizonte,0,0,0,0,0,0,http://portalpbh.pbh.gov.br/pbh/ecp/comunidade.do?app=acessoinformacao,
-Recife,0,0,0,0,0,0,http://dados.recife.pe.gov.br/dataset/despesas-orcamentarias,
+BH,0,0,0,0,0,0,http://portalpbh.pbh.gov.br/pbh/ecp/comunidade.do?app=acessoinformacao,sem observações
+Recife,0,0,0,0,0,0,http://dados.recife.pe.gov.br/dataset/despesas-orcamentarias,sem observações
 João Pessoa,0,0,0,0,0,0,http://transparencia.joaopessoa.pb.gov.br/download,Disponibiliza dados completos e unificados no entanto não em planilha e sim em um arquivo .sql
 Aracaju,0,0,0,0,0,0,http://www.municipioonline.com.br/se/prefeitura/aracaju/cidadao/despesa,Todas as informações estão presentes no entanto informações básicas de função subfunção e etc não estão disponibilizadas para download. Tentei entrar em contato porém não obtive resposta.
 Palmas,0,0,0,0,0,0,http://portaldatransparencia.palmas.to.gov.br/#area-gastosdiretos,Todas as informações estão presentes no entanto informações básicas de função subfunção e etc não estão disponibilizadas para download. Tentei entrar em contato porém não obtive resposta.
 Teresina,0,0,0,0,0,0,http://transparencia.teresina.pi.gov.br/despesas.jsp,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e etc. Impossibilitando a ligação entre um gasto e um programa específico
 Porto Alegre,0,0,0,0,1,0,http://www.portoalegre.rs.gov.br/smf/relfins/entrada.asp,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e etc.
-Goiania,0,0,0,1,0,0,http://www.goiania.go.gov.br/shtml/transparencia/despesas.shtml,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
-Cuiaba,0,0,0,1,0,0,http://transparencia.cuiaba.mt.gov.br/transparencia/servlet/wmdespesas?0,,0,0,0,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
+Goiânia,0,0,0,1,0,0,http://www.goiania.go.gov.br/shtml/transparencia/despesas.shtml,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
+Cuiabá,0,0,0,1,0,0,http://transparencia.cuiaba.mt.gov.br/transparencia/servlet/wmdespesas?0,,0,0,0,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
 Natal,0,1,0,0,0,0,http://natal.rn.gov.br/transis/despesas/,Fornece informação de Função no entanto não fornece subfunção e não fornece o download das informações.
 Fortaleza,0,0,1,1,0,0,http://portaldatransparencia.sefin.fortaleza.ce.gov.br/index.php/despesa/consultarPeriodo?txtDataIni=01%2F01%2F2015&txtDataFim=31%2F12%2F2015&raiFaseDespesa=E&filtroPorOrgao=0&txtFavorecido=Digite+nome%2C+parte+do+nome+ou+CPF%2FCNPJ,Fornece dados de função e subfunção no entanto não fornece o detalhamento sobre programa ação e etc.
 Rio de Janeiro,1,1,0,1,0,0,http://data.rio/dataset/despesa,Não há os dados de despesas dos anos de 20142015 e 2016. Além disso faltam informações básicas de função e subfunção
