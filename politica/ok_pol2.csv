@@ -1,0 +1,28 @@
+prefeitura,funcao,sub_funcao,programa,acao,valor_liquidado,valor_empenhado,link,obs
+São Paulo,0,0,0,0,0,0,http://dados.prefeitura.sp.gov.br/dataset/base-dados-execucao,
+Curitiba,0,0,0,0,0,0,http://www.curitiba.pr.gov.br/dadosabertos/consulta/,Disponibiliza apenas os dados de 2016
+Belo Horizonte,0,0,0,0,0,0,http://portalpbh.pbh.gov.br/pbh/ecp/comunidade.do?app=acessoinformacao,
+Recife,0,0,0,0,0,0,http://dados.recife.pe.gov.br/dataset/despesas-orcamentarias,
+João Pessoa,0,0,0,0,0,0,http://transparencia.joaopessoa.pb.gov.br/download,Disponibiliza dados completos e unificados no entanto não em planilha e sim em um arquivo .sql
+Aracaju,0,0,0,0,0,0,http://www.municipioonline.com.br/se/prefeitura/aracaju/cidadao/despesa,Todas as informações estão presentes no entanto informações básicas de função subfunção e etc não estão disponibilizadas para download. Tentei entrar em contato porém não obtive resposta.
+Palmas,0,0,0,0,0,0,http://portaldatransparencia.palmas.to.gov.br/#area-gastosdiretos,Todas as informações estão presentes no entanto informações básicas de função subfunção e etc não estão disponibilizadas para download. Tentei entrar em contato porém não obtive resposta.
+Teresina,0,0,0,0,0,0,http://transparencia.teresina.pi.gov.br/despesas.jsp,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e etc. Impossibilitando a ligação entre um gasto e um programa específico
+Porto Alegre,0,0,0,0,1,0,http://www.portoalegre.rs.gov.br/smf/relfins/entrada.asp,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e etc.
+Goiania,0,0,0,1,0,0,http://www.goiania.go.gov.br/shtml/transparencia/despesas.shtml,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
+Cuiaba,0,0,0,1,0,0,http://transparencia.cuiaba.mt.gov.br/transparencia/servlet/wmdespesas?0,,0,0,0,Fornece apenas os dados separados não disponibiliza uma planilha unificada com Função Subfunção e programa. Impossibilitando a ligação entre um gasto e um programa específico
+Natal,0,1,0,0,0,0,http://natal.rn.gov.br/transis/despesas/,Fornece informação de Função no entanto não fornece subfunção e não fornece o download das informações.
+Fortaleza,0,0,1,1,0,0,http://portaldatransparencia.sefin.fortaleza.ce.gov.br/index.php/despesa/consultarPeriodo?txtDataIni=01%2F01%2F2015&txtDataFim=31%2F12%2F2015&raiFaseDespesa=E&filtroPorOrgao=0&txtFavorecido=Digite+nome%2C+parte+do+nome+ou+CPF%2FCNPJ,Fornece dados de função e subfunção no entanto não fornece o detalhamento sobre programa ação e etc.
+Rio de Janeiro,1,1,0,1,0,0,http://data.rio/dataset/despesa,Não há os dados de despesas dos anos de 20142015 e 2016. Além disso faltam informações básicas de função e subfunção
+Salvador,1,1,1,1,0,0,http://transparencia.salvador.ba.gov.br/Modulos/Despesas.aspx,Faltam dados básicos de função subfunção e programa.
+Maceio,1,1,1,1,0,0,http://www.transparencia.maceio.al.gov.br/,Faltam dados básicos de função subfunção e programa.
+Rio Branco,1,1,0,1,1,0,http://transparencia.riobranco.ac.gov.br/,Faltam dados básicos de função subfunção.
+Brasília,1,1,1,1,0,0,http://www.transparencia.df.gov.br/Pages/DespPub/detalhamento_despesa.aspx,Faltam dados básicos de função subfunção e programa.
+Vitória,1,1,1,1,0,0,http://transparencia.vitoria.es.gov.br/Despesa.ConsultaLivre.aspx,Faltam dados básicos de função subfunção e programa e página de download está quebrada.
+Belem,1,1,1,1,0,0,http://transparencia.belem.pa.gov.br/giig/portais/portaldatransparencia/Despesas/wfrmConsultaDespesas.aspx,Faltam dados básicos de função subfunção e programa página de consulta quebrada. Não responde após request.
+Manaus,1,1,1,1,0,0,http://transparencia.manaus.am.gov.br/transparencia/v2/#/despesas,Faltam dados básicos de função subfunção e programa página de download retorna 404.
+Boa vista,1,1,1,1,0,0,http://transparencia.boavista.rr.gov.br/portal/,Faltam dados básicos de função subfunção e programa.
+Campo Grande,1,1,1,1,1,0,http://www.capital.ms.gov.br/sic/despesa-consulta,Faltam dados básicos de função subfunção programa e valor liquidado
+Florianópolis,1,1,1,1,1,1,http://www.pmf.sc.gov.br/transparencia/index.php?pagina=despesa&menu=5&sub=2,Aba de despesas retorna erro HTTP 500
+São Luís,1,1,1,1,1,1,http://lei131.com.br/apex/portal/f?p=450:2:0::N0:2:P2_SUBA_ID:24,Faltam dados básicos de função subfunção e programa.
+Porto Velho,1,1,1,1,1,1,http://transparencia.portovelho.ro.gov.br/Site/Principal/,Dados incompletos não contam nem com informações básicas de função
+Macapa,1,1,1,1,1,1,http://macapa.ap.gov.br/transparencia/,Portal de transparência inexistente
