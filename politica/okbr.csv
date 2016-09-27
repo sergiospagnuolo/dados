@@ -1,0 +1,28 @@
+prefeitura,funcao,sub-funcao,programa,acao,valor-liquidado,valor-empenhado,total
+São Paulo,(V),(V),(V),(V),(V),(V),1
+Curitiba,(V),(V),(V),(V),(V),(V),1
+Belo Horizonte,(V),(V),(V),(V),(V),(V),1
+Porto Alegre,(V),(V),(V),(V),(F),(V),3
+Florianópolis,(F),(F),(F),(F),(F),(F),3
+Rio de Janeiro,(F),(F),(V),(F),(V),(V),3
+Campo Grande,(F),(F),(F),(F),(F),(V),3
+Goiania,(V),(V),(V),(F),(V),(V),3
+Cuiaba,(V),(V),(V),(F),(V),(V),3
+Salvador,(F),(F),(F),(F),(V),(V),3
+Aracaju,(V),(V),(V),(V),(V),(V),3
+Palmas,(V),(V),(V),(V),(V),(V),3
+Maceio,(F),(F),(F),(F),(V),(V),3
+Recife,(V),(V),(V),(V),(V),(V),1
+João Pessoa,(V),(V),(V),(V),(V),(V),2
+Natal,(V),(F),(V),(V),(V),(V),3
+Teresina,(V),(V),(V),(V),(V),(V),3
+Fortaleza,(V),(V),(F),(F),(V),(V),3
+São Luís,(F),(F),(F),(F),(F),(F),3
+Porto Velho,(F),(F),(F),(F),(F),(F),3
+Macapa,(F),(F),(F),(F),(F),(F),3
+Rio Branco,(F),(F),(V),(F),(F),(V),3
+Brasília,(F),(F),(F),(F),(V),(V),3
+Vitória,(F),(F),(F),(F),(V),(V),3
+Belem,(F),(F),(F),(F),(V),(V),3
+Manaus,(F),(F),(F),(F),(V),(V),3
+Boa vista,(F),(F),(F),(F),(V),(V),3
