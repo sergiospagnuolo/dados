@@ -1,78 +1,15 @@
 [
 	{
-		"prefeitura": "São Paulo",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Curitiba",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "BH",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Recife",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "João Pessoa",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
 		"prefeitura": "Aracaju",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
 		"valor_empenhado": 0
 	},
 	{
-		"prefeitura": "Palmas",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Teresina",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Porto Alegre",
+		"prefeitura": "Belem",
 		"funcao": 0,
 		"sub_funcao": 0,
 		"programa": 0,
@@ -81,124 +18,52 @@
 		"valor_empenhado": 0
 	},
 	{
-		"prefeitura": "Goiânia",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Cuiabá",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 0,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Natal",
-		"funcao": 0,
+		"prefeitura": "BH",
+		"funcao": 1,
 		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Boa vista",
+		"funcao": 0,
+		"sub_funcao": 0,
 		"programa": 0,
 		"acao": 0,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Fortaleza",
-		"funcao": 0,
-		"sub_funcao": 0,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Rio de Janeiro",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 0,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Salvador",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Maceio",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Rio Branco",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 0,
-		"acao": 1,
 		"valor_liquidado": 1,
 		"valor_empenhado": 0
 	},
 	{
 		"prefeitura": "Brasília",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Vitória",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Belem",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Manaus",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
-		"valor_empenhado": 0
-	},
-	{
-		"prefeitura": "Boa vista",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 0,
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 1,
 		"valor_empenhado": 0
 	},
 	{
 		"prefeitura": "Campo Grande",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 0,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Cuiabá",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Curitiba",
 		"funcao": 1,
 		"sub_funcao": 1,
 		"programa": 1,
@@ -208,38 +73,173 @@
 	},
 	{
 		"prefeitura": "Florianópolis",
-		"funcao": 1,
-		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
-		"valor_liquidado": 1,
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 0,
 		"valor_empenhado": 1
 	},
 	{
-		"prefeitura": "São Luís",
+		"prefeitura": "Fortaleza",
 		"funcao": 1,
 		"sub_funcao": 1,
-		"programa": 1,
-		"acao": 1,
+		"programa": 0,
+		"acao": 0,
 		"valor_liquidado": 1,
-		"valor_empenhado": 1
+		"valor_empenhado": 0
 	},
 	{
-		"prefeitura": "Porto Velho",
+		"prefeitura": "Goiânia",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "João Pessoa",
 		"funcao": 1,
 		"sub_funcao": 1,
 		"programa": 1,
 		"acao": 1,
 		"valor_liquidado": 1,
-		"valor_empenhado": 1
+		"valor_empenhado": 0
 	},
 	{
 		"prefeitura": "Macapa",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 0,
+		"valor_empenhado": 1
+	},
+	{
+		"prefeitura": "Maceio",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Manaus",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Natal",
+		"funcao": 1,
+		"sub_funcao": 0,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Palmas",
 		"funcao": 1,
 		"sub_funcao": 1,
 		"programa": 1,
 		"acao": 1,
 		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Porto Alegre",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 0,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Porto Velho",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 0,
 		"valor_empenhado": 1
+	},
+	{
+		"prefeitura": "Recife",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Rio Branco",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 1,
+		"acao": 0,
+		"valor_liquidado": 0,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Rio de Janeiro",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 1,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Salvador",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "São Luís",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 0,
+		"valor_empenhado": 1
+	},
+	{
+		"prefeitura": "São Paulo",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Teresina",
+		"funcao": 1,
+		"sub_funcao": 1,
+		"programa": 1,
+		"acao": 1,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
+	},
+	{
+		"prefeitura": "Vitória",
+		"funcao": 0,
+		"sub_funcao": 0,
+		"programa": 0,
+		"acao": 0,
+		"valor_liquidado": 1,
+		"valor_empenhado": 0
 	}
 ]
