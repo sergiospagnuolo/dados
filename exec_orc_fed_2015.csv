@@ -1,0 +1,19 @@
+cod,programa,empenhado,liquidado,%_liquidado,pago,%_pago,tipo
+0907,Refinanciamento da Divida Interna,606.24,386.46,63.75,386.46,100.00,operações especiais
+0905,Servico da Divida Interna (Juros e Amortizações),375.31,244.65,65.18,244.65,100.00,operações especiais
+2061,Previdência Social,428.21,234.42,54.74,208.62,89.00,social
+0903,Transferências Constitucionais e de Legislação Específica,232.55,117.64,50.59,117.18,99.61,operações especiais
+0089,Previdência de Inativos e Pensionistas da União,82.99,57.67,69.49,57.60,99.88,social
+2015,Aperfeicoamento do Sistema Único de Saude (Sus),64.90,47.78,73.62,46.86,98.08,social
+2071,Trabalho, Emprego e Renda,41.10,25.44,61.91,25.44,99.98,social
+2037,Fortalecimento do Sistema Único de Assistência Social (Suas),41.82,24.91,59.57,24.16,96.99,social
+0902,Financiamentos Com Retorno,42.89,21.80,50.83,21.80,100.00,operações especiais
+0909,Outros Encargos Especiais,27.62,20.59,74.57,20.55,99.78,operações especiais
+2109,Programa de Gestão e Manutenção do Ministério da Educação,30.64,20.04,65.42,20.03,99.92,social
+2019,Bolsa Familia,27.61,15.93,57.71,15.93,100.00,social
+2108,Programa de Gestao e Manutenção do Ministério da Defesa,22.91,15.54,67.83,14.99,96.46,defesa
+2030,Educação Básica,21.98,10.70,48.67,10.65,99.53,social
+0906,Servico da Dívida Externa (Juros E Amortizações),8.92,8.25,92.45,8.25,100.00,operações especiais
+0553,Atuação da Câmara dos Deputados,3.43,2.00,58.28,1.98,99.09,legislativo
+0551,Atuação do Senado Federal,2.14,1.25,58.27,1.24,99.89,legislativo
+n/a,Outros,155.09,93.75,60.45,90.96,97.03,outros
