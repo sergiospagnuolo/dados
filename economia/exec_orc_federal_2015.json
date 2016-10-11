@@ -1,0 +1,182 @@
+[
+	{
+		"cod": 907,
+		"programa": "Refinanciamento da Divida Interna",
+		"empenhado": 606.24,
+		"liquidado": 386.46,
+		"%_liquidado": 63.75,
+		"pago": 386.46,
+		"%_pago": 100,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 905,
+		"programa": "Servico da Divida Interna (Juros e Amortizações)",
+		"empenhado": 375.31,
+		"liquidado": 244.65,
+		"%_liquidado": 65.18,
+		"pago": 244.65,
+		"%_pago": 100,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 2061,
+		"programa": "Previdência Social",
+		"empenhado": 428.21,
+		"liquidado": 234.42,
+		"%_liquidado": 54.74,
+		"pago": 208.62,
+		"%_pago": 89,
+		"tipo": "social"
+	},
+	{
+		"cod": 903,
+		"programa": "Transferências Constitucionais e de Legislação Específica",
+		"empenhado": 232.55,
+		"liquidado": 117.64,
+		"%_liquidado": 50.59,
+		"pago": 117.18,
+		"%_pago": 99.61,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 89,
+		"programa": "Previdência de Inativos e Pensionistas da União",
+		"empenhado": 82.99,
+		"liquidado": 57.67,
+		"%_liquidado": 69.49,
+		"pago": 57.6,
+		"%_pago": 99.88,
+		"tipo": "social"
+	},
+	{
+		"cod": 2015,
+		"programa": "Aperfeicoamento do Sistema Único de Saude (Sus)",
+		"empenhado": 64.9,
+		"liquidado": 47.78,
+		"%_liquidado": 73.62,
+		"pago": 46.86,
+		"%_pago": 98.08,
+		"tipo": "social"
+	},
+	{
+		"cod": 2071,
+		"programa": "Trabalho Emprego e Renda",
+		"empenhado": 41.1,
+		"liquidado": 25.44,
+		"%_liquidado": 61.91,
+		"pago": 25.44,
+		"%_pago": 99.98,
+		"tipo": "social"
+	},
+	{
+		"cod": 2037,
+		"programa": "Fortalecimento do Sistema Único de Assistência Social (Suas)",
+		"empenhado": 41.82,
+		"liquidado": 24.91,
+		"%_liquidado": 59.57,
+		"pago": 24.16,
+		"%_pago": 96.99,
+		"tipo": "social"
+	},
+	{
+		"cod": 902,
+		"programa": "Financiamentos Com Retorno",
+		"empenhado": 42.89,
+		"liquidado": 21.8,
+		"%_liquidado": 50.83,
+		"pago": 21.8,
+		"%_pago": 100,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 909,
+		"programa": "Outros Encargos Especiais",
+		"empenhado": 27.62,
+		"liquidado": 20.59,
+		"%_liquidado": 74.57,
+		"pago": 20.55,
+		"%_pago": 99.78,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 2109,
+		"programa": "Programa de Gestão e Manutenção do Ministério da Educação",
+		"empenhado": 30.64,
+		"liquidado": 20.04,
+		"%_liquidado": 65.42,
+		"pago": 20.03,
+		"%_pago": 99.92,
+		"tipo": "social"
+	},
+	{
+		"cod": 2019,
+		"programa": "Bolsa Familia",
+		"empenhado": 27.61,
+		"liquidado": 15.93,
+		"%_liquidado": 57.71,
+		"pago": 15.93,
+		"%_pago": 100,
+		"tipo": "social"
+	},
+	{
+		"cod": 2108,
+		"programa": "Programa de Gestao e Manutenção do Ministério da Defesa",
+		"empenhado": 22.91,
+		"liquidado": 15.54,
+		"%_liquidado": 67.83,
+		"pago": 14.99,
+		"%_pago": 96.46,
+		"tipo": "defesa"
+	},
+	{
+		"cod": 2030,
+		"programa": "Educação Básica",
+		"empenhado": 21.98,
+		"liquidado": 10.7,
+		"%_liquidado": 48.67,
+		"pago": 10.65,
+		"%_pago": 99.53,
+		"tipo": "social"
+	},
+	{
+		"cod": 906,
+		"programa": "Servico da Dívida Externa (Juros E Amortizações)",
+		"empenhado": 8.92,
+		"liquidado": 8.25,
+		"%_liquidado": 92.45,
+		"pago": 8.25,
+		"%_pago": 100,
+		"tipo": "operações especiais"
+	},
+	{
+		"cod": 553,
+		"programa": "Atuação da Câmara dos Deputados",
+		"empenhado": 3.43,
+		"liquidado": 2,
+		"%_liquidado": 58.28,
+		"pago": 1.98,
+		"%_pago": 99.09,
+		"tipo": "legislativo"
+	},
+	{
+		"cod": 551,
+		"programa": "Atuação do Senado Federal",
+		"empenhado": 2.14,
+		"liquidado": 1.25,
+		"%_liquidado": 58.27,
+		"pago": 1.24,
+		"%_pago": 99.89,
+		"tipo": "legislativo"
+	},
+	{
+		"cod": "n/a",
+		"programa": "Outros",
+		"empenhado": 155.09,
+		"liquidado": 93.75,
+		"%_liquidado": 60.45,
+		"pago": 90.96,
+		"%_pago": 97.03,
+		"tipo": "outros"
+	}
+]
