@@ -1,0 +1,613 @@
+Instituição,Cod.IBGE,UF,PODER,População,Conta,Valor
+Governo do Estado do Acre,12,AC,Executivo,803513,RECEITA CORRENTE LIQUIDA - RCL (IV),3906065810.2
+Governo do Estado do Acre,12,AC,Executivo,803513,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1818273634.7
+Governo do Estado do Acre,12,AC,Executivo,803513,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1913972247.0
+Governo do Estado do Acre,12,AC,Executivo,803513,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1722575022.3
+Governo do Estado do Acre,12,AC,Executivo,803513,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1976127200.7
+Governo do Estado de Alagoas,27,AL,Executivo,3340932,RECEITA CORRENTE LIQUIDA - RCL (IV),6340972892.2
+Governo do Estado de Alagoas,27,AL,Executivo,3340932,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2951722881.3
+Governo do Estado de Alagoas,27,AL,Executivo,3340932,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3107076717.2
+Governo do Estado de Alagoas,27,AL,Executivo,3340932,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2796369045.5
+Governo do Estado de Alagoas,27,AL,Executivo,3340932,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),3078738643.4
+Governo do Estado do Amazonas,13,AM,Executivo,3938336,RECEITA CORRENTE LIQUIDA - RCL (IV),10622700546.6
+Governo do Estado do Amazonas,13,AM,Executivo,3938336,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",4944867104.5
+Governo do Estado do Amazonas,13,AM,Executivo,3938336,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",5205123267.9
+Governo do Estado do Amazonas,13,AM,Executivo,3938336,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",4684610941.1
+Governo do Estado do Amazonas,13,AM,Executivo,3938336,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),5193908202.1
+Governo do Estado do Amapá,16,AP,Executivo,766679,RECEITA CORRENTE LIQUIDA - RCL (IV),3827160251.3
+Governo do Estado do Amapá,16,AP,Executivo,766679,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1781543097.0
+Governo do Estado do Amapá,16,AP,Executivo,766679,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1875308523.1
+Governo do Estado do Amapá,16,AP,Executivo,766679,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1687777670.8
+Governo do Estado do Amapá,16,AP,Executivo,766679,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1632292869.5
+Governo do Estado da Bahia,29,BA,Executivo,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Governo do Estado da Bahia,29,BA,Executivo,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",12618012456.3
+Governo do Estado da Bahia,29,BA,Executivo,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",13282118375.0
+Governo do Estado da Bahia,29,BA,Executivo,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",11953906537.5
+Governo do Estado da Bahia,29,BA,Executivo,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),13194322737.1
+Governo do Estado do Ceará,23,CE,Executivo,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Governo do Estado do Ceará,23,CE,Executivo,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",7190067884.5
+Governo do Estado do Ceará,23,CE,Executivo,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",7568492510.0
+Governo do Estado do Ceará,23,CE,Executivo,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",6811643259.0
+Governo do Estado do Ceará,23,CE,Executivo,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),6892779827.0
+Governo do Distrito Federal,53,DF,Executivo,2914830,RECEITA CORRENTE LIQUIDA - RCL (IV),18891180516.5
+Governo do Distrito Federal,53,DF,Executivo,2914830,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",8793844530.4
+Governo do Distrito Federal,53,DF,Executivo,2914830,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",9256678453.1
+Governo do Distrito Federal,53,DF,Executivo,2914830,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",8331010607.8
+Governo do Distrito Federal,53,DF,Executivo,2914830,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),8893655744.9
+Governo do Estado do Espírito Santo,32,ES,Executivo,3929911,RECEITA CORRENTE LIQUIDA - RCL (IV),11887670740.1
+Governo do Estado do Espírito Santo,32,ES,Executivo,3929911,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",5533710729.5
+Governo do Estado do Espírito Santo,32,ES,Executivo,3929911,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",5824958662.7
+Governo do Estado do Espírito Santo,32,ES,Executivo,3929911,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",5242462796.4
+Governo do Estado do Espírito Santo,32,ES,Executivo,3929911,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),5172047357.0
+Governo do Estado de Goiás,52,GO,Executivo,6610681,RECEITA CORRENTE LIQUIDA - RCL (IV),17908053634.5
+Governo do Estado de Goiás,52,GO,Executivo,6610681,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",8268148363.0
+Governo do Estado de Goiás,52,GO,Executivo,6610681,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",8703314066.4
+Governo do Estado de Goiás,52,GO,Executivo,6610681,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",7832982659.7
+Governo do Estado de Goiás,52,GO,Executivo,6610681,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),8605924188.6
+Governo do Estado do Maranhão,21,MA,Executivo,6904241,RECEITA CORRENTE LIQUIDA - RCL (IV),10802513622.5
+Governo do Estado do Maranhão,21,MA,Executivo,6904241,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",5028570091.3
+Governo do Estado do Maranhão,21,MA,Executivo,6904241,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",5293231675.0
+Governo do Estado do Maranhão,21,MA,Executivo,6904241,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",4763908507.5
+Governo do Estado do Maranhão,21,MA,Executivo,6904241,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),4817477771.2
+Governo do Estado de Minas Gerais,31,MG,Executivo,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Governo do Estado de Minas Gerais,31,MG,Executivo,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",24619137305.9
+Governo do Estado de Minas Gerais,31,MG,Executivo,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",25914881374.6
+Governo do Estado de Minas Gerais,31,MG,Executivo,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",23323393237.2
+Governo do Estado de Minas Gerais,31,MG,Executivo,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),25235179474.2
+Governo do Estado do Mato Grosso,51,MT,Executivo,3265486,RECEITA CORRENTE LIQUIDA - RCL (IV),12209085734.5
+Governo do Estado do Mato Grosso,51,MT,Executivo,3265486,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",5683329409.4
+Governo do Estado do Mato Grosso,51,MT,Executivo,3265486,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",5982452009.9
+Governo do Estado do Mato Grosso,51,MT,Executivo,3265486,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",5384206808.9
+Governo do Estado do Mato Grosso,51,MT,Executivo,3265486,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),6161249139.6
+Governo do Estado do Pará,15,PA,Executivo,8175113,RECEITA CORRENTE LIQUIDA - RCL (IV),17159995483.0
+Governo do Estado do Pará,15,PA,Executivo,8175113,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",7922769914.5
+Governo do Estado do Pará,15,PA,Executivo,8175113,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",8339757804.7
+Governo do Estado do Pará,15,PA,Executivo,8175113,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",7505782024.3
+Governo do Estado do Pará,15,PA,Executivo,8175113,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),7983561359.8
+Governo do Estado da Paraíba,25,PB,Executivo,3972202,RECEITA CORRENTE LIQUIDA - RCL (IV),7952572998.4
+Governo do Estado da Paraíba,25,PB,Executivo,3972202,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",3701922730.8
+Governo do Estado da Paraíba,25,PB,Executivo,3972202,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3896760769.2
+Governo do Estado da Paraíba,25,PB,Executivo,3972202,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",3507084692.3
+Governo do Estado da Paraíba,25,PB,Executivo,3972202,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),4148786022.0
+Governo do Estado de Pernambuco,26,PE,Executivo,9345173,RECEITA CORRENTE LIQUIDA - RCL (IV),19727049222.7
+Governo do Estado de Pernambuco,26,PE,Executivo,9345173,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",9182941413.2
+Governo do Estado de Pernambuco,26,PE,Executivo,9345173,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",9666254119.1
+Governo do Estado de Pernambuco,26,PE,Executivo,9345173,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",8699628707.2
+Governo do Estado de Pernambuco,26,PE,Executivo,9345173,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),9296372693.6
+Governo do Estado do Piauí,22,PI,Executivo,3204028,RECEITA CORRENTE LIQUIDA - RCL (IV),6689897326.2
+Governo do Estado do Piauí,22,PI,Executivo,3204028,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",3114147205.3
+Governo do Estado do Piauí,22,PI,Executivo,3204028,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3278049689.8
+Governo do Estado do Piauí,22,PI,Executivo,3204028,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2950244720.8
+Governo do Estado do Piauí,22,PI,Executivo,3204028,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),3158800003.2
+Governo do Estado do Paraná,41,PR,Executivo,11163018,RECEITA CORRENTE LIQUIDA - RCL (IV),33316002510.4
+Governo do Estado do Paraná,41,PR,Executivo,11163018,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",15508599168.6
+Governo do Estado do Paraná,41,PR,Executivo,11163018,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",16324841230.1
+Governo do Estado do Paraná,41,PR,Executivo,11163018,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",14692357107.1
+Governo do Estado do Paraná,41,PR,Executivo,11163018,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),14751464083.1
+Governo do Estado do Rio de Janeiro,33,RJ,Executivo,16550024,RECEITA CORRENTE LIQUIDA - RCL (IV),49131341507.0
+Governo do Estado do Rio de Janeiro,33,RJ,Executivo,16550024,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",22870639471.5
+Governo do Estado do Rio de Janeiro,33,RJ,Executivo,16550024,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",24074357338.4
+Governo do Estado do Rio de Janeiro,33,RJ,Executivo,16550024,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",21666921604.6
+Governo do Estado do Rio de Janeiro,33,RJ,Executivo,16550024,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),19547025554.6
+Governo do Estado do Rio Grande do Norte,24,RN,Executivo,3442175,RECEITA CORRENTE LIQUIDA - RCL (IV),8036936741.0
+Governo do Estado do Rio Grande do Norte,24,RN,Executivo,3442175,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",3741194053.0
+Governo do Estado do Rio Grande do Norte,24,RN,Executivo,3442175,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3938099003.1
+Governo do Estado do Rio Grande do Norte,24,RN,Executivo,3442175,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",3544289102.8
+Governo do Estado do Rio Grande do Norte,24,RN,Executivo,3442175,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),4135012774.8
+Governo do Estado de Rondônia,11,RO,Executivo,1768204,RECEITA CORRENTE LIQUIDA - RCL (IV),5882366543.2
+Governo do Estado de Rondônia,11,RO,Executivo,1768204,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2738241625.9
+Governo do Estado de Rondônia,11,RO,Executivo,1768204,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",2882359606.2
+Governo do Estado de Rondônia,11,RO,Executivo,1768204,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2594123645.6
+Governo do Estado de Rondônia,11,RO,Executivo,1768204,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),2623928168.7
+Governo do Estado de Roraima,14,RR,Executivo,505665,RECEITA CORRENTE LIQUIDA - RCL (IV),2919517844.1
+Governo do Estado de Roraima,14,RR,Executivo,505665,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1359035556.4
+Governo do Estado de Roraima,14,RR,Executivo,505665,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1430563743.6
+Governo do Estado de Roraima,14,RR,Executivo,505665,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1287507369.3
+Governo do Estado de Roraima,14,RR,Executivo,505665,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1368785445.3
+Governo do Estado do Rio Grande do Sul,43,RS,Executivo,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Governo do Estado do Rio Grande do Sul,43,RS,Executivo,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",14717491515.4
+Governo do Estado do Rio Grande do Sul,43,RS,Executivo,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",15492096332.0
+Governo do Estado do Rio Grande do Sul,43,RS,Executivo,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",13942886698.8
+Governo do Estado do Rio Grande do Sul,43,RS,Executivo,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),15021430484.5
+Governo do Estado de Santa Catarina,42,SC,Executivo,6819190,RECEITA CORRENTE LIQUIDA - RCL (IV),19795816098.7
+Governo do Estado de Santa Catarina,42,SC,Executivo,6819190,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",9214952393.9
+Governo do Estado de Santa Catarina,42,SC,Executivo,6819190,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",9699949888.4
+Governo do Estado de Santa Catarina,42,SC,Executivo,6819190,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",8729954899.5
+Governo do Estado de Santa Catarina,42,SC,Executivo,6819190,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),9250726345.7
+Governo do Estado de Sergipe,28,SE,Executivo,2242937,RECEITA CORRENTE LIQUIDA - RCL (IV),6297705692.8
+Governo do Estado de Sergipe,28,SE,Executivo,2242937,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2931582000.0
+Governo do Estado de Sergipe,28,SE,Executivo,2242937,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3085875789.5
+Governo do Estado de Sergipe,28,SE,Executivo,2242937,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2777288210.5
+Governo do Estado de Sergipe,28,SE,Executivo,2242937,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),2907154236.3
+Governo do Estado de São Paulo,35,SP,Executivo,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496347936.1
+Governo do Estado de São Paulo,35,SP,Executivo,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",65866549964.3
+Governo do Estado de São Paulo,35,SP,Executivo,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",69333210488.7
+Governo do Estado de São Paulo,35,SP,Executivo,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",62399889439.8
+Governo do Estado de São Paulo,35,SP,Executivo,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),65606626652.9
+Governo do Estado do Tocantins,17,TO,Executivo,1515126,RECEITA CORRENTE LIQUIDA - RCL (IV),6435301473.5
+Governo do Estado do Tocantins,17,TO,Executivo,1515126,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2995632835.9
+Governo do Estado do Tocantins,17,TO,Executivo,1515126,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3153297722.0
+Governo do Estado do Tocantins,17,TO,Executivo,1515126,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2837967949.8
+Governo do Estado do Tocantins,17,TO,Executivo,1515126,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),3389057457.6
+Tribunal de Justiça do Estado do Acre,12,AC,Judiciário,803513,RECEITA CORRENTE LIQUIDA - RCL (IV),3906065810.2
+Tribunal de Justiça do Estado do Acre,12,AC,Judiciário,803513,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",222645751.2
+Tribunal de Justiça do Estado do Acre,12,AC,Judiciário,803513,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",234363948.6
+Tribunal de Justiça do Estado do Acre,12,AC,Judiciário,803513,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",210927553.8
+Tribunal de Justiça do Estado do Acre,12,AC,Judiciário,803513,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),181601478.3
+Tribunal de Justiça do Estado do Amazonas,13,AM,Judiciário,3938336,RECEITA CORRENTE LIQUIDA - RCL (IV),10622700546.6
+Tribunal de Justiça do Estado do Amazonas,13,AM,Judiciário,3938336,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",605493931.2
+Tribunal de Justiça do Estado do Amazonas,13,AM,Judiciário,3938336,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",637362032.8
+Tribunal de Justiça do Estado do Amazonas,13,AM,Judiciário,3938336,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",573625829.5
+Tribunal de Justiça do Estado do Amazonas,13,AM,Judiciário,3938336,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),412023832.8
+Tribunal de Justiça do Estado do Amapá,16,AP,Judiciário,766679,RECEITA CORRENTE LIQUIDA - RCL (IV),3827160251.3
+Tribunal de Justiça do Estado do Amapá,16,AP,Judiciário,766679,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",218148134.3
+Tribunal de Justiça do Estado do Amapá,16,AP,Judiciário,766679,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",229629615.1
+Tribunal de Justiça do Estado do Amapá,16,AP,Judiciário,766679,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",206666653.6
+Tribunal de Justiça do Estado do Amapá,16,AP,Judiciário,766679,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),182783400.2
+Tribunal de Justiça do Estado da Bahia,29,BA,Judiciário,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Tribunal de Justiça do Estado da Bahia,29,BA,Judiciário,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1557779315.6
+Tribunal de Justiça do Estado da Bahia,29,BA,Judiciário,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1639767700.6
+Tribunal de Justiça do Estado da Bahia,29,BA,Judiciário,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1475790930.6
+Tribunal de Justiça do Estado da Bahia,29,BA,Judiciário,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1379748080.6
+Tribunal de Justiça do Estado do Ceará,23,CE,Judiciário,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Tribunal de Justiça do Estado do Ceará,23,CE,Judiciário,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",887662701.8
+Tribunal de Justiça do Estado do Ceará,23,CE,Judiciário,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",934381791.4
+Tribunal de Justiça do Estado do Ceará,23,CE,Judiciário,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",840943612.2
+Tribunal de Justiça do Estado do Ceará,23,CE,Judiciário,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),868609747.9
+Tribunal de Justiça do Estado do Espírito Santo,32,ES,Judiciário,3929911,RECEITA CORRENTE LIQUIDA - RCL (IV),11887670740.1
+Tribunal de Justiça do Estado do Espírito Santo,32,ES,Judiciário,3929911,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",677597232.2
+Tribunal de Justiça do Estado do Espírito Santo,32,ES,Judiciário,3929911,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",713260244.4
+Tribunal de Justiça do Estado do Espírito Santo,32,ES,Judiciário,3929911,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",641934220.0
+Tribunal de Justiça do Estado do Espírito Santo,32,ES,Judiciário,3929911,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),737193992.3
+Tribunal de Justiça do Estado de Goiás,52,GO,Judiciário,6610681,RECEITA CORRENTE LIQUIDA - RCL (IV),17908053634.5
+Tribunal de Justiça do Estado de Goiás,52,GO,Judiciário,6610681,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1020759057.2
+Tribunal de Justiça do Estado de Goiás,52,GO,Judiciário,6610681,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1074483218.1
+Tribunal de Justiça do Estado de Goiás,52,GO,Judiciário,6610681,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",967034896.3
+Tribunal de Justiça do Estado de Goiás,52,GO,Judiciário,6610681,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),896361770.9
+Tribunal de Justiça do Estado do Maranhão,21,MA,Judiciário,6904241,RECEITA CORRENTE LIQUIDA - RCL (IV),10802513622.5
+Tribunal de Justiça do Estado do Maranhão,21,MA,Judiciário,6904241,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",615743276.5
+Tribunal de Justiça do Estado do Maranhão,21,MA,Judiciário,6904241,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",648150817.4
+Tribunal de Justiça do Estado do Maranhão,21,MA,Judiciário,6904241,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",583335735.6
+Tribunal de Justiça do Estado do Maranhão,21,MA,Judiciário,6904241,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),587422190.5
+Tribunal de Justiça do Estado de Minas Gerais,31,MG,Judiciário,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Tribunal de Justiça Militar de Minas Gerais,31,MG,Judiciário,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Tribunal de Justiça do Estado de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2969369417.9
+Tribunal de Justiça Militar de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",45218823.6
+Tribunal de Justiça do Estado de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",3125652018.9
+Tribunal de Justiça Militar de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",47598761.7
+Tribunal de Justiça do Estado de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2813086817.0
+Tribunal de Justiça Militar de Minas Gerais,31,MG,Judiciário,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",42838885.5
+Tribunal de Justiça do Estado de Minas Gerais,31,MG,Judiciário,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),2723899478.3
+Tribunal de Justiça Militar de Minas Gerais,31,MG,Judiciário,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),29514180.6
+Tribunal de Justiça do Estado do Mato Grosso,51,MT,Judiciário,3265486,RECEITA CORRENTE LIQUIDA - RCL (IV),12209085734.5
+Tribunal de Justiça do Estado do Mato Grosso,51,MT,Judiciário,3265486,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",695917886.9
+Tribunal de Justiça do Estado do Mato Grosso,51,MT,Judiciário,3265486,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",732545144.1
+Tribunal de Justiça do Estado do Mato Grosso,51,MT,Judiciário,3265486,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",659290629.7
+Tribunal de Justiça do Estado do Mato Grosso,51,MT,Judiciário,3265486,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),612309610.0
+Tribunal de Justiça do Estado do Pará,15,PA,Judiciário,8175113,RECEITA CORRENTE LIQUIDA - RCL (IV),17159995000.0
+Tribunal de Justiça do Estado do Pará,15,PA,Judiciário,8175113,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",978119715.0
+Tribunal de Justiça do Estado do Pará,15,PA,Judiciário,8175113,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1029599700.0
+Tribunal de Justiça do Estado do Pará,15,PA,Judiciário,8175113,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",926639730.0
+Tribunal de Justiça do Estado do Pará,15,PA,Judiciário,8175113,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),723214416.0
+Tribunal de Justiça do Estado da Paraíba,25,PB,Judiciário,3972202,RECEITA CORRENTE LIQUIDA - RCL (IV),7952574202.7
+Tribunal de Justiça do Estado da Paraíba,25,PB,Judiciário,3972202,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",453296729.6
+Tribunal de Justiça do Estado da Paraíba,25,PB,Judiciário,3972202,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",477154452.2
+Tribunal de Justiça do Estado da Paraíba,25,PB,Judiciário,3972202,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",429439006.9
+Tribunal de Justiça do Estado da Paraíba,25,PB,Judiciário,3972202,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),455842998.7
+Tribunal de Justiça do Estado de Pernambuco,26,PE,Judiciário,9345173,RECEITA CORRENTE LIQUIDA - RCL (IV),19727049222.7
+Tribunal de Justiça do Estado de Pernambuco,26,PE,Judiciário,9345173,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1124441805.7
+Tribunal de Justiça do Estado de Pernambuco,26,PE,Judiciário,9345173,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1183622953.4
+Tribunal de Justiça do Estado de Pernambuco,26,PE,Judiciário,9345173,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1065260658.0
+Tribunal de Justiça do Estado de Pernambuco,26,PE,Judiciário,9345173,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1057083512.5
+Tribunal de Justiça do Estado do Piauí,22,PI,Judiciário,3204028,RECEITA CORRENTE LIQUIDA - RCL (IV),6689897326.2
+Tribunal de Justiça do Estado do Piauí,22,PI,Judiciário,3204028,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",381324147.6
+Tribunal de Justiça do Estado do Piauí,22,PI,Judiciário,3204028,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",401393839.6
+Tribunal de Justiça do Estado do Piauí,22,PI,Judiciário,3204028,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",361254455.6
+Tribunal de Justiça do Estado do Piauí,22,PI,Judiciário,3204028,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),369075127.1
+Tribunal de Justiça do Estado do Paraná,41,PR,Judiciário,11163018,RECEITA CORRENTE LIQUIDA - RCL (IV),33316002510.4
+Tribunal de Justiça do Estado do Paraná,41,PR,Judiciário,11163018,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1899012143.1
+Tribunal de Justiça do Estado do Paraná,41,PR,Judiciário,11163018,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1998960150.6
+Tribunal de Justiça do Estado do Paraná,41,PR,Judiciário,11163018,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1799064135.6
+Tribunal de Justiça do Estado do Paraná,41,PR,Judiciário,11163018,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1502482150.3
+Tribunal de Justiça do Estado do Rio de Janeiro,33,RJ,Judiciário,16550024,RECEITA CORRENTE LIQUIDA - RCL (IV),49131341507.0
+Tribunal de Justiça do Estado do Rio de Janeiro,33,RJ,Judiciário,16550024,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2800486465.9
+Tribunal de Justiça do Estado do Rio de Janeiro,33,RJ,Judiciário,16550024,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",2947880490.4
+Tribunal de Justiça do Estado do Rio de Janeiro,33,RJ,Judiciário,16550024,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2653092441.4
+Tribunal de Justiça do Estado do Rio de Janeiro,33,RJ,Judiciário,16550024,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),2789767354.2
+Tribunal de Justiça do Estado de Rondônia,11,RO,Judiciário,1768204,RECEITA CORRENTE LIQUIDA - RCL (IV),5646246176.2
+Tribunal de Justiça do Estado de Rondônia,11,RO,Judiciário,1768204,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",321836032.0
+Tribunal de Justiça do Estado de Rondônia,11,RO,Judiciário,1768204,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",338774770.6
+Tribunal de Justiça do Estado de Rondônia,11,RO,Judiciário,1768204,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",304897293.5
+Tribunal de Justiça do Estado de Rondônia,11,RO,Judiciário,1768204,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),302191040.7
+Tribunal de Justiça do Estado de Roraima,14,RR,Judiciário,505665,RECEITA CORRENTE LIQUIDA - RCL (IV),2919517844.1
+Tribunal de Justiça do Estado de Roraima,14,RR,Judiciário,505665,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",166412517.1
+Tribunal de Justiça do Estado de Roraima,14,RR,Judiciário,505665,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",175171070.7
+Tribunal de Justiça do Estado de Roraima,14,RR,Judiciário,505665,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",157653963.6
+Tribunal de Justiça do Estado de Roraima,14,RR,Judiciário,505665,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),122639553.3
+Tribunal de Justiça do Estado do Rio Grande do Sul,43,RS,Judiciário,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Tribunal de Justiça Militar do Rio Grande do Sul,43,RS,Judiciário,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Tribunal de Justiça do Estado do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1766098981.9
+Tribunal de Justiça Militar do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",36042836.4
+Tribunal de Justiça do Estado do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1859051559.8
+Tribunal de Justiça Militar do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",37939827.8
+Tribunal de Justiça do Estado do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1673146403.9
+Tribunal de Justiça Militar do Rio Grande do Sul,43,RS,Judiciário,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",34145845.0
+Tribunal de Justiça do Estado do Rio Grande do Sul,43,RS,Judiciário,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1553791320.2
+Tribunal de Justiça Militar do Rio Grande do Sul,43,RS,Judiciário,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),18713728.8
+Tribunal de Justiça do Estado de Santa Catarina,42,SC,Judiciário,6819190,RECEITA CORRENTE LIQUIDA - RCL (IV),19795816098.7
+Tribunal de Justiça do Estado de Santa Catarina,42,SC,Judiciário,6819190,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1128361517.6
+Tribunal de Justiça do Estado de Santa Catarina,42,SC,Judiciário,6819190,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1187748965.9
+Tribunal de Justiça do Estado de Santa Catarina,42,SC,Judiciário,6819190,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1068974069.3
+Tribunal de Justiça do Estado de Santa Catarina,42,SC,Judiciário,6819190,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1033146628.9
+Tribunal de Justiça do Estado de São Paulo,35,SP,Judiciário,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496348000.0
+Tribunal de Justiça Militar de São Paulo,35,SP,Judiciário,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496348000.0
+Tribunal de Justiça do Estado de São Paulo,35,SP,Judiciário,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",7998081070.7
+Tribunal de Justiça Militar de São Paulo,35,SP,Judiciário,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",67210765.3
+Tribunal de Justiça do Estado de São Paulo,35,SP,Judiciário,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",8419032706.0
+Tribunal de Justiça Militar de São Paulo,35,SP,Judiciário,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",70748174.0
+Tribunal de Justiça do Estado de São Paulo,35,SP,Judiciário,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",7577129435.4
+Tribunal de Justiça Militar de São Paulo,35,SP,Judiciário,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",63673356.6
+Tribunal de Justiça do Estado de São Paulo,35,SP,Judiciário,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),7003357768.9
+Tribunal de Justiça Militar de São Paulo,35,SP,Judiciário,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),44636635.4
+Tribunal de Justiça do Estado do Tocantins,17,TO,Judiciário,1515126,RECEITA CORRENTE LIQUIDA - RCL (IV),6435301473.5
+Tribunal de Justiça do Estado do Tocantins,17,TO,Judiciário,1515126,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",366812184.0
+Tribunal de Justiça do Estado do Tocantins,17,TO,Judiciário,1515126,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",386118088.4
+Tribunal de Justiça do Estado do Tocantins,17,TO,Judiciário,1515126,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",347506279.6
+Tribunal de Justiça do Estado do Tocantins,17,TO,Judiciário,1515126,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),369804380.0
+Tribunal de Contas do Estado do Acre,12,AC,Legislativo,803513,RECEITA CORRENTE LIQUIDA - RCL (IV),3906065810.2
+Assembleia Legislativa do Estado do Acre,12,AC,Legislativo,803513,RECEITA CORRENTE LIQUIDA - RCL (IV),3906065810.2
+Tribunal de Contas do Estado do Acre,12,AC,Legislativo,803513,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",37107625.2
+Assembleia Legislativa do Estado do Acre,12,AC,Legislativo,803513,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",74215250.4
+Tribunal de Contas do Estado do Acre,12,AC,Legislativo,803513,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",39060658.1
+Assembleia Legislativa do Estado do Acre,12,AC,Legislativo,803513,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",78121316.2
+Tribunal de Contas do Estado do Acre,12,AC,Legislativo,803513,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",35154592.3
+Assembleia Legislativa do Estado do Acre,12,AC,Legislativo,803513,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",70309184.6
+Tribunal de Contas do Estado do Acre,12,AC,Legislativo,803513,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),34883196.4
+Assembleia Legislativa do Estado do Acre,12,AC,Legislativo,803513,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),91279894.1
+Tribunal de Contas do Estado de Alagoas,27,AL,Legislativo,3340932,RECEITA CORRENTE LIQUIDA - RCL (IV),6340972892.2
+Tribunal de Contas do Estado de Alagoas,27,AL,Legislativo,3340932,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",60239243.4
+Tribunal de Contas do Estado de Alagoas,27,AL,Legislativo,3340932,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",63409729.9
+Tribunal de Contas do Estado de Alagoas,27,AL,Legislativo,3340932,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",57068756.9
+Tribunal de Contas do Estado de Alagoas,27,AL,Legislativo,3340932,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),93145438.0
+Tribunal de Contas do Estado do Amazonas,13,AM,Legislativo,3938336,RECEITA CORRENTE LIQUIDA - RCL (IV),10622700546.6
+Assembleia Legislativa do Estado do Amazonas,13,AM,Legislativo,3938336,RECEITA CORRENTE LIQUIDA - RCL (IV),10622700546.6
+Tribunal de Contas do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",144309386.9
+Assembleia Legislativa do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",158437578.7
+Tribunal de Contas do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",151904617.8
+Assembleia Legislativa do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",166776398.6
+Tribunal de Contas do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",136714156.0
+Assembleia Legislativa do Estado do Amazonas,13,AM,Legislativo,3938336,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",150098758.7
+Tribunal de Contas do Estado do Amazonas,13,AM,Legislativo,3938336,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),144905447.3
+Assembleia Legislativa do Estado do Amazonas,13,AM,Legislativo,3938336,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),155658561.4
+Tribunal de Contas do Estado do Amapá,16,AP,Legislativo,766679,RECEITA CORRENTE LIQUIDA - RCL (IV),3827160251.3
+Assembleia Legislativa do Estado do Amapá,16,AP,Legislativo,766679,RECEITA CORRENTE LIQUIDA - RCL (IV),3827160251.3
+Tribunal de Contas do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",42175306.0
+Assembleia Legislativa do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",72716044.8
+Tribunal de Contas do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",44395058.9
+Assembleia Legislativa do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",76543205.0
+Tribunal de Contas do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",39955553.0
+Assembleia Legislativa do Estado do Amapá,16,AP,Legislativo,766679,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",68888884.5
+Tribunal de Contas do Estado do Amapá,16,AP,Legislativo,766679,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),39058216.2
+Assembleia Legislativa do Estado do Amapá,16,AP,Legislativo,766679,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),70294321.1
+Assembleia Legislativa do Estado da Bahia,29,BA,Legislativo,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Tribunal de Contas dos Municípios do Estado da Bahia,29,BA,Legislativo,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Tribunal de Contas do Estado da Bahia,29,BA,Legislativo,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Assembleia Legislativa do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",485507886.7
+Tribunal de Contas dos Municípios do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",163566828.1
+Tribunal de Contas do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",233666897.3
+Assembleia Legislativa do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",511060933.4
+Tribunal de Contas dos Municípios do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",172175608.6
+Tribunal de Contas do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",245965155.1
+Assembleia Legislativa do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",459954840.0
+Tribunal de Contas dos Municípios do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",154958047.7
+Tribunal de Contas do Estado da Bahia,29,BA,Legislativo,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",221368639.6
+Assembleia Legislativa do Estado da Bahia,29,BA,Legislativo,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),389543535.0
+Tribunal de Contas dos Municípios do Estado da Bahia,29,BA,Legislativo,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),142117059.6
+Tribunal de Contas do Estado da Bahia,29,BA,Legislativo,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),190415915.2
+Tribunal de Contas dos Municípios do Estado do Ceará,23,CE,Legislativo,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Tribunal de Contas do Estado do Ceará,23,CE,Legislativo,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Assembleia Legislativa do Estado do Ceará,23,CE,Legislativo,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Tribunal de Contas dos Municípios do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",91725145.9
+Tribunal de Contas do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",65095264.8
+Assembleia Legislativa do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",346188453.7
+Tribunal de Contas dos Municípios do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",96552785.1
+Tribunal de Contas do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",68521331.4
+Assembleia Legislativa do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",364408898.6
+Tribunal de Contas dos Municípios do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",86897506.6
+Tribunal de Contas do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",61669198.2
+Assembleia Legislativa do Estado do Ceará,23,CE,Legislativo,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",327968008.8
+Tribunal de Contas dos Municípios do Estado do Ceará,23,CE,Legislativo,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),79959099.1
+Tribunal de Contas do Estado do Ceará,23,CE,Legislativo,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),57198313.7
+Assembleia Legislativa do Estado do Ceará,23,CE,Legislativo,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),246906839.9
+Tribunal de Contas do Distrito Federal,53,DF,Legislativo,2914830,RECEITA CORRENTE LIQUIDA - RCL (IV),18891180516.5
+Câmara Legislativa do Distrito Federal,53,DF,Legislativo,2914830,RECEITA CORRENTE LIQUIDA - RCL (IV),18891180516.5
+Tribunal de Contas do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",233306079.4
+Câmara Legislativa do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",305092565.3
+Tribunal de Contas do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",245585346.7
+Câmara Legislativa do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",321150068.8
+Tribunal de Contas do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",221026812.0
+Câmara Legislativa do Distrito Federal,53,DF,Legislativo,2914830,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",289035061.9
+Tribunal de Contas do Distrito Federal,53,DF,Legislativo,2914830,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),188028482.2
+Câmara Legislativa do Distrito Federal,53,DF,Legislativo,2914830,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),286018392.5
+Assembleia Legislativa do Estado do Espírito Santo,32,ES,Legislativo,3929911,RECEITA CORRENTE LIQUIDA - RCL (IV),11887670740.1
+Tribunal de Contas do Estado do Espírito Santo,32,ES,Legislativo,3929911,RECEITA CORRENTE LIQUIDA - RCL (IV),11887670740.1
+Assembleia Legislativa do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",191985882.5
+Tribunal de Contas do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",146812733.6
+Assembleia Legislativa do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",202090402.6
+Tribunal de Contas do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",154539719.6
+Assembleia Legislativa do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",181881362.3
+Tribunal de Contas do Estado do Espírito Santo,32,ES,Legislativo,3929911,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",139085747.7
+Assembleia Legislativa do Estado do Espírito Santo,32,ES,Legislativo,3929911,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),147960927.5
+Tribunal de Contas do Estado do Espírito Santo,32,ES,Legislativo,3929911,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),100034823.7
+Assembleia Legislativa do Estado do Maranhão,21,MA,Legislativo,6904241,RECEITA CORRENTE LIQUIDA - RCL (IV),10802513622.5
+Tribunal de Contas do Estado do Maranhão,21,MA,Legislativo,6904241,RECEITA CORRENTE LIQUIDA - RCL (IV),10802513622.5
+Assembleia Legislativa do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",217562624.4
+Tribunal de Contas do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",90735297.0
+Assembleia Legislativa do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",229013288.8
+Tribunal de Contas do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",95510839.0
+Assembleia Legislativa do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",206111959.9
+Tribunal de Contas do Estado do Maranhão,21,MA,Legislativo,6904241,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",85959755.1
+Assembleia Legislativa do Estado do Maranhão,21,MA,Legislativo,6904241,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),214173260.0
+Tribunal de Contas do Estado do Maranhão,21,MA,Legislativo,6904241,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),98766890.3
+Tribunal de Contas do Estado de Minas Gerais,31,MG,Legislativo,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Assembleia Legislativa do Estado de Minas Gerais,31,MG,Legislativo,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Tribunal de Contas do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",502431373.6
+Assembleia Legislativa do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1004862747.2
+Tribunal de Contas do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",528875130.1
+Assembleia Legislativa do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1057750260.2
+Tribunal de Contas do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",475987617.1
+Assembleia Legislativa do Estado de Minas Gerais,31,MG,Legislativo,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",951975234.2
+Tribunal de Contas do Estado de Minas Gerais,31,MG,Legislativo,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),461558558.9
+Assembleia Legislativa do Estado de Minas Gerais,31,MG,Legislativo,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),821319454.2
+Tribunal de Contas do Estado do Mato Grosso,51,MT,Legislativo,3265486,RECEITA CORRENTE LIQUIDA - RCL (IV),12209085734.5
+Assembleia Legislativa do Estado do Mato Grosso,51,MT,Legislativo,3265486,RECEITA CORRENTE LIQUIDA - RCL (IV),12209085734.5
+Tribunal de Contas do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",142663166.8
+Assembleia Legislativa do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",205295776.6
+Tribunal de Contas do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",150171754.5
+Assembleia Legislativa do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",216100817.5
+Tribunal de Contas do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",135154579.1
+Assembleia Legislativa do Estado do Mato Grosso,51,MT,Legislativo,3265486,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",194490735.8
+Tribunal de Contas do Estado do Mato Grosso,51,MT,Legislativo,3265486,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),141343060.1
+Assembleia Legislativa do Estado do Mato Grosso,51,MT,Legislativo,3265486,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),152886418.9
+Ministério Público de Contas do Estado do Pará,15,PA,Legislativo,8175113,RECEITA CORRENTE LIQUIDA - RCL (IV),17159995000.0
+Ministério Público de Contas dos Municípios do Pará,15,PA,Legislativo,8175113,RECEITA CORRENTE LIQUIDA - RCL (IV),17159995483.0
+Tribunal de Contas dos Municípios do Estado do Pará,15,PA,Legislativo,8175113,RECEITA CORRENTE LIQUIDA - RCL (IV),17159995483.0
+Ministério Público de Contas do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",32603990.5
+Ministério Público de Contas dos Municípios do Pará,15,PA,Legislativo,8175113,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",16301995.7
+Tribunal de Contas dos Municípios do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",105962972.1
+Ministério Público de Contas do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",34319990.0
+Ministério Público de Contas dos Municípios do Pará,15,PA,Legislativo,8175113,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",17159995.5
+Tribunal de Contas dos Municípios do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",111539970.6
+Ministério Público de Contas do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",30887991.0
+Ministério Público de Contas dos Municípios do Pará,15,PA,Legislativo,8175113,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",15443995.9
+Tribunal de Contas dos Municípios do Estado do Pará,15,PA,Legislativo,8175113,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",100385973.6
+Ministério Público de Contas do Estado do Pará,15,PA,Legislativo,8175113,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),22589772.9
+Ministério Público de Contas dos Municípios do Pará,15,PA,Legislativo,8175113,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),11223277.6
+Tribunal de Contas dos Municípios do Estado do Pará,15,PA,Legislativo,8175113,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),92492887.3
+Assembleia Legislativa do Estado da Paraíba,25,PB,Legislativo,3972202,RECEITA CORRENTE LIQUIDA - RCL (IV),7952574202.7
+Tribunal de Contas do Estado da Paraíba,25,PB,Legislativo,3972202,RECEITA CORRENTE LIQUIDA - RCL (IV),7952574202.7
+Assembleia Legislativa do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",143543964.3
+Tribunal de Contas do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",83104400.4
+Assembleia Legislativa do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",151098909.8
+Tribunal de Contas do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",87478316.2
+Assembleia Legislativa do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",135989018.8
+Tribunal de Contas do Estado da Paraíba,25,PB,Legislativo,3972202,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",78730484.6
+Assembleia Legislativa do Estado da Paraíba,25,PB,Legislativo,3972202,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),147006927.9
+Tribunal de Contas do Estado da Paraíba,25,PB,Legislativo,3972202,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),85527134.3
+Assembleia Legislativa do Estado de Pernambuco,26,PE,Legislativo,9345173,RECEITA CORRENTE LIQUIDA - RCL (IV),19727049222.7
+Tribunal de Contas do Estado de Pernambuco,26,PE,Legislativo,9345173,RECEITA CORRENTE LIQUIDA - RCL (IV),19727049222.7
+Assembleia Legislativa do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",269866033.4
+Tribunal de Contas do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",292354869.5
+Assembleia Legislativa do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",284069508.8
+Tribunal de Contas do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",307741967.9
+Assembleia Legislativa do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",255662557.9
+Tribunal de Contas do Estado de Pernambuco,26,PE,Legislativo,9345173,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",276967771.1
+Assembleia Legislativa do Estado de Pernambuco,26,PE,Legislativo,9345173,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),271142991.8
+Tribunal de Contas do Estado de Pernambuco,26,PE,Legislativo,9345173,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),282498775.6
+Assembleia Legislativa do Estado do Piauí,22,PI,Legislativo,3204028,RECEITA CORRENTE LIQUIDA - RCL (IV),6689897326.2
+Tribunal de Contas do Estado do Piauí,22,PI,Legislativo,3204028,RECEITA CORRENTE LIQUIDA - RCL (IV),6689897326.2
+Assembleia Legislativa do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",127108049.2
+Tribunal de Contas do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",63554024.6
+Assembleia Legislativa do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",133797946.5
+Tribunal de Contas do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",66898973.3
+Assembleia Legislativa do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",120418151.9
+Tribunal de Contas do Estado do Piauí,22,PI,Legislativo,3204028,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",60209075.9
+Assembleia Legislativa do Estado do Piauí,22,PI,Legislativo,3204028,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),118632340.1
+Tribunal de Contas do Estado do Piauí,22,PI,Legislativo,3204028,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),61385011.2
+Tribunal de Contas do Estado do Paraná,41,PR,Legislativo,11163018,RECEITA CORRENTE LIQUIDA - RCL (IV),33316002510.4
+Assembleia Legislativa do Estado do Paraná,41,PR,Legislativo,11163018,RECEITA CORRENTE LIQUIDA - RCL (IV),33316002510.4
+Tribunal de Contas do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",430442752.4
+Assembleia Legislativa do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",519063319.1
+Tribunal de Contas do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",453097634.1
+Assembleia Legislativa do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",546382441.2
+Tribunal de Contas do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",407787870.7
+Assembleia Legislativa do Estado do Paraná,41,PR,Legislativo,11163018,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",491744197.1
+Tribunal de Contas do Estado do Paraná,41,PR,Legislativo,11163018,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),232950292.8
+Assembleia Legislativa do Estado do Paraná,41,PR,Legislativo,11163018,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),298407342.5
+Tribunal de Contas do Estado do Rio de Janeiro,33,RJ,Legislativo,16550024,RECEITA CORRENTE LIQUIDA - RCL (IV),49131341507.0
+Tribunal de Contas do Estado do Rio de Janeiro,33,RJ,Legislativo,16550024,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",614240031.3
+Tribunal de Contas do Estado do Rio de Janeiro,33,RJ,Legislativo,16550024,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",646568454.0
+Tribunal de Contas do Estado do Rio de Janeiro,33,RJ,Legislativo,16550024,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",581911608.6
+Tribunal de Contas do Estado do Rio de Janeiro,33,RJ,Legislativo,16550024,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),498697447.0
+Tribunal de Contas do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,RECEITA CORRENTE LIQUIDA - RCL (IV),7536796832.5
+Assembleia Legislativa do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,RECEITA CORRENTE LIQUIDA - RCL (IV),8036936721.0
+Tribunal de Contas do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",44391733.3
+Assembleia Legislativa do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",181715139.3
+Tribunal de Contas do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",46728140.4
+Assembleia Legislativa do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",191279094.0
+Tribunal de Contas do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",42055326.3
+Assembleia Legislativa do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",172151184.6
+Tribunal de Contas do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),43000628.6
+Assembleia Legislativa do Estado do Rio Grande do Norte,24,RN,Legislativo,3442175,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),194124212.3
+Assembleia Legislativa do Estado de Rondônia,11,RO,Legislativo,1768204,RECEITA CORRENTE LIQUIDA - RCL (IV),5646246176.2
+Tribunal de Contas do Estado de Rondônia,11,RO,Legislativo,1768204,RECEITA CORRENTE LIQUIDA - RCL (IV),5646246176.2
+Tribunal de Contas do Estado de Rondônia,11,RO,Legislativo,1768204,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",55784912.2
+Tribunal de Contas do Estado de Rondônia,11,RO,Legislativo,1768204,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",58720960.2
+Tribunal de Contas do Estado de Rondônia,11,RO,Legislativo,1768204,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",52848864.2
+Assembleia Legislativa do Estado de Rondônia,11,RO,Legislativo,1768204,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),107062367.3
+Tribunal de Contas do Estado de Rondônia,11,RO,Legislativo,1768204,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),53077554.4
+Tribunal de Contas do Estado de Roraima,14,RR,Legislativo,505665,RECEITA CORRENTE LIQUIDA - RCL (IV),2919517844.1
+Assembleia Legislativa do Estado de Roraima,14,RR,Legislativo,505665,RECEITA CORRENTE LIQUIDA - RCL (IV),2919517844.1
+Tribunal de Contas do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",36333399.6
+Assembleia Legislativa do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",88475988.3
+Tribunal de Contas do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",38245683.8
+Assembleia Legislativa do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",93132619.2
+Tribunal de Contas do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",34421115.4
+Assembleia Legislativa do Estado de Roraima,14,RR,Legislativo,505665,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",83819357.3
+Tribunal de Contas do Estado de Roraima,14,RR,Legislativo,505665,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),42214347.6
+Assembleia Legislativa do Estado de Roraima,14,RR,Legislativo,505665,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),67997124.5
+Tribunal de Contas do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Assembleia Legislativa do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Tribunal de Contas do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",354421224.3
+Assembleia Legislativa do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",546649684.9
+Tribunal de Contas do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",373074972.9
+Assembleia Legislativa do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",575420720.9
+Tribunal de Contas do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",335767475.6
+Assembleia Legislativa do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",517878648.8
+Tribunal de Contas do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),288998013.4
+Assembleia Legislativa do Estado do Rio Grande do Sul,43,RS,Legislativo,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),338155685.3
+Tribunal de Contas do Estado de Santa Catarina,42,SC,Legislativo,6819190,RECEITA CORRENTE LIQUIDA - RCL (IV),19795816098.7
+Assembleia Legislativa do Estado de Santa Catarina,42,SC,Legislativo,6819190,RECEITA CORRENTE LIQUIDA - RCL (IV),19795816098.7
+Tribunal de Contas do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",169254227.7
+Assembleia Legislativa do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",394926531.2
+Tribunal de Contas do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",178162344.9
+Assembleia Legislativa do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",415712138.1
+Tribunal de Contas do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",160346110.4
+Assembleia Legislativa do Estado de Santa Catarina,42,SC,Legislativo,6819190,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",374140924.3
+Tribunal de Contas do Estado de Santa Catarina,42,SC,Legislativo,6819190,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),158798852.3
+Assembleia Legislativa do Estado de Santa Catarina,42,SC,Legislativo,6819190,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),383665561.5
+Assembleia Legislativa do Estado de São Paulo,35,SP,Legislativo,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496347936.1
+Tribunal de Contas do Estado de São Paulo,35,SP,Legislativo,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496347936.1
+Assembleia Legislativa do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2352376784.4
+Tribunal de Contas do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1680269131.7
+Assembleia Legislativa do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",2476186088.9
+Tribunal de Contas do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1768704349.2
+Assembleia Legislativa do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2228567480.0
+Tribunal de Contas do Estado de São Paulo,35,SP,Legislativo,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",1591833914.3
+Assembleia Legislativa do Estado de São Paulo,35,SP,Legislativo,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),809059434.5
+Tribunal de Contas do Estado de São Paulo,35,SP,Legislativo,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),684836114.0
+Tribunal de Contas do Estado do Tocantins,17,TO,Legislativo,1515126,RECEITA CORRENTE LIQUIDA - RCL (IV),6435301473.5
+Assembleia Legislativa do Estado do Tocantins,17,TO,Legislativo,1515126,RECEITA CORRENTE LIQUIDA - RCL (IV),6435301473.5
+Tribunal de Contas do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",75196497.7
+Assembleia Legislativa do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",108209594.3
+Tribunal de Contas do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",79154208.1
+Assembleia Legislativa do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",113904836.1
+Tribunal de Contas do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",71238787.3
+Assembleia Legislativa do Estado do Tocantins,17,TO,Legislativo,1515126,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",102514352.5
+Tribunal de Contas do Estado do Tocantins,17,TO,Legislativo,1515126,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),81047707.1
+Assembleia Legislativa do Estado do Tocantins,17,TO,Legislativo,1515126,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),112068614.6
+Ministério Público do Estado do Acre,12,AC,Ministério Público,803513,RECEITA CORRENTE LIQUIDA - RCL (IV),3906065810.2
+Ministério Público do Estado do Acre,12,AC,Ministério Público,803513,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",74215250.4
+Ministério Público do Estado do Acre,12,AC,Ministério Público,803513,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",78121316.2
+Ministério Público do Estado do Acre,12,AC,Ministério Público,803513,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",70309184.6
+Ministério Público do Estado do Acre,12,AC,Ministério Público,803513,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),66788870.5
+Ministério Público do Estado de Alagoas,27,AL,Ministério Público,3340932,RECEITA CORRENTE LIQUIDA - RCL (IV),6340972892.2
+Ministério Público do Estado de Alagoas,27,AL,Ministério Público,3340932,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",120478485.0
+Ministério Público do Estado de Alagoas,27,AL,Ministério Público,3340932,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",126819457.8
+Ministério Público do Estado de Alagoas,27,AL,Ministério Público,3340932,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",114137512.1
+Ministério Público do Estado de Alagoas,27,AL,Ministério Público,3340932,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),111405222.7
+Ministério Público do Estado do Amazonas,13,AM,Ministério Público,3938336,RECEITA CORRENTE LIQUIDA - RCL (IV),10622700546.6
+Ministério Público do Estado do Amazonas,13,AM,Ministério Público,3938336,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",201831310.4
+Ministério Público do Estado do Amazonas,13,AM,Ministério Público,3938336,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",212454010.9
+Ministério Público do Estado do Amazonas,13,AM,Ministério Público,3938336,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",191208609.8
+Ministério Público do Estado do Amazonas,13,AM,Ministério Público,3938336,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),171370768.5
+Ministério Público do Estado do Amapá,16,AP,Ministério Público,766679,RECEITA CORRENTE LIQUIDA - RCL (IV),3827160251.3
+Ministério Público do Estado do Amapá,16,AP,Ministério Público,766679,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",72716044.8
+Ministério Público do Estado do Amapá,16,AP,Ministério Público,766679,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",76543205.0
+Ministério Público do Estado do Amapá,16,AP,Ministério Público,766679,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",68888884.5
+Ministério Público do Estado do Amapá,16,AP,Ministério Público,766679,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),75519524.1
+Ministério Público do Estado da Bahia,29,BA,Ministério Público,15203934,RECEITA CORRENTE LIQUIDA - RCL (IV),27329461677.0
+Ministério Público do Estado da Bahia,29,BA,Ministério Público,15203934,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",519259771.9
+Ministério Público do Estado da Bahia,29,BA,Ministério Público,15203934,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",546589233.5
+Ministério Público do Estado da Bahia,29,BA,Ministério Público,15203934,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",491930310.2
+Ministério Público do Estado da Bahia,29,BA,Ministério Público,15203934,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),427360676.8
+Ministério Público do Estado do Ceará,23,CE,Ministério Público,8904459,RECEITA CORRENTE LIQUIDA - RCL (IV),15573029856.0
+Ministério Público do Estado do Ceará,23,CE,Ministério Público,8904459,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",295887567.3
+Ministério Público do Estado do Ceará,23,CE,Ministério Público,8904459,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",311460597.1
+Ministério Público do Estado do Ceará,23,CE,Ministério Público,8904459,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",280314537.4
+Ministério Público do Estado do Ceará,23,CE,Ministério Público,8904459,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),288045558.9
+Ministério Público do Estado do Espírito Santo,32,ES,Ministério Público,3929911,RECEITA CORRENTE LIQUIDA - RCL (IV),11887670740.1
+Ministério Público do Estado do Espírito Santo,32,ES,Ministério Público,3929911,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",225865744.1
+Ministério Público do Estado do Espírito Santo,32,ES,Ministério Público,3929911,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",237753414.8
+Ministério Público do Estado do Espírito Santo,32,ES,Ministério Público,3929911,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",213978073.3
+Ministério Público do Estado do Espírito Santo,32,ES,Ministério Público,3929911,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),214072097.2
+Ministério Público do Estado de Goiás,52,GO,Ministério Público,6610681,RECEITA CORRENTE LIQUIDA - RCL (IV),17908053634.5
+Ministério Público do Estado de Goiás,52,GO,Ministério Público,6610681,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",340253019.1
+Ministério Público do Estado de Goiás,52,GO,Ministério Público,6610681,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",358161072.7
+Ministério Público do Estado de Goiás,52,GO,Ministério Público,6610681,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",322344965.4
+Ministério Público do Estado de Goiás,52,GO,Ministério Público,6610681,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),348079823.0
+Ministério Público do Estado do Maranhão,21,MA,Ministério Público,6904241,RECEITA CORRENTE LIQUIDA - RCL (IV),10802513622.5
+Ministério Público do Estado do Maranhão,21,MA,Ministério Público,6904241,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",205247758.8
+Ministério Público do Estado do Maranhão,21,MA,Ministério Público,6904241,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",216050272.5
+Ministério Público do Estado do Maranhão,21,MA,Ministério Público,6904241,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",194445245.2
+Ministério Público do Estado do Maranhão,21,MA,Ministério Público,6904241,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),202193481.5
+Ministério Público do Estado de Minas Gerais,31,MG,Ministério Público,20869101,RECEITA CORRENTE LIQUIDA - RCL (IV),52887513009.4
+Ministério Público do Estado de Minas Gerais,31,MG,Ministério Público,20869101,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",1004862747.2
+Ministério Público do Estado de Minas Gerais,31,MG,Ministério Público,20869101,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",1057750260.2
+Ministério Público do Estado de Minas Gerais,31,MG,Ministério Público,20869101,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",951975234.2
+Ministério Público do Estado de Minas Gerais,31,MG,Ministério Público,20869101,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),961630234.9
+Ministério Público do Estado do Mato Grosso,51,MT,Ministério Público,3265486,RECEITA CORRENTE LIQUIDA - RCL (IV),12209085734.5
+Ministério Público do Estado do Mato Grosso,51,MT,Ministério Público,3265486,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",231972629.0
+Ministério Público do Estado do Mato Grosso,51,MT,Ministério Público,3265486,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",244181714.7
+Ministério Público do Estado do Mato Grosso,51,MT,Ministério Público,3265486,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",219763543.2
+Ministério Público do Estado do Mato Grosso,51,MT,Ministério Público,3265486,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),213023540.1
+Ministério Público do Estado da Paraíba,25,PB,Ministério Público,3972202,RECEITA CORRENTE LIQUIDA - RCL (IV),7952574202.7
+Ministério Público do Estado da Paraíba,25,PB,Ministério Público,3972202,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",151098909.9
+Ministério Público do Estado da Paraíba,25,PB,Ministério Público,3972202,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",159051484.1
+Ministério Público do Estado da Paraíba,25,PB,Ministério Público,3972202,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",143146335.7
+Ministério Público do Estado da Paraíba,25,PB,Ministério Público,3972202,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),153903224.0
+Ministério Público do Estado de Pernambuco,26,PE,Ministério Público,9345173,RECEITA CORRENTE LIQUIDA - RCL (IV),19727049222.7
+Ministério Público do Estado de Pernambuco,26,PE,Ministério Público,9345173,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",374813935.2
+Ministério Público do Estado de Pernambuco,26,PE,Ministério Público,9345173,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",394540984.5
+Ministério Público do Estado de Pernambuco,26,PE,Ministério Público,9345173,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",355086886.0
+Ministério Público do Estado de Pernambuco,26,PE,Ministério Público,9345173,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),317526118.3
+Ministério Público do Estado do Piauí,22,PI,Ministério Público,3204028,RECEITA CORRENTE LIQUIDA - RCL (IV),6689897326.2
+Ministério Público do Estado do Piauí,22,PI,Ministério Público,3204028,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",127108049.2
+Ministério Público do Estado do Piauí,22,PI,Ministério Público,3204028,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",133797946.5
+Ministério Público do Estado do Piauí,22,PI,Ministério Público,3204028,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",120418151.9
+Ministério Público do Estado do Piauí,22,PI,Ministério Público,3204028,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),122762781.0
+Ministério Público do Estado do Paraná,41,PR,Ministério Público,11163018,RECEITA CORRENTE LIQUIDA - RCL (IV),33316002510.4
+Ministério Público do Estado do Paraná,41,PR,Ministério Público,11163018,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",633004047.7
+Ministério Público do Estado do Paraná,41,PR,Ministério Público,11163018,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",666320050.2
+Ministério Público do Estado do Paraná,41,PR,Ministério Público,11163018,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",599688045.2
+Ministério Público do Estado do Paraná,41,PR,Ministério Público,11163018,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),525414393.1
+Ministério Público do Estado do Rio de Janeiro,33,RJ,Ministério Público,16550024,RECEITA CORRENTE LIQUIDA - RCL (IV),49131341507.0
+Ministério Público do Estado do Rio de Janeiro,33,RJ,Ministério Público,16550024,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",933495488.6
+Ministério Público do Estado do Rio de Janeiro,33,RJ,Ministério Público,16550024,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",982626830.1
+Ministério Público do Estado do Rio de Janeiro,33,RJ,Ministério Público,16550024,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",884364147.1
+Ministério Público do Estado do Rio de Janeiro,33,RJ,Ministério Público,16550024,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),780672921.8
+Ministério Público do Estado do Rio Grande do Norte,24,RN,Ministério Público,3442175,RECEITA CORRENTE LIQUIDA - RCL (IV),8036936741.0
+Ministério Público do Estado do Rio Grande do Norte,24,RN,Ministério Público,3442175,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",152701798.1
+Ministério Público do Estado do Rio Grande do Norte,24,RN,Ministério Público,3442175,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",160738734.8
+Ministério Público do Estado do Rio Grande do Norte,24,RN,Ministério Público,3442175,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",144664861.3
+Ministério Público do Estado do Rio Grande do Norte,24,RN,Ministério Público,3442175,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),180356007.9
+Ministério Público do Estado de Rondônia,11,RO,Ministério Público,1768204,RECEITA CORRENTE LIQUIDA - RCL (IV),5646246176.2
+Ministério Público do Estado de Rondônia,11,RO,Ministério Público,1768204,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",107278677.3
+Ministério Público do Estado de Rondônia,11,RO,Ministério Público,1768204,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",112924923.5
+Ministério Público do Estado de Rondônia,11,RO,Ministério Público,1768204,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",101632431.2
+Ministério Público do Estado de Rondônia,11,RO,Ministério Público,1768204,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),107453649.1
+Ministério Público do Estado de Roraima,14,RR,Ministério Público,505665,RECEITA CORRENTE LIQUIDA - RCL (IV),2919517844.1
+Ministério Público do Estado de Roraima,14,RR,Ministério Público,505665,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",54436980.6
+Ministério Público do Estado de Roraima,14,RR,Ministério Público,505665,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",57302084.8
+Ministério Público do Estado de Roraima,14,RR,Ministério Público,505665,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",51571876.3
+Ministério Público do Estado de Roraima,14,RR,Ministério Público,505665,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),52924656.7
+Ministério Público do Estado do Rio Grande do Sul,43,RS,Ministério Público,11247972,RECEITA CORRENTE LIQUIDA - RCL (IV),31616523126.5
+Ministério Público do Estado do Rio Grande do Sul,43,RS,Ministério Público,11247972,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",600713939.4
+Ministério Público do Estado do Rio Grande do Sul,43,RS,Ministério Público,11247972,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",632330462.5
+Ministério Público do Estado do Rio Grande do Sul,43,RS,Ministério Público,11247972,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",569097416.3
+Ministério Público do Estado do Rio Grande do Sul,43,RS,Ministério Público,11247972,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),522038332.1
+Ministério Público do Estado de Santa Catarina,42,SC,Ministério Público,6819190,RECEITA CORRENTE LIQUIDA - RCL (IV),19795816098.7
+Ministério Público do Estado de Santa Catarina,42,SC,Ministério Público,6819190,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",376120505.9
+Ministério Público do Estado de Santa Catarina,42,SC,Ministério Público,6819190,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",395916322.0
+Ministério Público do Estado de Santa Catarina,42,SC,Ministério Público,6819190,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",356324689.8
+Ministério Público do Estado de Santa Catarina,42,SC,Ministério Público,6819190,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),367823015.8
+Ministério Público do Estado de São Paulo,35,SP,Ministério Público,44396484,RECEITA CORRENTE LIQUIDA - RCL (IV),141496347936.1
+Ministério Público do Estado de São Paulo,35,SP,Ministério Público,44396484,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",2688430610.8
+Ministério Público do Estado de São Paulo,35,SP,Ministério Público,44396484,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",2829926958.7
+Ministério Público do Estado de São Paulo,35,SP,Ministério Público,44396484,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",2546934262.9
+Ministério Público do Estado de São Paulo,35,SP,Ministério Público,44396484,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),1841358182.2
+Ministério Público do Estado do Tocantins,17,TO,Ministério Público,1515126,RECEITA CORRENTE LIQUIDA - RCL (IV),6435301473.5
+Ministério Público do Estado do Tocantins,17,TO,Ministério Público,1515126,"LIMITE PRUDENCIAL (VII) = (0,95 x VI) (parágrafo único do art. 22 da LRF)",122270728.0
+Ministério Público do Estado do Tocantins,17,TO,Ministério Público,1515126,"LIMITE MÁXIMO (VI) (incisos I, II e III, art. 20 da LRF)",128706029.5
+Ministério Público do Estado do Tocantins,17,TO,Ministério Público,1515126,"LIMITE DE ALERTA (VIII) = (0,90 x VI) (inciso II do §1º do art. 59 da LRF)",115835426.5
+Ministério Público do Estado do Tocantins,17,TO,Ministério Público,1515126,DESPESA TOTAL COM PESSOAL - DTP (V) = (III a + III b),117569131.0
