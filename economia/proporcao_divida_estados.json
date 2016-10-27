@@ -1,3334 +1,3334 @@
 [
-  {
-    "uf": "TO",
-    "taxa": 0.35,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.93,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.88,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.83,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.66,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.31,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 1.11,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.71,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 2.07,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.29,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.73,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.86,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 1.53,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.57,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 2.5,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 3.1,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.41,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.54,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 2.58,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 3.13,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.98,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.36,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.87,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.64,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.05,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 1,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.23,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 1.04,
-    "ano": 2000,
-    "date": "01-01-2000",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.27,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.97,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.78,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.45,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.51,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.28,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 1.05,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.54,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.9,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.34,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.74,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 1.12,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 1.1,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.63,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.97,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 2.94,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 2.34,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.48,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 2.1,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 2.81,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.83,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.35,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.94,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.71,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.05,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.69,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.78,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.83,
-    "ano": 2001,
-    "date": "01-01-2001",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.37,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 2.27,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.73,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.95,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.79,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.35,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 1.45,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.65,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 2.35,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.24,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.64,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 1.25,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 1.42,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.67,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.59,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 3.1,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 2.63,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.62,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 2.73,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 2.77,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 1.16,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.4,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 1.18,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.82,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.28,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.67,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.36,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.73,
-    "ano": 2002,
-    "date": "01-01-2002",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.26,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 2.24,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.68,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.67,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.8,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.43,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 1.21,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.53,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 2.01,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.05,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.52,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 1.17,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 1.17,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.61,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.76,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 2.67,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 2.43,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.49,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 2.22,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 2.4,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 1.02,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.36,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 1.06,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.63,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.28,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.56,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.77,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.68,
-    "ano": 2003,
-    "date": "01-01-2003",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.35,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 2.23,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.65,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.64,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.83,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.04,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 1.03,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.38,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 2.04,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.08,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.42,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 1.04,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 1.08,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.6,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.3,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 2.33,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 2.24,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.4,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 1.74,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 2.21,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.73,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.28,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.92,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.42,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.23,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.45,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.64,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.62,
-    "ano": 2004,
-    "date": "01-01-2004",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.14,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.97,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.45,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.19,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.58,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.15,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.85,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.32,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.9,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.29,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 1.09,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.83,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.89,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.46,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.11,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 2.01,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 2.03,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.13,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 1.33,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.85,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.44,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.35,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.73,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.17,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.11,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.37,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.25,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.45,
-    "ano": 2005,
-    "date": "01-01-2005",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.13,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.89,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.57,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 1.09,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.53,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.1,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.72,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.26,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.72,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.26,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.85,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.67,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.76,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.44,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 1.1,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.81,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.89,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 1.06,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 1.15,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.82,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.34,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.33,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.6,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 1.02,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.11,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.33,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2.22,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.52,
-    "ano": 2006,
-    "date": "01-01-2006",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.08,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.71,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.42,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.9,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.54,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": -0.13,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.64,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.22,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.73,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.16,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.78,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.53,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.6,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.35,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.94,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.48,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.88,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.94,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.91,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.61,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.19,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.19,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.38,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.82,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.1,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.19,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 2,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.41,
-    "ano": 2007,
-    "date": "01-01-2007",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.1,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.63,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.22,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.77,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.34,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": -0.13,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.5,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.19,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.6,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.19,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.6,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.42,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.48,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.28,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.7,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.15,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.76,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.81,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.74,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.4,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.1,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.16,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.24,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.72,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.04,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.13,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.97,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.28,
-    "ano": 2008,
-    "date": "01-01-2008",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.11,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.5,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.27,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.61,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.2,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.31,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.53,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.17,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.63,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 1.12,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.6,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.43,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.34,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.24,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.54,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.15,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.79,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.79,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.68,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.28,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.08,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.17,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.17,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.63,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.11,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.24,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.81,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.37,
-    "ano": 2009,
-    "date": "01-01-2009",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.16,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.53,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.33,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.63,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.14,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.04,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.54,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.2,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.56,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.89,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.54,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.38,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.36,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.29,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.55,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.2,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.82,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.78,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.64,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.3,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.17,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.18,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.28,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.52,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.18,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.27,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.62,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.54,
-    "ano": 2010,
-    "date": "01-01-2010",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.21,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.46,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.43,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.46,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.14,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": -0.1,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.5,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.13,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.46,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.76,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.57,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.39,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.25,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.19,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.4,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.13,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.82,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.71,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.47,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.01,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.14,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.16,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.29,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.46,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.12,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.19,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.48,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.5,
-    "ano": 2011,
-    "date": "01-01-2011",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.21,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.54,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.53,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.41,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.18,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.2,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.45,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.11,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.65,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.6,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.5,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.46,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.26,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.11,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.3,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.05,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.75,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.71,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.41,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 1.02,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.15,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.1,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.28,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.49,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.18,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.15,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.5,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.58,
-    "ano": 2012,
-    "date": "01-01-2012",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.26,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.42,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.55,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.48,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.09,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.37,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.62,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.15,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.54,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.6,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.59,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.53,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.27,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.1,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.35,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 1.02,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.83,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.73,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.38,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 0.92,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.21,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.16,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.29,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.47,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.26,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.22,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.46,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.69,
-    "ano": 2013,
-    "date": "01-01-2013",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.33,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.48,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.57,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.45,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.09,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.18,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.62,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.16,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.78,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.58,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.61,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.58,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.37,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.1,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.42,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 0.98,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.79,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.78,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.46,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 0.9,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.27,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.21,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.42,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.4,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.41,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.31,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.54,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 100% e 160%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.74,
-    "ano": 2014,
-    "date": "01-01-2014",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.4,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.68,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.69,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.53,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.27,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.12,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.61,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.09,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.98,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.49,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.57,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.62,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.41,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.12,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.45,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 0.94,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.99,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.88,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.6,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 0.99,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.31,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.25,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.63,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.59,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.27,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.48,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.7,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.97,
-    "ano": 2015,
-    "date": "01-01-2015",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "TO",
-    "taxa": 0.35,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "SP",
-    "taxa": 1.63,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "SE",
-    "taxa": 0.65,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "SC",
-    "taxa": 0.41,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RS",
-    "taxa": 2.18,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "acima de 200%"
-  },
-  {
-    "uf": "RR",
-    "taxa": 0.17,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RO",
-    "taxa": 0.58,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RN",
-    "taxa": 0.08,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "RJ",
-    "taxa": 1.92,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "PR",
-    "taxa": 0.4,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PI",
-    "taxa": 0.46,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PE",
-    "taxa": 0.58,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PB",
-    "taxa": 0.35,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "PA",
-    "taxa": 0.09,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MT",
-    "taxa": 0.39,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "MS",
-    "taxa": 0.94,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "MG",
-    "taxa": 1.88,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "Média",
-    "taxa": 0.79,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "Média"
-  },
-  {
-    "uf": "MA",
-    "taxa": 0.47,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "GO",
-    "taxa": 0.76,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 60% e 100%"
-  },
-  {
-    "uf": "ES",
-    "taxa": 0.26,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "DF",
-    "taxa": 0.25,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "CE",
-    "taxa": 0.5,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "BA",
-    "taxa": 0.54,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AP",
-    "taxa": 0.31,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AM",
-    "taxa": 0.46,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "menor do que 60%"
-  },
-  {
-    "uf": "AL",
-    "taxa": 1.65,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 160% e 200%"
-  },
-  {
-    "uf": "AC",
-    "taxa": 0.86,
-    "ano": 2016,
-    "date": "01-01-2016",
-    "tipo": "entre 60% e 100%"
-  }
+	{
+		"uf": "AC",
+		"taxa": "1.04",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.23",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "1",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.05",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.64",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.87",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.36",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.98",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "3.13",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "2.58",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.41",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "3.1",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "2.5",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.57",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "1.53",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.86",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.73",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.29",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "2.07",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.71",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "1.11",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.31",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.66",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.83",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.88",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.93",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.35",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.43",
+		"ano": "2000",
+		"date": "01-01-2000",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.83",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.78",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.69",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.05",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.71",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.94",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.35",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.83",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "2.81",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "2.1",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "2.34",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "2.94",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.97",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.63",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "1.1",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "1.12",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.74",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.34",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.9",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.54",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "1.05",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.28",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.51",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.45",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.78",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.97",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.27",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.33",
+		"ano": "2001",
+		"date": "01-01-2001",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.73",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.36",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.67",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.28",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.82",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "1.18",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.4",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "1.16",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "2.77",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "2.73",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "2.63",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "3.1",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.59",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.67",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "1.42",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "1.25",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.64",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.24",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "2.35",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.65",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "1.45",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.35",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.79",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.95",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.73",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "2.27",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.37",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.50",
+		"ano": "2002",
+		"date": "01-01-2002",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.68",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.77",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.56",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.28",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.63",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "1.06",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.36",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "1.02",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "2.4",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "2.22",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "2.43",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "2.67",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.76",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.61",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "1.17",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "1.17",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.52",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.05",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "2.01",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.53",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "1.21",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.43",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.8",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.67",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.68",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "2.24",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.26",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.38",
+		"ano": "2003",
+		"date": "01-01-2003",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.62",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.64",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.45",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.23",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.42",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.92",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.28",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.73",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "2.21",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "1.74",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "2.24",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "2.33",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.3",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.6",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "1.08",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "1.04",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.42",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.08",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "2.04",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.38",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "1.03",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.04",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.83",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.64",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.65",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "2.23",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.35",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.24",
+		"ano": "2004",
+		"date": "01-01-2004",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.45",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.25",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.37",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.11",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.17",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.73",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.35",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.44",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.85",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "1.33",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "2.03",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "2.01",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.11",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.46",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.89",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.83",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "1.09",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.29",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.9",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.32",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.85",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.15",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.58",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.19",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.45",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.97",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.14",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "1.05",
+		"ano": "2005",
+		"date": "01-01-2005",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.52",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2.22",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.33",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.11",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "1.02",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.6",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.33",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.34",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.82",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "1.15",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.89",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.81",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "1.1",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.44",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.76",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.67",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.85",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.26",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.72",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.26",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.72",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.1",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.53",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "1.09",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.57",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.89",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.13",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.97",
+		"ano": "2006",
+		"date": "01-01-2006",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.41",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "2",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.19",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.1",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.82",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.38",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.19",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.19",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.61",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.91",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.88",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.48",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.94",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.35",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.6",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.53",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.78",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.16",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.73",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.22",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.64",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "-0.13",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.54",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.9",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.42",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.71",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.08",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.84",
+		"ano": "2007",
+		"date": "01-01-2007",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.28",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.97",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.13",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.04",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.72",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.24",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.16",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.1",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.4",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.74",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.76",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.15",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.7",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.28",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.48",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.42",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.6",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.19",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.6",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.19",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.5",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "-0.13",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.34",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.77",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.22",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.63",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.1",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.73",
+		"ano": "2008",
+		"date": "01-01-2008",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.37",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.81",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.24",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.11",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.63",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.17",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.17",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.08",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.28",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.68",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.79",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.15",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.54",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.24",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.34",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.43",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.6",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "1.12",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.63",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.17",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.53",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.31",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.2",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.61",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.27",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.5",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.11",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.71",
+		"ano": "2009",
+		"date": "01-01-2009",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.54",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.62",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.27",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.18",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.52",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.28",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.18",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.17",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.3",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.64",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.82",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.2",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.55",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.29",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.36",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.38",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.54",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.89",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.56",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.2",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.54",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.04",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.14",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.63",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.33",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.53",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.16",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.70",
+		"ano": "2010",
+		"date": "01-01-2010",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.5",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.48",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.19",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.12",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.46",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.29",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.16",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.14",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.01",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.47",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.82",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.13",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.4",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.19",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.25",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.39",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.57",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.76",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.46",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.13",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.5",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "-0.1",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.14",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.46",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.43",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.46",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.21",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.63",
+		"ano": "2011",
+		"date": "01-01-2011",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.58",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.5",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.15",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.18",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.49",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.28",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.1",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.15",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.02",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.41",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.75",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.05",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.3",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.11",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.26",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.46",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.5",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.6",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.65",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.11",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.45",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.2",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.18",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.41",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.53",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.54",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.21",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.64",
+		"ano": "2012",
+		"date": "01-01-2012",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.69",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.46",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.22",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.26",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.47",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.29",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.16",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.21",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "0.92",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.38",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.83",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "1.02",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.35",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.1",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.27",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.53",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.59",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.6",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.54",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.15",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.62",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.37",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.09",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.48",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.55",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.42",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.26",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.66",
+		"ano": "2013",
+		"date": "01-01-2013",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.74",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.54",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.31",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.41",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.4",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.42",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.21",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.27",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "0.9",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.46",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.79",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "0.98",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.42",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.1",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.37",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.58",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.61",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.58",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.78",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.16",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.62",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.18",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.09",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.45",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.57",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.48",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "entre 100% e 160%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.33",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.69",
+		"ano": "2014",
+		"date": "01-01-2014",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.97",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.7",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.48",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.27",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.59",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.63",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.25",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.31",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "0.99",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.6",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.99",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "0.94",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.45",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.12",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.41",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.62",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.57",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.49",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "1.98",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.09",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.61",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.12",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.27",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.53",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.69",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.68",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.4",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.77",
+		"ano": "2015",
+		"date": "01-01-2015",
+		"tipo": "Média"
+	},
+	{
+		"uf": "AC",
+		"taxa": "0.79",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "AL",
+		"taxa": "1.18",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "AM",
+		"taxa": "0.45",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "AP",
+		"taxa": "0.20",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "BA",
+		"taxa": "0.53",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "CE",
+		"taxa": "0.46",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "DF",
+		"taxa": "0.25",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "ES",
+		"taxa": "0.25",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "GO",
+		"taxa": "1.01",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MA",
+		"taxa": "0.39",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "MG",
+		"taxa": "1.85",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "MS",
+		"taxa": "0.75",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "MT",
+		"taxa": "0.35",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PA",
+		"taxa": "0.08",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PB",
+		"taxa": "0.33",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PE",
+		"taxa": "0.55",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PI",
+		"taxa": "0.44",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "PR",
+		"taxa": "0.34",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RJ",
+		"taxa": "2.02",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "RN",
+		"taxa": "0.05",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RO",
+		"taxa": "0.53",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RR",
+		"taxa": "0.33",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "RS",
+		"taxa": "2.11",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "acima de 200%"
+	},
+	{
+		"uf": "SC",
+		"taxa": "0.45",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "SE",
+		"taxa": "0.65",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 60% e 100%"
+	},
+	{
+		"uf": "SP",
+		"taxa": "1.70",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "entre 160% e 200%"
+	},
+	{
+		"uf": "TO",
+		"taxa": "0.32",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "menor do que 60%"
+	},
+	{
+		"uf": "Média",
+		"taxa": "0.68",
+		"ano": "2016",
+		"date": "01-01-2016",
+		"tipo": "Média"
+	}
 ]
