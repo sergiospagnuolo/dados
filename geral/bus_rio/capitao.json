@@ -1,0 +1,5 @@
+{
+  "nodes": [{"name":"Alvaro Rodrigues Lopes"},{"name":"Rosane Ferreira Barata"},{"name":"City Rio Rotas Turísticas"},{"name":"Empresa De Viaçăo Algarve"},{"name":"Rio Rotas Trasnportes E Turismo"},{"name":"Translitorânea Turística"},{"name":"Viaçăo Andorinha "},{"name":"Auto Viaçăo Bangu"},{"name":"Auto Viaçăo Jabour"},{"name":"Rodoviária A Matias"},{"name":"Viaçăo Normandy Do Triângulo"}
+  ],
+  "links": [{"source":0,"target":2,"value":1},{"source":0,"target":3,"value":1},{"source":0,"target":4,"value":1},{"source":0,"target":5,"value":1},{"source":0,"target":6,"value":1},{"source":1,"target":7,"value":1},{"source":1,"target":8,"value":1},{"source":1,"target":3,"value":1},{"source":1,"target":9,"value":1},{"source":1,"target":10,"value":1}]
+}
