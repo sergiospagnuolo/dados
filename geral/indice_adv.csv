@@ -1,28 +1,28 @@
-região,sigla_regiao,estado,uf,consulta_hora,parecer,renda,normalizacao_renda,custo_normalizado,indice
-Norte,N,Acre,AC,140,1400,752,0.68,2279.3,2.28
-Nordeste,NE,Alagoas,AL,439.23,1464.1,598,0.54,3542.5,3.54
-Norte,N,Amazonas,AM,350,3500,753,0.68,5690.6,5.69
-Norte,N,Amapá,AP,300,1000,840,0.75,1722.5,1.72
-Nordeste,NE,Bahia,BA,240,2400,736,0.66,3992.3,3.99
-Nordeste,NE,Ceará,CE,417.4,1609.6,681,0.61,3312.9,3.31
-Centro-Oeste,CO,Distrito Federal,DF,569.5,2847.45,2254,2.03,1687.3,1.69
-Sudeste,SE,Espírito Santo,ES,149.56,4985.5,1074,0.96,5321.5,5.32
-Centro-Oeste,CO,Goiás,GO,279,1113,1078,0.97,1437.2,1.44
-Nordeste,NE,Maranhão,MA,300,1200,509,0.46,3280.0,3.28
-Sudeste,SE,Minas Gerais,MG,300,2500,1128,1.01,2762.8,2.76
-Centro-Oeste,CO,Mato Grosso do Sul,MS,394.7,2368.2,1044,0.94,2945.5,2.95
-Centro-Oeste,CO,Mato Grosso,MT,417.36,4173.6,1053,0.95,4852.6,4.85
-Norte,N,Pará,PA,525,900,671,0.60,2363.7,2.36
-Nordeste,NE,Paraíba,PB,278.4,1200,774,0.70,2125.9,2.13
-Nordeste,NE,Pernambuco,PE,282.02,1200,825,0.74,1999.4,2.00
-Nordeste,NE,Piauí,PI,1200,7200,728,0.65,12842.3,12.84
-Sul,S,Paraná,PR,300,1200,1241,1.12,1345.3,1.35
-Sudeste,SE,Rio de Janeiro,RJ,976.76,7228.04,1284,1.15,7112.1,7.11
-Nordeste,NE,Rio Grande do Norte,RN,436.3,2181.5,819,0.74,3557.5,3.56
-Norte,N,Rondônia,RO,300,2400,823,0.74,3651.4,3.65
-Norte,N,Roraima,RR,616,3766.4,1008,0.91,4838.9,4.84
-Sul,S,Rio Grande do Sul,RS,225.6,2256,1434,1.29,1926.1,1.93
-Sul,S,Santa Catarina,SC,350,2350,1368,1.23,2196.7,2.20
-Nordeste,NE,Sergipe,SE,150,651.54,782,0.70,1140.8,1.14
-Sudeste,SE,São Paulo,SP,290.61,1995.55,1482,1.33,1716.9,1.72
-Norte,N,Tocantins,TO,150,600,816,0.73,1023.0,1.02
+região,sigla_regiao,uf,consulta_hora,parecer,estado,renda,normalizacao_renda,custo_normalizado,indice
+Norte,N,AC,140,1400,Acre,761,0.68,2252.3,2.25
+Nordeste,NE,AL,439.23,1464.1,Alagoas,662,0.59,3200.0,3.20
+Norte,N,AP,300,1000,Amapá,881,0.79,1642.3,1.64
+Norte,N,AM,350,3500,Amazonas,739,0.66,5798.4,5.80
+Nordeste,NE,BA,240,2400,Bahia,773,0.69,3801.2,3.80
+Nordeste,NE,CE,417.4,1609.6,Ceará,751,0.67,3004.1,3.00
+Centro-Oeste,CO,DF,569.5,2847.45,Distrito Federal,2351,2.11,1617.6,1.62
+Sudeste,SE,ES,149.56,4985.5,Espírito Santo,1157,1.04,4939.8,4.94
+Centro-Oeste,CO,GO,279,1113,Goiás,1140,1.02,1359.0,1.36
+Nordeste,NE,MA,300,1200,Maranhão,575,0.52,2903.5,2.90
+Centro-Oeste,CO,MT,417.36,4173.6,Mato Grosso,1139,1.02,4486.2,4.49
+Centro-Oeste,CO,MS,394.7,2368.2,Mato Grosso do Sul,1283,1.15,2396.8,2.40
+Sudeste,SE,MG,300,2500,Minas Gerais,1168,1.05,2668.2,2.67
+Norte,N,PA,525,900,Pará,708,0.64,2240.1,2.24
+Nordeste,NE,PB,278.4,1200,Paraíba,790,0.71,2082.9,2.08
+Sul,S,PR,300,1200,Paraná,1398,1.26,1194.2,1.19
+Nordeste,NE,PE,282.02,1200,Pernambuco,872,0.78,1891.6,1.89
+Nordeste,NE,PI,1200,7200,Piauí,747,0.67,12515.7,12.52
+Sudeste,SE,RJ,976.76,7228.04,Rio de Janeiro,1429,1.28,6390.4,6.39
+Nordeste,NE,RN,436.3,2181.5,Rio Grande do Norte,919,0.83,3170.4,3.17
+Sul,S,RS,225.6,2256,Rio Grande do Sul,1554,1.40,1777.4,1.78
+Norte,N,RO,300,2400,Rondônia,901,0.81,3335.3,3.34
+Norte,N,RR,616,3766.4,Roraima,1068,0.96,4567.1,4.57
+Sul,S,SC,350,2350,Santa Catarina,1458,1.31,2061.1,2.06
+Sudeste,SE,SP,290.61,1995.55,São Paulo,1723,1.55,1476.8,1.48
+Nordeste,NE,SE,150,651.54,Sergipe,878,0.79,1016.1,1.02
+Norte,N,TO,150,600,Tocantins,863,0.78,967.3,0.97
