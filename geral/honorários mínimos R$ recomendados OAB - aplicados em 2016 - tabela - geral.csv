@@ -1,0 +1,28 @@
+região,sigla_regiao,estado,uf,consulta_hora,parecer,renda,normalizacao_renda,custo_normalizado,indice
+Norte,N,Acre,AC,140,1400,752,0.68,2279.3,2.28
+Nordeste,NE,Alagoas,AL,439.23,1464.1,598,0.54,3542.5,3.54
+Norte,N,Amazonas,AM,350,3500,753,0.68,5690.6,5.69
+Norte,N,Amapá,AP,300,1000,840,0.75,1722.5,1.72
+Nordeste,NE,Bahia,BA,240,2400,736,0.66,3992.3,3.99
+Nordeste,NE,Ceará,CE,417.4,1609.6,681,0.61,3312.9,3.31
+Centro-Oeste,CO,Distrito Federal,DF,569.5,2847.45,2254,2.03,1687.3,1.69
+Sudeste,SE,Espírito Santo,ES,149.56,4985.5,1074,0.96,5321.5,5.32
+Centro-Oeste,CO,Goiás,GO,279,1113,1078,0.97,1437.2,1.44
+Nordeste,NE,Maranhão,MA,300,1200,509,0.46,3280.0,3.28
+Sudeste,SE,Minas Gerais,MG,300,2500,1128,1.01,2762.8,2.76
+Centro-Oeste,CO,Mato Grosso do Sul,MS,394.7,2368.2,1044,0.94,2945.5,2.95
+Centro-Oeste,CO,Mato Grosso,MT,417.36,4173.6,1053,0.95,4852.6,4.85
+Norte,N,Pará,PA,525,900,671,0.60,2363.7,2.36
+Nordeste,NE,Paraíba,PB,278.4,1200,774,0.70,2125.9,2.13
+Nordeste,NE,Pernambuco,PE,282.02,1200,825,0.74,1999.4,2.00
+Nordeste,NE,Piauí,PI,1200,7200,728,0.65,12842.3,12.84
+Sul,S,Paraná,PR,300,1200,1241,1.12,1345.3,1.35
+Sudeste,SE,Rio de Janeiro,RJ,976.76,7228.04,1284,1.15,7112.1,7.11
+Nordeste,NE,Rio Grande do Norte,RN,436.3,2181.5,819,0.74,3557.5,3.56
+Norte,N,Rondônia,RO,300,2400,823,0.74,3651.4,3.65
+Norte,N,Roraima,RR,616,3766.4,1008,0.91,4838.9,4.84
+Sul,S,Rio Grande do Sul,RS,225.6,2256,1434,1.29,1926.1,1.93
+Sul,S,Santa Catarina,SC,350,2350,1368,1.23,2196.7,2.20
+Nordeste,NE,Sergipe,SE,150,651.54,782,0.70,1140.8,1.14
+Sudeste,SE,São Paulo,SP,290.61,1995.55,1482,1.33,1716.9,1.72
+Norte,N,Tocantins,TO,150,600,816,0.73,1023.0,1.02
