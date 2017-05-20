@@ -1,152 +1,152 @@
 [
 	{
 		"ano": "12-31-2016",
-		"valor": 102815.8,
+		"valor": 102.8,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2015",
-		"valor": 122503,
+		"valor": 122.5,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2014",
-		"valor": 82315.6,
+		"valor": 82.3,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2013",
-		"valor": 68670.2,
+		"valor": 68.7,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2012",
-		"valor": 49756.2,
+		"valor": 49.8,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2011",
-		"valor": 47410.9,
+		"valor": 47.4,
 		"tipo": "ativo total"
 	},
 	{
 		"ano": "12-31-2016",
-		"valor": 170380.5,
+		"valor": 170.4,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2015",
-		"valor": 162914.5,
+		"valor": 162.9,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2014",
-		"valor": 120469.7,
+		"valor": 120.5,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2013",
-		"valor": 92902.8,
+		"valor": 92.9,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2012",
-		"valor": 75696.7,
+		"valor": 75.7,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2011",
-		"valor": 61796.8,
+		"valor": 61.8,
 		"tipo": "receita total"
 	},
 	{
 		"ano": "12-31-2016",
-		"valor": 21313.8,
+		"valor": 21.3,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2015",
-		"valor": 22590.3,
+		"valor": 22.6,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2014",
-		"valor": 18673.4,
+		"valor": 18.7,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2013",
-		"valor": 11846.7,
+		"valor": 11.8,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2012",
-		"valor": 8689.8,
+		"valor": 8.7,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2011",
-		"valor": 6696.6,
+		"valor": 6.7,
 		"tipo": "receita líquida"
 	},
 	{
 		"ano": "12-31-2016",
-		"valor": 707.5,
+		"valor": 0.7,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2015",
-		"valor": 5128.6,
+		"valor": 5.1,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2014",
-		"valor": 2406.4,
+		"valor": 2.4,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2013",
-		"valor": 1118.3,
+		"valor": 1.1,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2012",
-		"valor": 762.9,
+		"valor": 0.8,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2011",
-		"valor": -322.9,
+		"valor": -0.3,
 		"tipo": "lucro líquido"
 	},
 	{
 		"ano": "12-31-2016",
-		"valor": 29254.9,
+		"valor": 29.3,
 		"tipo": "empréstimos captados"
 	},
 	{
 		"ano": "12-31-2015",
-		"valor": 46945.9,
+		"valor": 46.9,
 		"tipo": "empréstimos captados"
 	},
 	{
 		"ano": "12-31-2014",
-		"valor": 24655.5,
+		"valor": 24.7,
 		"tipo": "empréstimos captados"
 	},
 	{
 		"ano": "12-31-2013",
-		"valor": 21703.2,
+		"valor": 21.7,
 		"tipo": "empréstimos captados"
 	},
 	{
 		"ano": "12-31-2012",
-		"valor": 14145.9,
+		"valor": 14.1,
 		"tipo": "empréstimos captados"
 	},
 	{
 		"ano": "12-31-2011",
-		"valor": 17532.8,
+		"valor": 17.5,
 		"tipo": "empréstimos captados"
 	}
 ]
