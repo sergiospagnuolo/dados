@@ -17572,7 +17572,7 @@
 		"valor": 1212287360,
 		"n. de contratos": 1,
 		"tipo": "DEBÊNTURES",
-		"desc": "compra de títulos de dívida",
+		"desc": "títulos de dívida",
 		"model": "investimento",
 		"date": "1/1/2010"
 	},
@@ -17581,7 +17581,7 @@
 		"valor": 2265280512,
 		"n. de contratos": 1,
 		"tipo": "DEBÊNTURES",
-		"desc": "compra de títulos de dívida",
+		"desc": "títulos de dívida",
 		"model": "investimento",
 		"date": "1/1/2009"
 	},
@@ -17590,7 +17590,7 @@
 		"valor": 335267808,
 		"n. de contratos": 1,
 		"tipo": "PARTICIPAÇÃO ACIONÁRIA",
-		"desc": "compra de participação acionária",
+		"desc": "participação acionária",
 		"model": "investimento",
 		"date": "1/1/2008"
 	},
@@ -17599,7 +17599,7 @@
 		"valor": 1137006208,
 		"n. de contratos": 1,
 		"tipo": "PARTICIPAÇÃO ACIONÁRIA",
-		"desc": "compra de participação acionária",
+		"desc": "participação acionária",
 		"model": "investimento",
 		"date": "1/1/2007"
 	},
@@ -17609,7 +17609,7 @@
 		"n. de contratos": 1,
 		"tipo": "OUTROS",
 		"desc": "outros",
-		"model": "investimento",
+		"model": "financiamento",
 		"date": "1/1/2005"
 	},
 	{
@@ -17617,7 +17617,7 @@
 		"valor": 187464000,
 		"n. de contratos": 1,
 		"tipo": "OUTROS",
-		"desc": "outros",
+		"desc": "participação acionária",
 		"model": "investimento",
 		"date": "1/1/2005"
 	},
@@ -17627,7 +17627,7 @@
 		"n. de contratos": 1,
 		"tipo": "OUTROS",
 		"desc": "outros",
-		"model": "investimento",
+		"model": "financiamento",
 		"date": "1/1/2010"
 	}
 ]
