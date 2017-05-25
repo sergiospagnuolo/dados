@@ -1,0 +1,153 @@
+segmento,on,nome,presidente,mulher,diretores,mulheres,prop
+consumo / varejo,sim,Brf Sa,Abílio Dos Santos Diniz,Homem preside Conselho,10,1,0.10
+consumo / varejo,sim,Jbs,Joesley Mendonça Batista,Homem preside Conselho,9,1,0.11
+consumo / varejo,sim,Marfrig,Marcos Antonio M. Dos Santos,Homem preside Conselho,9,1,0.11
+financeiro / holding / participações,sim,B3,Pedro Pullen Parente,Homem preside Conselho,14,1,0.07
+financeiro / holding / participações,sim,General Shopping,Alexandre Poli Venorezi,Homem preside Conselho,8,1,0.13
+consumo / varejo,sim,Kroton,Altamiro Belo Galindo,Homem preside Conselho,8,1,0.13
+produtivo / industrial,sim,Romi,Américo Emílio Romi Neto,,Homem preside Conselho,8,1,0.13
+produtivo / industrial,sim,Cpfl Renovaveis,André Dorf,Homem preside Conselho,10,1,0.10
+consumo / varejo,sim,Multiplus,Antônio Luiz Rios Da Silva,Homem preside Conselho,7,1,0.14
+produtivo / industrial,sim,Lupatech,Carlos Mario Calad Serrano,Homem preside Conselho,5,1,0.20
+produtivo / industrial,sim,Alliar,Daniel Rizardi Sorrentino,Homem preside Conselho,11,1,0.09
+produtivo / industrial,sim,Log-In,Eduardo De Salles Bartolomeo,Homem preside Conselho,5,1,0.20
+consumo / varejo,sim,Cvc Brasil,Guilherme De Jesus Paulus,Homem preside Conselho,6,1,0.17
+financeiro / holding / participações,sim,Porto Seguro,Jayme Brasil Garfinkel,Homem preside Conselho,7,1,0.14
+consumo / varejo,sim,Rossi Residencial,João Rossi Cuppoloni,Homem preside Conselho,5,1,0.20
+produtivo / industrial,sim,Totvs,Laércio José De Lucena Cosentino,Homem preside Conselho,9,1,0.11
+produtivo / industrial,sim,Mmx Miner,Pedro De Moraes Borbaeike Fuhrken Batista,Homem preside Conselho,5,1,0.20
+consumo / varejo,sim,Cia Hering,Sr. Ivo Hering,Homem preside Conselho,9,1,0.11
+produtivo / industrial,sim,Light S/A,Nelson José Hubner Moreira,Homem preside Conselho,11,1,0.09
+consumo / varejo,sim,Localiza,Salim Mattar,Homem preside Conselho,8,1,0.13
+consumo / varejo,sim,Mrv,Rubens Menin Teixeira De Souza,Homem preside Conselho,7,1,0.14
+produtivo / industrial,sim,Embraer,Alexandre Gonçalves Silva,Homem preside Conselho,11,1,0.09
+produtivo / industrial,sim,Raiadrogasil,Antonio Carlos Pipponzi,Homem preside Conselho,9,1,0.11
+financeiro / holding / participações,sim,Bbseguridade,Marcelo Augusto Dutra Labuto,Homem preside Conselho,6,1,0.17
+produtivo / industrial,sim,Mills,Andres Cristian Nacht,Homem preside Conselho,6,1,0.17
+consumo / varejo,sim,Lojas Marisa,Márcio Luiz Goldfarb,Homem preside Conselho,6,1,0.17
+consumo / varejo,não,Minupar,Antonio Carlos Rago Cano,Homem preside Conselho,5,1,0.20
+financeiro / holding / participações,sim,Sao Carlos,Rolando Mifano,Homem preside Conselho,7,1,0.14
+produtivo / industrial,sim,Duratex,Salo Davi Seibel,Homem preside Conselho,9,1,0.11
+produtivo / industrial,sim,Hermes Pardini,Victor Cavalcanti Pardini (Presidente),Homem preside Conselho,5,1,0.20
+financeiro / holding / participações,não,Brc Securit,Carlos Javier Betancourt,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Santander Br,Álvaro Antonio Cardoso De Souza,Homem preside Conselho,9,1,0.11
+consumo / varejo,não,Lojas Americ,Carlos Alberto Da Veiga Sicupira,Homem preside Conselho,8,1,0.13
+financeiro / holding / participações,não,Bradesco,Làzaro De Melo Brandão,Homem preside Conselho,8,1,0.13
+produtivo / industrial,não,Klabin S/A,Daniel Miguel Klabin,Homem preside Conselho,13,1,0.08
+produtivo / industrial,não,Vale,Gueitiro Matsuo Genso,Homem preside Conselho,10,1,0.10
+consumo / varejo,não,Pão de Açúcar,Jean-Charles Naouri,Homem preside Conselho,11,1,0.09
+produtivo / industrial,não,Cemig,José Afonso Bicalho Beltrão Da Silva -,Homem preside Conselho,15,1,0.07
+produtivo / industrial,não,Eletrobras,José Luiz Alquéres,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Petrobras,Luiz Nelson Guedes De Carvalho,Homem preside Conselho,9,1,0.11
+financeiro / holding / participações,não,Merc Brasil,Maurício De Faria Araujo,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Ceg,Sergio Manoel Aranda Moreno,Homem preside Conselho,13,1,0.08
+financeiro / holding / participações,não,Merc Invest,Maurício De Faria Araujo,Homem preside Conselho,10,1,0.10
+produtivo / industrial,não,Suzano Papel,David Feffer,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Telef Brasil,Eduardo Navarro De Carvalho,Homem preside Conselho,12,1,0.08
+financeiro / holding / participações,não,Itausa,Henri Penchas,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Bradespar,Lázaro De Mello Brandão,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Usiminas,Yoichi Furuta,Homem preside Conselho,11,1,0.09
+consumo / varejo,não,J.Macedo,Amarílio Proença De Macêdo,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Statkraft,Austin Laine Powell,Homem preside Conselho,4,1,0.25
+consumo / varejo,não,Cinesystem,João Olyntho Ferraz Neto,Homem preside Conselho,7,1,0.14
+produtivo / industrial,não,Baumer,Manoel Amaral Baumer,Homem preside Conselho,6,1,0.17
+financeiro / holding / participações,não,Banpara,Nilo Emanoel Rendeiro De Noronha,Homem preside Conselho,6,1,0.17
+produtivo / industrial,não,Wetzel S/A,André Luis Wetzel Da Silva,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Bndespar,Carlos Roberto Lopes Haude,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Cemar,Firmino Ferreira Sampaio Neto,Homem preside Conselho,6,1,0.17
+produtivo / industrial,não,Fer C Atlant,Gueitiro Matsuo Genso,Homem preside Conselho,22,1,0.05
+produtivo / industrial,não,Cemig Dist,José Afonso Bicalho Beltrão Da Silva,Homem preside Conselho,14,1,0.07
+produtivo / industrial,não,Cemig Gt,José Afonso Bicalho Beltrão Da Silva,Homem preside Conselho,14,1,0.07
+consumo / varejo,não,Encorpar,Josué Christiano Gomes Da Silva,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Dtcom-Direct,Leonardo Petrelli Neto,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Mrs Logist,Luis Fernando Barbosa Martinez,Homem preside Conselho,10,1,0.10
+produtivo / industrial,não,Coelba,Marcus Moreira De Almeida​,Homem preside Conselho,6,1,0.17
+produtivo / industrial,não,Celpe,Marcus Morreira De Almeida,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Cosern,Marcus Morreira De Almeida,Homem preside Conselho,8,1,0.13
+financeiro / holding / participações,não,Prompt Part,Maria Amalia Delfim De Melo Coutrim,Homem preside Conselho,1,1,1.00
+produtivo / industrial,sim,Copasa,Marco Antônio De Rezende Teixeira - Presidente,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Lix Da Cunha,Moacir Da Cunha Penteado,Homem preside Conselho,5,1,0.20
+financeiro / holding / participações,não,Pine,Noberto Nogueira Pinheiro Junior,Homem preside Conselho,8,1,0.13
+financeiro / holding / participações,não,Sul America,Patrick Antonio Claude De Larragoiti Lucas,Homem preside Conselho,10,1,0.10
+financeiro / holding / participações,não,Habitasul,Péricles De Freitas Druck,Homem preside Conselho,7,1,0.14
+produtivo / industrial,não,Itapebi,​marcus Moreira De Almeida,Homem preside Conselho,8,1,0.13
+financeiro / holding / participações,não,Altere Sec,Armando Miguel Gallo Neto,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Ceee-D-Gt-Par,Artur José De Lemos Junior,Homem preside Conselho,8,1,0.13
+consumo / varejo,não,Ouro Verde,Celso Antonio Frare,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Kepler Weber,Christino Aureo Da Silva,Homem preside Conselho,7,1,0.14
+produtivo / industrial,não,Gol,Constantino De Oliveira Junior,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Suzano Holding,David Feffer,Homem preside Conselho,9,1,0.11
+consumo / varejo,não,Igb S/A,Eugênio Emílio Staub,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Apicesecurit,Fernando Cesar Brasileiro,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Litel,Gilmar Dalilo Cezar Wanderley,Homem preside Conselho,4,1,0.25
+produtivo / industrial,não,Uptick,Helder Rocha Falcão,Homem preside Conselho,4,1,0.25
+produtivo / industrial,não,Sondotecnica,Jaime Rotstein,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Patagonia,João Carlos De Nobrega Pecego,Homem preside Conselho,18,1,0.06
+financeiro / holding / participações,não,Xx Novembro,Jomar Monnerat De Carvalho,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Aliperti,José Luiz Aliperti Neto,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Alupar,José Luiz De G. Pereira,Homem preside Conselho,8,1,0.13
+produtivo / industrial,não,Rod Tiete,José Renato Ricciardi,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Sto Antonio,Manoel Aílton Soares Dos Reis,Homem preside Conselho,11,1,0.09
+produtivo / industrial,não,Cremer,Marcelo Guimarães Lopo Lima,Homem preside Conselho,5,1,0.20
+consumo / varejo,não,Guararapes,Nevaldo Rocha,Homem preside Conselho,3,1,0.33
+financeiro / holding / participações,não,Battistella,Odelir Battistella,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Marcopolo,Paulo Cezar Da Silva Nunes,Homem preside Conselho,8,1,0.13
+produtivo / industrial,não,Renova,Paulo Roberto Castellari Porchia,Homem preside Conselho,9,1,0.11
+consumo / varejo,não,Unidas,Pedro Roque De Pinho De Almeida,Homem preside Conselho,9,1,0.11
+produtivo / industrial,não,Triangulosol,Reinaldo Bertin,Homem preside Conselho,8,1,0.13
+produtivo / industrial,não,Rod Colinas,Reinaldo Bertin,Homem preside Conselho,8,1,0.13
+produtivo / industrial,não,Mangels Indl,Robert Max Mangels,Homem preside Conselho,4,1,0.25
+produtivo / industrial,não,Eletropar,Samuel Assayag Hanan,Homem preside Conselho,5,1,0.20
+financeiro / holding / participações,não,Agpart,Sérgio Lins Andrade,Homem preside Conselho,5,1,0.20
+produtivo / industrial,não,Agconcessoes,Sérgio Lins Andrade,Homem preside Conselho,3,1,0.33
+produtivo / industrial,não,Casan,Valter José Gallina,Homem preside Conselho,8,1,0.13
+consumo / varejo,não,Excelsior,Wesley Mendonça Batista,Homem preside Conselho,4,1,0.25
+produtivo / industrial,não,Termopernambuco,​marcus Moreira De Almeida,Homem preside Conselho,7,1,0.14
+produtivo / industrial,sim,Tim Part S/A,Adhemar Gabriel Bahadian,Homem preside Conselho,10,2,0.20
+produtivo / industrial,sim,Ccr Sa,Murilo Cesar Lemos Dos Santos Passos,Homem preside Conselho,11,2,0.18
+produtivo / industrial,sim,Fertilizantes Heringer S.A.,Dalton Dias Heringer,Homem preside Conselho,9,2,0.22
+consumo / varejo,sim,Anima,Daniel Krepel Goldberg,Homem preside Conselho,8,2,0.25
+consumo / varejo,sim,Direcional,Wilson Nélio Brumer,Homem preside Conselho,7,2,0.29
+consumo / varejo,sim,Natura,Guilherme Peirão Leal,Homem preside Conselho,9,2,0.22
+consumo / varejo,sim,Hypermarcas,João Alves De Queiroz Filho,Homem preside Conselho,10,2,0.20
+consumo / varejo,sim,Lojas Renner,Osvaldo Burgos Schirmer*,Homem preside Conselho,8,2,0.25
+produtivo / industrial,não,Brq,Benjamin Ribeiro Quadros,Homem preside Conselho,6,2,0.33
+financeiro / holding / participações,não,Monteiro Aranha,Olavo Egydio Monteiro De Carvalho,Homem preside Conselho,10,2,0.20
+financeiro / holding / participações,não,Bahema,Afranio Affonso Ferreira Neto,Homem preside Conselho,4,2,0.50
+produtivo / industrial,não,Metisa,Flavio Snell,Homem preside Conselho,8,2,0.25
+consumo / varejo,não,Saraiva,Jorge Eduardo Saraiva,Homem preside Conselho,6,2,0.33
+financeiro / holding / participações,não,Mgi Particip,José Afonso Bicalho Beltrão Da Silva,Homem preside Conselho,7,2,0.29
+consumo / varejo,não,Dufry Ag,Juan Carlos Torres Carretero,Homem preside Conselho,9,2,0.22
+financeiro / holding / participações,não,J B Duarte,Laodse Denis De Abreu Duarte,Homem preside Conselho,3,2,0.67
+produtivo / industrial,não,Sanepar,Mauro Ricardo Machado Costa,Homem preside Conselho,9,2,0.22
+produtivo / industrial,não,Viaoeste,Murilo Cesar Lemos Dos Santos Passos,Homem preside Conselho,11,2,0.18
+produtivo / industrial,não,Novadutra,Murilo Cesar Lemos Dos Santos Passos,Homem preside Conselho,11,2,0.18
+produtivo / industrial,não,Autoban,Murilo Cesar Lemos Dos Santos Passos,Homem preside Conselho,11,2,0.18
+financeiro / holding / participações,não,Finansinos,Paulo Cesar Sanvitto,Homem preside Conselho,5,2,0.40
+produtivo / industrial,não,Rt Bandeiras,Paulo De Meira Lins,Homem preside Conselho,4,2,0.50
+consumo / varejo,não,Dohler,Roland Döhler,Homem preside Conselho,7,2,0.29
+financeiro / holding / participações,sim,Wiz,Alexandre Siqueira Monteiro,Homem preside Conselho,10,3,0.30
+consumo / varejo,sim,Arezzo Co,Anderson Lemos Birman,Homem preside Conselho,10,3,0.30
+produtivo / industrial,não,Copel,Mauricio Schulman,Homem preside Conselho,9,3,0.33
+produtivo / industrial,não,Algar Telecom S/A,Divino Sebastião De Souza,Homem preside Conselho,10,3,0.30
+financeiro / holding / participações,não,Atompar,José Joaquim Paifer,Homem preside Conselho,6,3,0.50
+consumo / varejo,não,Santanense,Josué Christiano Gomes Da Silva,Homem preside Conselho,9,4,0.44
+financeiro / holding / participações,não,Octante Sec,Amanda Martinez Pires,Sim, uma mulher é presidente do Conselho,3,1,0.33
+produtivo / industrial,não,Ferbasa,Bárbara Klein De Araújo Carvalho,Sim, uma mulher é presidente do Conselho,7,2,0.29
+produtivo / industrial,não,Aco Altona,Carmen Vetter Werner,Sim, uma mulher é presidente do Conselho,5,2,0.40
+financeiro / holding / participações,não,Cibrasec,Cristiane Magalhães Teixeira Portela,Sim, uma mulher é presidente do Conselho,8,1,0.13
+produtivo / industrial,não,Nordon Metalurgica,Elizabeth Do Rocio De Freitas,Sim, uma mulher é presidente do Conselho,3,1,0.33
+produtivo / industrial,não,Metal Iguacu,Lilian De Payrebrune St.Seve Marins,Sim, uma mulher é presidente do Conselho,3,2,0.67
+produtivo / industrial,sim,Contax,Livia Xavier De Mello,Sim, uma mulher é presidente do Conselho,6,2,0.33
+consumo / varejo,sim,Magazine Luiza,Luiza Helena Trajano Inácio Rodrigues,Sim, uma mulher é presidente do Conselho,7,3,0.43
+financeiro / holding / participações,não,Eletron,Maria Amalia Delfim De Melo Coutrim,Sim, uma mulher é presidente do Conselho,1,1,1.00
+financeiro / holding / participações,não,Sudeste S/A,Maria Amalia Delfim De Melo Coutrim,Sim, uma mulher é presidente do Conselho,1,1,1.00
+financeiro / holding / participações,não,Opgm3B,Maria Amalia Delfim De Melo Coutrim,Sim, uma mulher é presidente do Conselho,1,1,1.00
+financeiro / holding / participações,não,Opportunity Energia,Maria Amalia Delfim De Melo Coutrim,Sim, uma mulher é presidente do Conselho,1,1,1.00
+consumo / varejo,sim,M.Diasbranco,Maria Consuelo Saraiva Leão Dias Branco,Sim, uma mulher é presidente do Conselho,4,2,0.50
+produtivo / industrial,não,Ampla Energia,Maria Patrizia Grieco,Sim, uma mulher é presidente do Conselho,9,3,0.33
+produtivo / industrial,não,Coelce,Maria Patrizia Grieco,Sim, uma mulher é presidente do Conselho,9,3,0.33
+produtivo / industrial,não,Minasmaquina,Maria Stella Gonçalves De Faria,Sim, uma mulher é presidente do Conselho,4,2,0.50
+consumo / varejo,não,Grazziotin,Renata Grazziotin,Sim, uma mulher é presidente do Conselho,6,2,0.33
+produtivo / industrial,sim,Santos Brasil,Verônica Valente Dantas,Sim, uma mulher é presidente do Conselho,7,2,0.29
+produtivo / industrial,não,Santos Brasil,Verônica Valente Dantas,Sim, uma mulher é presidente do Conselho,7,2,0.29
