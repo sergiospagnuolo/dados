@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700&display=swap');
+
+body {
+    margin: 0 auto;
+    padding: 2%;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #241F21;
+    text-align: left;
+    background-color: #fff;
+}
+
+h1, h2, h3{
+  color: #ADBD30;
+  font-weight: 700
+}
+
+h4, h5 {
+  color: #241F21;
+  font-weight: 300;
+}
+
+a {
+  color: #ADBD30;
+}
+
+a:hover {
+  color: #241F21;
+}
